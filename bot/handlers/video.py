@@ -6,8 +6,12 @@ from aiogram.types import FSInputFile, Message
 from bot.config import TMP_DIR
 from bot.services.gif_overlay import GifOverlayError, add_gif_overlay
 from bot.services.music import MusicMixError, add_background_music
-from bot.services.remotion_renderer import RemotionRenderError, add_caption
-from bot.services.subtitles import burn_subtitles
+from bot.services.remotion_renderer import (
+    RemotionRenderError,
+    add_caption,
+    add_word_subtitles,
+)
+from bot.services.subtitles import transcribe_words
 from bot.services.video_processor import VideoProcessingError, to_reels_format
 
 router = Router()
@@ -54,7 +58,9 @@ async def handle_video(message: Message) -> None:
             await add_caption(result_path, captioned_path, caption)
             result_path = captioned_path
 
-        if await burn_subtitles(result_path, subtitled_path):
+        words = await transcribe_words(source_path)
+        if words:
+            await add_word_subtitles(result_path, subtitled_path, words)
             result_path = subtitled_path
 
         if await add_gif_overlay(result_path, gif_path, query=caption):
