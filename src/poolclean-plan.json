@@ -1,0 +1,399 @@
+{
+  "words": {
+    "pc1": [
+      {
+        "text": "и",
+        "startMs": 0,
+        "endMs": 80
+      },
+      {
+        "text": "так",
+        "startMs": 80,
+        "endMs": 390
+      },
+      {
+        "text": "друзья",
+        "startMs": 390,
+        "endMs": 790
+      },
+      {
+        "text": "коротко",
+        "startMs": 790,
+        "endMs": 1410
+      },
+      {
+        "text": "о",
+        "startMs": 1410,
+        "endMs": 1460
+      },
+      {
+        "text": "том",
+        "startMs": 1460,
+        "endMs": 1740
+      },
+      {
+        "text": "как",
+        "startMs": 1740,
+        "endMs": 1890
+      },
+      {
+        "text": "чистить",
+        "startMs": 1890,
+        "endMs": 2480
+      },
+      {
+        "text": "бассейн",
+        "startMs": 2480,
+        "endMs": 3230
+      },
+      {
+        "text": "вот",
+        "startMs": 3230,
+        "endMs": 3610
+      },
+      {
+        "text": "так",
+        "startMs": 3610,
+        "endMs": 3980
+      },
+      {
+        "text": "подключаем",
+        "startMs": 3980,
+        "endMs": 5210
+      },
+      {
+        "text": "в",
+        "startMs": 5210,
+        "endMs": 5360
+      },
+      {
+        "text": "розетку",
+        "startMs": 5360,
+        "endMs": 7560
+      }
+    ],
+    "pc2": [
+      {
+        "text": "Вот",
+        "startMs": 0,
+        "endMs": 210
+      },
+      {
+        "text": "так",
+        "startMs": 210,
+        "endMs": 420
+      },
+      {
+        "text": "подключаем",
+        "startMs": 420,
+        "endMs": 1120
+      },
+      {
+        "text": "робот-пылесос",
+        "startMs": 1120,
+        "endMs": 2060
+      },
+      {
+        "text": "в",
+        "startMs": 2060,
+        "endMs": 2070
+      },
+      {
+        "text": "розетку",
+        "startMs": 2070,
+        "endMs": 2560
+      },
+      {
+        "text": "для",
+        "startMs": 2560,
+        "endMs": 2770
+      },
+      {
+        "text": "очистки",
+        "startMs": 2770,
+        "endMs": 3330
+      },
+      {
+        "text": "бассейна",
+        "startMs": 3330,
+        "endMs": 3850
+      },
+      {
+        "text": "и",
+        "startMs": 3850,
+        "endMs": 3960
+      },
+      {
+        "text": "он",
+        "startMs": 3960,
+        "endMs": 4200
+      },
+      {
+        "text": "начнет",
+        "startMs": 4200,
+        "endMs": 5510
+      },
+      {
+        "text": "делать",
+        "startMs": 5510,
+        "endMs": 5670
+      },
+      {
+        "text": "свое",
+        "startMs": 5670,
+        "endMs": 6160
+      },
+      {
+        "text": "дело",
+        "startMs": 6160,
+        "endMs": 6680
+      }
+    ],
+    "pc3": [
+      {
+        "text": "все",
+        "startMs": 180,
+        "endMs": 450
+      },
+      {
+        "text": "программу",
+        "startMs": 450,
+        "endMs": 1890
+      },
+      {
+        "text": "на",
+        "startMs": 1890,
+        "endMs": 2110
+      },
+      {
+        "text": "два",
+        "startMs": 2110,
+        "endMs": 2560
+      },
+      {
+        "text": "часа",
+        "startMs": 2560,
+        "endMs": 3160
+      },
+      {
+        "text": "запускаем",
+        "startMs": 3160,
+        "endMs": 4570
+      },
+      {
+        "text": "да",
+        "startMs": 4570,
+        "endMs": 5090
+      },
+      {
+        "text": "да",
+        "startMs": 5090,
+        "endMs": 5580
+      },
+      {
+        "text": "потихоньку",
+        "startMs": 5580,
+        "endMs": 6550
+      },
+      {
+        "text": "вот",
+        "startMs": 6550,
+        "endMs": 6750
+      },
+      {
+        "text": "так",
+        "startMs": 6750,
+        "endMs": 7060
+      },
+      {
+        "text": "ездит",
+        "startMs": 7060,
+        "endMs": 7600
+      },
+      {
+        "text": "прочищает",
+        "startMs": 7600,
+        "endMs": 9540
+      },
+      {
+        "text": "самостоятельно",
+        "startMs": 9540,
+        "endMs": 11140
+      },
+      {
+        "text": "все",
+        "startMs": 11140,
+        "endMs": 11480
+      },
+      {
+        "text": "делает",
+        "startMs": 11480,
+        "endMs": 12170
+      },
+      {
+        "text": "просто",
+        "startMs": 12170,
+        "endMs": 12860
+      },
+      {
+        "text": "отдыхаем",
+        "startMs": 12860,
+        "endMs": 13770
+      },
+      {
+        "text": "наслаждаемся",
+        "startMs": 13770,
+        "endMs": 15220
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "pool-clean",
+      "title": "Как чистить бассейн",
+      "music": "music6.mp3",
+      "series": {
+        "title": "КАК ЧИСТИТЬ\nБАССЕЙН",
+        "location": "Новосибирск",
+        "sub": "Лайфхак от прораба"
+      },
+      "outro": {
+        "title": "БАССЕЙНЫ\nПОД КЛЮЧ",
+        "sub": "Два прораба · Новосибирск",
+        "cta": "Пиши в директ"
+      },
+      "accents": [
+        {
+          "atMs": 2000,
+          "durMs": 1600,
+          "mag": 0.1
+        },
+        {
+          "atMs": 5200,
+          "durMs": 1800,
+          "mag": 0.12
+        },
+        {
+          "atMs": 7410,
+          "durMs": 1700,
+          "mag": 0.13
+        },
+        {
+          "atMs": 15690,
+          "durMs": 1600,
+          "mag": 0.11
+        },
+        {
+          "atMs": 20490,
+          "durMs": 2200,
+          "mag": 0.12
+        },
+        {
+          "atMs": 25690,
+          "durMs": 1800,
+          "mag": 0.1
+        }
+      ],
+      "gifs": [
+        {
+          "src": "pool2",
+          "atMs": 7510,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "робот-пылесос"
+        },
+        {
+          "src": "timer2",
+          "atMs": 14890,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "2 часа"
+        },
+        {
+          "src": "sparkle2",
+          "atMs": 20290,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 220,
+          "label": "чисто"
+        },
+        {
+          "src": "sleep2",
+          "atMs": 25390,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "отдыхаем"
+        }
+      ],
+      "items": [
+        {
+          "clip": "pc1",
+          "fromMs": 0,
+          "toMs": 7560,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "pc2",
+          "fromMs": 1050,
+          "toMs": 6680,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "pc3",
+          "fromMs": 0,
+          "toMs": 15220,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": 15300
+        },
+        {
+          "clip": "pc3",
+          "fromMs": 6000,
+          "toMs": 12500,
+          "rate": 0.5,
+          "volume": 0,
+          "slow": true,
+          "sfx": null,
+          "captionToMs": 0
+        },
+        {
+          "clip": "pc2",
+          "fromMs": 3600,
+          "toMs": 6680,
+          "rate": 0.6,
+          "volume": 0,
+          "slow": true,
+          "sfx": null,
+          "captionToMs": 0
+        },
+        {
+          "clip": "pc1",
+          "fromMs": 3900,
+          "toMs": 7200,
+          "rate": 0.55,
+          "volume": 0,
+          "slow": true,
+          "sfx": null,
+          "captionToMs": 0
+        }
+      ]
+    }
+  ]
+}

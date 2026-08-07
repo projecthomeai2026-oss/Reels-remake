@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Во",
+    "startMs": 0,
+    "endMs": 340,
+    "timestampMs": 460,
+    "confidence": 0.704216
+  },
+  {
+    "text": " второй",
+    "startMs": 340,
+    "endMs": 680,
+    "timestampMs": 740,
+    "confidence": 0.848294
+  },
+  {
+    "text": " сп",
+    "startMs": 680,
+    "endMs": 850,
+    "timestampMs": 1040,
+    "confidence": 0.964458
+  },
+  {
+    "text": "аль",
+    "startMs": 850,
+    "endMs": 1100,
+    "timestampMs": 1100,
+    "confidence": 0.973953
+  },
+  {
+    "text": "не",
+    "startMs": 1100,
+    "endMs": 1260,
+    "timestampMs": 1200,
+    "confidence": 0.99149
+  },
+  {
+    "text": " док",
+    "startMs": 1260,
+    "endMs": 1520,
+    "timestampMs": 1460,
+    "confidence": 0.867111
+  },
+  {
+    "text": "лад",
+    "startMs": 1520,
+    "endMs": 1770,
+    "timestampMs": 1620,
+    "confidence": 0.999514
+  },
+  {
+    "text": "ыв",
+    "startMs": 1770,
+    "endMs": 1940,
+    "timestampMs": 1780,
+    "confidence": 0.832158
+  },
+  {
+    "text": "аю",
+    "startMs": 1940,
+    "endMs": 2110,
+    "timestampMs": 1860,
+    "confidence": 0.986344
+  },
+  {
+    "text": " пл",
+    "startMs": 2110,
+    "endMs": 2280,
+    "timestampMs": 2120,
+    "confidence": 0.371373
+  },
+  {
+    "text": "ит",
+    "startMs": 2280,
+    "endMs": 2450,
+    "timestampMs": 2260,
+    "confidence": 0.981047
+  },
+  {
+    "text": "ку",
+    "startMs": 2450,
+    "endMs": 2660,
+    "timestampMs": 2580,
+    "confidence": 0.998946
+  },
+  {
+    "text": ".",
+    "startMs": 2660,
+    "endMs": 2680,
+    "timestampMs": 2660,
+    "confidence": 0.740035
+  },
+  {
+    "text": " Пр",
+    "startMs": 2680,
+    "endMs": 2790,
+    "timestampMs": 3760,
+    "confidence": 0.0101831
+  },
+  {
+    "text": "од",
+    "startMs": 2790,
+    "endMs": 2900,
+    "timestampMs": 3760,
+    "confidence": 0.894707
+  },
+  {
+    "text": "олж",
+    "startMs": 2900,
+    "endMs": 3060,
+    "timestampMs": 3760,
+    "confidence": 0.953656
+  },
+  {
+    "text": "ение",
+    "startMs": 3060,
+    "endMs": 3280,
+    "timestampMs": 3760,
+    "confidence": 0.908992
+  },
+  {
+    "text": " след",
+    "startMs": 3280,
+    "endMs": 3500,
+    "timestampMs": 3760,
+    "confidence": 0.3944
+  },
+  {
+    "text": "ует",
+    "startMs": 3500,
+    "endMs": 3680,
+    "timestampMs": 3760,
+    "confidence": 0.996873
+  },
+  {
+    "text": "...",
+    "startMs": 3680,
+    "endMs": 4680,
+    "timestampMs": 3760,
+    "confidence": 0.491037
+  }
+]

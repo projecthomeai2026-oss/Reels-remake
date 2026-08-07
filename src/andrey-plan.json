@@ -1,0 +1,757 @@
+{
+  "words": {
+    "andrey-houses": [
+      {
+        "text": "давай",
+        "startMs": 0,
+        "endMs": 950
+      },
+      {
+        "text": "еще",
+        "startMs": 950,
+        "endMs": 1430
+      },
+      {
+        "text": "раз",
+        "startMs": 1430,
+        "endMs": 1990
+      },
+      {
+        "text": "друзья",
+        "startMs": 1990,
+        "endMs": 2970
+      },
+      {
+        "text": "всем",
+        "startMs": 2970,
+        "endMs": 3050
+      },
+      {
+        "text": "привет",
+        "startMs": 3050,
+        "endMs": 3680
+      },
+      {
+        "text": "ну",
+        "startMs": 3680,
+        "endMs": 3900
+      },
+      {
+        "text": "что",
+        "startMs": 3900,
+        "endMs": 4050
+      },
+      {
+        "text": "настал",
+        "startMs": 4050,
+        "endMs": 4350
+      },
+      {
+        "text": "тот",
+        "startMs": 4350,
+        "endMs": 4580
+      },
+      {
+        "text": "самый",
+        "startMs": 4580,
+        "endMs": 4770
+      },
+      {
+        "text": "день",
+        "startMs": 4770,
+        "endMs": 5000
+      },
+      {
+        "text": "я",
+        "startMs": 5000,
+        "endMs": 5160
+      },
+      {
+        "text": "сегодня",
+        "startMs": 5160,
+        "endMs": 5460
+      },
+      {
+        "text": "приглашаю",
+        "startMs": 5460,
+        "endMs": 5970
+      },
+      {
+        "text": "вас",
+        "startMs": 5970,
+        "endMs": 6240
+      },
+      {
+        "text": "на",
+        "startMs": 6240,
+        "endMs": 6270
+      },
+      {
+        "text": "выставку",
+        "startMs": 6270,
+        "endMs": 6760
+      },
+      {
+        "text": "загорода",
+        "startMs": 6760,
+        "endMs": 7180
+      },
+      {
+        "text": "недвижимости",
+        "startMs": 7180,
+        "endMs": 7930
+      },
+      {
+        "text": "во",
+        "startMs": 7930,
+        "endMs": 7990
+      },
+      {
+        "text": "freedom",
+        "startMs": 7990,
+        "endMs": 8190
+      },
+      {
+        "text": "village",
+        "startMs": 8190,
+        "endMs": 8530
+      },
+      {
+        "text": "на",
+        "startMs": 8530,
+        "endMs": 8880
+      },
+      {
+        "text": "территории",
+        "startMs": 8880,
+        "endMs": 9260
+      },
+      {
+        "text": "freedom",
+        "startMs": 9260,
+        "endMs": 9510
+      },
+      {
+        "text": "village",
+        "startMs": 9510,
+        "endMs": 9800
+      },
+      {
+        "text": "располагается",
+        "startMs": 9800,
+        "endMs": 10680
+      },
+      {
+        "text": "выставка",
+        "startMs": 10680,
+        "endMs": 11230
+      },
+      {
+        "text": "open",
+        "startMs": 11230,
+        "endMs": 11370
+      },
+      {
+        "text": "village",
+        "startMs": 11370,
+        "endMs": 11760
+      },
+      {
+        "text": "где",
+        "startMs": 11760,
+        "endMs": 11830
+      },
+      {
+        "text": "у",
+        "startMs": 11830,
+        "endMs": 11900
+      },
+      {
+        "text": "нас",
+        "startMs": 11900,
+        "endMs": 12340
+      },
+      {
+        "text": "предоставлены",
+        "startMs": 12340,
+        "endMs": 12840
+      },
+      {
+        "text": "уже",
+        "startMs": 12840,
+        "endMs": 13060
+      },
+      {
+        "text": "13",
+        "startMs": 13060,
+        "endMs": 13940
+      },
+      {
+        "text": "домовладений",
+        "startMs": 13940,
+        "endMs": 14720
+      },
+      {
+        "text": "с",
+        "startMs": 14720,
+        "endMs": 14790
+      },
+      {
+        "text": "ремонтами",
+        "startMs": 14790,
+        "endMs": 15370
+      },
+      {
+        "text": "с",
+        "startMs": 15370,
+        "endMs": 15430
+      },
+      {
+        "text": "мебелью",
+        "startMs": 15430,
+        "endMs": 15880
+      },
+      {
+        "text": "с",
+        "startMs": 15880,
+        "endMs": 15940
+      },
+      {
+        "text": "террасами",
+        "startMs": 15940,
+        "endMs": 16880
+      },
+      {
+        "text": "дополнительно",
+        "startMs": 16880,
+        "endMs": 17250
+      },
+      {
+        "text": "у",
+        "startMs": 17250,
+        "endMs": 17290
+      },
+      {
+        "text": "нас",
+        "startMs": 17290,
+        "endMs": 17430
+      },
+      {
+        "text": "есть",
+        "startMs": 17430,
+        "endMs": 17700
+      },
+      {
+        "text": "бассейны",
+        "startMs": 17700,
+        "endMs": 18180
+      },
+      {
+        "text": "бани",
+        "startMs": 18180,
+        "endMs": 18550
+      },
+      {
+        "text": "беседки",
+        "startMs": 18550,
+        "endMs": 19190
+      },
+      {
+        "text": "все",
+        "startMs": 19190,
+        "endMs": 19460
+      },
+      {
+        "text": "увидите",
+        "startMs": 19460,
+        "endMs": 20170
+      },
+      {
+        "text": "все",
+        "startMs": 20170,
+        "endMs": 20400
+      },
+      {
+        "text": "в",
+        "startMs": 20400,
+        "endMs": 20580
+      },
+      {
+        "text": "диком",
+        "startMs": 20580,
+        "endMs": 21030
+      },
+      {
+        "text": "стиле",
+        "startMs": 21030,
+        "endMs": 21520
+      },
+      {
+        "text": "в",
+        "startMs": 21520,
+        "endMs": 21590
+      },
+      {
+        "text": "высочайшем",
+        "startMs": 21590,
+        "endMs": 22560
+      },
+      {
+        "text": "качестве",
+        "startMs": 22560,
+        "endMs": 22950
+      },
+      {
+        "text": "за",
+        "startMs": 22950,
+        "endMs": 23370
+      },
+      {
+        "text": "мной",
+        "startMs": 23370,
+        "endMs": 23580
+      },
+      {
+        "text": "стоит",
+        "startMs": 23580,
+        "endMs": 23910
+      },
+      {
+        "text": "также",
+        "startMs": 23910,
+        "endMs": 24240
+      },
+      {
+        "text": "многоквартирные",
+        "startMs": 24370,
+        "endMs": 25030
+      },
+      {
+        "text": "дома",
+        "startMs": 25030,
+        "endMs": 25300
+      },
+      {
+        "text": "двух",
+        "startMs": 25300,
+        "endMs": 25730
+      },
+      {
+        "text": "подъездных",
+        "startMs": 25730,
+        "endMs": 26230
+      },
+      {
+        "text": "четырех",
+        "startMs": 26230,
+        "endMs": 26740
+      },
+      {
+        "text": "этажей",
+        "startMs": 26740,
+        "endMs": 27180
+      },
+      {
+        "text": "с",
+        "startMs": 27180,
+        "endMs": 27300
+      },
+      {
+        "text": "террасами",
+        "startMs": 27300,
+        "endMs": 27740
+      },
+      {
+        "text": "с",
+        "startMs": 27740,
+        "endMs": 28020
+      },
+      {
+        "text": "ремонтами",
+        "startMs": 28070,
+        "endMs": 28640
+      },
+      {
+        "text": "с",
+        "startMs": 28640,
+        "endMs": 28720
+      },
+      {
+        "text": "мебелью",
+        "startMs": 28720,
+        "endMs": 29220
+      },
+      {
+        "text": "который",
+        "startMs": 29220,
+        "endMs": 29710
+      },
+      {
+        "text": "также",
+        "startMs": 29710,
+        "endMs": 30050
+      },
+      {
+        "text": "можно",
+        "startMs": 30050,
+        "endMs": 30400
+      },
+      {
+        "text": "купить",
+        "startMs": 30400,
+        "endMs": 30880
+      },
+      {
+        "text": "от",
+        "startMs": 30880,
+        "endMs": 30960
+      },
+      {
+        "text": "30",
+        "startMs": 30960,
+        "endMs": 31220
+      },
+      {
+        "text": "до",
+        "startMs": 31220,
+        "endMs": 31310
+      },
+      {
+        "text": "87",
+        "startMs": 31310,
+        "endMs": 31540
+      },
+      {
+        "text": "квадратов",
+        "startMs": 31540,
+        "endMs": 31960
+      },
+      {
+        "text": "торопитесь",
+        "startMs": 31960,
+        "endMs": 32570
+      },
+      {
+        "text": "квартир",
+        "startMs": 32570,
+        "endMs": 33000
+      },
+      {
+        "text": "осталось",
+        "startMs": 33000,
+        "endMs": 33440
+      },
+      {
+        "text": "совсем",
+        "startMs": 33440,
+        "endMs": 33660
+      },
+      {
+        "text": "немного",
+        "startMs": 33660,
+        "endMs": 34070
+      },
+      {
+        "text": "и",
+        "startMs": 34070,
+        "endMs": 34150
+      },
+      {
+        "text": "слева",
+        "startMs": 34150,
+        "endMs": 34470
+      },
+      {
+        "text": "от",
+        "startMs": 34470,
+        "endMs": 34570
+      },
+      {
+        "text": "меня",
+        "startMs": 34570,
+        "endMs": 34810
+      },
+      {
+        "text": "находятся",
+        "startMs": 34810,
+        "endMs": 35420
+      },
+      {
+        "text": "шатеры",
+        "startMs": 35420,
+        "endMs": 35840
+      },
+      {
+        "text": "где",
+        "startMs": 35840,
+        "endMs": 35900
+      },
+      {
+        "text": "предоставлены",
+        "startMs": 35900,
+        "endMs": 36760
+      },
+      {
+        "text": "будут",
+        "startMs": 36760,
+        "endMs": 37240
+      },
+      {
+        "text": "наши",
+        "startMs": 37240,
+        "endMs": 37360
+      },
+      {
+        "text": "партнеры",
+        "startMs": 37360,
+        "endMs": 37880
+      },
+      {
+        "text": "просто",
+        "startMs": 37880,
+        "endMs": 38280
+      },
+      {
+        "text": "70",
+        "startMs": 38280,
+        "endMs": 38520
+      },
+      {
+        "text": "организаций",
+        "startMs": 38520,
+        "endMs": 39680
+      },
+      {
+        "text": "которые",
+        "startMs": 39680,
+        "endMs": 39990
+      },
+      {
+        "text": "предоставят",
+        "startMs": 39990,
+        "endMs": 40440
+      },
+      {
+        "text": "свои",
+        "startMs": 40440,
+        "endMs": 40780
+      },
+      {
+        "text": "товары",
+        "startMs": 40780,
+        "endMs": 41300
+      },
+      {
+        "text": "свои",
+        "startMs": 41300,
+        "endMs": 41650
+      },
+      {
+        "text": "оборудование",
+        "startMs": 41650,
+        "endMs": 42670
+      },
+      {
+        "text": "все",
+        "startMs": 42670,
+        "endMs": 43020
+      },
+      {
+        "text": "тоже",
+        "startMs": 43020,
+        "endMs": 43300
+      },
+      {
+        "text": "по",
+        "startMs": 43300,
+        "endMs": 43440
+      },
+      {
+        "text": "последнему",
+        "startMs": 43440,
+        "endMs": 44360
+      },
+      {
+        "text": "слову",
+        "startMs": 44360,
+        "endMs": 44400
+      },
+      {
+        "text": "техники",
+        "startMs": 44400,
+        "endMs": 45120
+      },
+      {
+        "text": "вы",
+        "startMs": 45120,
+        "endMs": 45520
+      },
+      {
+        "text": "увидите",
+        "startMs": 45520,
+        "endMs": 45990
+      },
+      {
+        "text": "что",
+        "startMs": 45990,
+        "endMs": 46280
+      },
+      {
+        "text": "из",
+        "startMs": 46280,
+        "endMs": 46320
+      },
+      {
+        "text": "чего",
+        "startMs": 46320,
+        "endMs": 46590
+      },
+      {
+        "text": "строится",
+        "startMs": 46590,
+        "endMs": 47140
+      },
+      {
+        "text": "какие-то",
+        "startMs": 47140,
+        "endMs": 47630
+      },
+      {
+        "text": "для",
+        "startMs": 47630,
+        "endMs": 47860
+      },
+      {
+        "text": "себя",
+        "startMs": 47860,
+        "endMs": 48410
+      },
+      {
+        "text": "увидите",
+        "startMs": 48410,
+        "endMs": 48930
+      },
+      {
+        "text": "товары",
+        "startMs": 48930,
+        "endMs": 49350
+      },
+      {
+        "text": "в",
+        "startMs": 49350,
+        "endMs": 49350
+      },
+      {
+        "text": "общем",
+        "startMs": 49350,
+        "endMs": 49620
+      },
+      {
+        "text": "всех",
+        "startMs": 49620,
+        "endMs": 49920
+      },
+      {
+        "text": "ждем",
+        "startMs": 49920,
+        "endMs": 50560
+      },
+      {
+        "text": "завтра",
+        "startMs": 50560,
+        "endMs": 51520
+      },
+      {
+        "text": "начало",
+        "startMs": 51520,
+        "endMs": 52450
+      },
+      {
+        "text": "30",
+        "startMs": 52450,
+        "endMs": 52960
+      },
+      {
+        "text": "число",
+        "startMs": 52960,
+        "endMs": 53820
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "andrey-village",
+      "title": "Приглашение на выставку домов · Open Village",
+      "music": "music5.mp3",
+      "series": {
+        "title": "OPEN\nVILLAGE",
+        "location": "Freedom Village",
+        "sub": "Выставка загородной недвижимости"
+      },
+      "accents": [
+        {
+          "atMs": 12100,
+          "durMs": 2600
+        },
+        {
+          "atMs": 30100,
+          "durMs": 2200
+        },
+        {
+          "atMs": 50300,
+          "durMs": 1500,
+          "mag": 0.28
+        }
+      ],
+      "gifs": [
+        {
+          "src": "house2",
+          "atMs": 12100,
+          "durMs": 3000,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 210,
+          "label": "13 домов"
+        },
+        {
+          "src": "fire2",
+          "atMs": 18700,
+          "durMs": 2200,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 200
+        },
+        {
+          "src": "timer2",
+          "atMs": 30100,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 210,
+          "label": "успей"
+        },
+        {
+          "src": "rocket2",
+          "atMs": 48700,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "старт 30"
+        }
+      ],
+      "items": [
+        {
+          "clip": "andrey-houses",
+          "fromMs": 1900,
+          "toMs": 53700,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "text": "Легкая",
+    "startMs": 0,
+    "endMs": 1180
+  },
+  {
+    "text": "подсказка",
+    "startMs": 1180,
+    "endMs": 3000
+  },
+  {
+    "text": "Ну",
+    "startMs": 3000,
+    "endMs": 3640
+  },
+  {
+    "text": "конечно",
+    "startMs": 3640,
+    "endMs": 4170
+  },
+  {
+    "text": "же",
+    "startMs": 4170,
+    "endMs": 4430
+  },
+  {
+    "text": "бассейн",
+    "startMs": 4430,
+    "endMs": 5340
+  },
+  {
+    "text": "здесь",
+    "startMs": 5340,
+    "endMs": 6000
+  },
+  {
+    "text": "будет",
+    "startMs": 6000,
+    "endMs": 6180
+  },
+  {
+    "text": "классный",
+    "startMs": 6180,
+    "endMs": 6460
+  },
+  {
+    "text": "большой",
+    "startMs": 6460,
+    "endMs": 6710
+  },
+  {
+    "text": "бассейн",
+    "startMs": 6710,
+    "endMs": 7000
+  }
+]

@@ -1,0 +1,786 @@
+{
+  "words": {
+    "p80g": [
+      {
+        "text": "Так,",
+        "startMs": 60,
+        "endMs": 300
+      },
+      {
+        "text": "ну",
+        "startMs": 300,
+        "endMs": 460
+      },
+      {
+        "text": "что,",
+        "startMs": 460,
+        "endMs": 750
+      },
+      {
+        "text": "бассейн",
+        "startMs": 750,
+        "endMs": 1270
+      },
+      {
+        "text": "у",
+        "startMs": 1270,
+        "endMs": 1340
+      },
+      {
+        "text": "нас",
+        "startMs": 1340,
+        "endMs": 1590
+      },
+      {
+        "text": "готов.",
+        "startMs": 1590,
+        "endMs": 2100
+      },
+      {
+        "text": "Я",
+        "startMs": 2100,
+        "endMs": 2170
+      },
+      {
+        "text": "обещал",
+        "startMs": 2170,
+        "endMs": 2600
+      },
+      {
+        "text": "показать",
+        "startMs": 2600,
+        "endMs": 3000
+      },
+      {
+        "text": "готовый",
+        "startMs": 3000,
+        "endMs": 3490
+      },
+      {
+        "text": "бассейн.",
+        "startMs": 3490,
+        "endMs": 4090
+      },
+      {
+        "text": "Вот",
+        "startMs": 4090,
+        "endMs": 4280
+      },
+      {
+        "text": "он.",
+        "startMs": 4280,
+        "endMs": 4510
+      },
+      {
+        "text": "Тут",
+        "startMs": 4510,
+        "endMs": 4770
+      },
+      {
+        "text": "второй",
+        "startMs": 4770,
+        "endMs": 4960
+      },
+      {
+        "text": "вопрос.",
+        "startMs": 4960,
+        "endMs": 5380
+      },
+      {
+        "text": "Вопрос",
+        "startMs": 5380,
+        "endMs": 5730
+      },
+      {
+        "text": "от",
+        "startMs": 5730,
+        "endMs": 5800
+      },
+      {
+        "text": "чистки.",
+        "startMs": 5800,
+        "endMs": 6420
+      },
+      {
+        "text": "Как",
+        "startMs": 6420,
+        "endMs": 6620
+      },
+      {
+        "text": "мы",
+        "startMs": 6620,
+        "endMs": 6660
+      },
+      {
+        "text": "это",
+        "startMs": 6660,
+        "endMs": 6860
+      },
+      {
+        "text": "делаем?",
+        "startMs": 6860,
+        "endMs": 7580
+      },
+      {
+        "text": "Покупаем",
+        "startMs": 7580,
+        "endMs": 8140
+      },
+      {
+        "text": "вот",
+        "startMs": 8140,
+        "endMs": 8350
+      },
+      {
+        "text": "такой",
+        "startMs": 8350,
+        "endMs": 8710
+      },
+      {
+        "text": "пылесосик.",
+        "startMs": 8710,
+        "endMs": 9560
+      },
+      {
+        "text": "Я",
+        "startMs": 9560,
+        "endMs": 9560
+      },
+      {
+        "text": "отмечу",
+        "startMs": 9560,
+        "endMs": 9980
+      },
+      {
+        "text": "наших",
+        "startMs": 9980,
+        "endMs": 10350
+      },
+      {
+        "text": "партнеров.",
+        "startMs": 10350,
+        "endMs": 11120
+      },
+      {
+        "text": "Им",
+        "startMs": 11120,
+        "endMs": 11240
+      },
+      {
+        "text": "будете",
+        "startMs": 11240,
+        "endMs": 11690
+      },
+      {
+        "text": "писать",
+        "startMs": 11690,
+        "endMs": 12150
+      },
+      {
+        "text": "по",
+        "startMs": 12150,
+        "endMs": 12270
+      },
+      {
+        "text": "всей",
+        "startMs": 12270,
+        "endMs": 12560
+      },
+      {
+        "text": "стоимости",
+        "startMs": 12560,
+        "endMs": 13260
+      },
+      {
+        "text": "и",
+        "startMs": 13260,
+        "endMs": 13580
+      },
+      {
+        "text": "так",
+        "startMs": 13580,
+        "endMs": 13820
+      },
+      {
+        "text": "далее.",
+        "startMs": 13820,
+        "endMs": 14580
+      },
+      {
+        "text": "Вот",
+        "startMs": 14580,
+        "endMs": 15080
+      },
+      {
+        "text": "так",
+        "startMs": 15080,
+        "endMs": 15260
+      },
+      {
+        "text": "его",
+        "startMs": 15260,
+        "endMs": 15600
+      },
+      {
+        "text": "врубаем.",
+        "startMs": 15600,
+        "endMs": 16600
+      },
+      {
+        "text": "Отпускаем.",
+        "startMs": 16600,
+        "endMs": 19010
+      },
+      {
+        "text": "Программа",
+        "startMs": 19010,
+        "endMs": 19470
+      },
+      {
+        "text": "два",
+        "startMs": 19470,
+        "endMs": 19670
+      },
+      {
+        "text": "часа",
+        "startMs": 19670,
+        "endMs": 19940
+      },
+      {
+        "text": "длится.",
+        "startMs": 19940,
+        "endMs": 20520
+      },
+      {
+        "text": "Он",
+        "startMs": 20520,
+        "endMs": 20650
+      },
+      {
+        "text": "сам",
+        "startMs": 20650,
+        "endMs": 20850
+      },
+      {
+        "text": "погружается",
+        "startMs": 20850,
+        "endMs": 21570
+      },
+      {
+        "text": "и",
+        "startMs": 21570,
+        "endMs": 21640
+      },
+      {
+        "text": "полностью",
+        "startMs": 21640,
+        "endMs": 22240
+      },
+      {
+        "text": "ездит,",
+        "startMs": 22240,
+        "endMs": 22690
+      },
+      {
+        "text": "все",
+        "startMs": 22690,
+        "endMs": 22820
+      },
+      {
+        "text": "чистит.",
+        "startMs": 22820,
+        "endMs": 23180
+      },
+      {
+        "text": "Весь",
+        "startMs": 23230,
+        "endMs": 23690
+      },
+      {
+        "text": "наш",
+        "startMs": 23690,
+        "endMs": 23950
+      },
+      {
+        "text": "прекрасный",
+        "startMs": 23950,
+        "endMs": 25160
+      },
+      {
+        "text": "бассейн.",
+        "startMs": 25160,
+        "endMs": 26090
+      },
+      {
+        "text": "Поэтому",
+        "startMs": 26090,
+        "endMs": 27090
+      },
+      {
+        "text": "партнеров",
+        "startMs": 27090,
+        "endMs": 27850
+      },
+      {
+        "text": "отмечаю.",
+        "startMs": 27850,
+        "endMs": 28780
+      },
+      {
+        "text": "Все",
+        "startMs": 28780,
+        "endMs": 29880
+      },
+      {
+        "text": "вопросы",
+        "startMs": 29880,
+        "endMs": 29900
+      },
+      {
+        "text": "пишем",
+        "startMs": 29900,
+        "endMs": 30340
+      },
+      {
+        "text": "им.",
+        "startMs": 30340,
+        "endMs": 30900
+      }
+    ],
+    "p84g": [
+      {
+        "text": "Валерий,",
+        "startMs": 0,
+        "endMs": 510
+      },
+      {
+        "text": "ты",
+        "startMs": 510,
+        "endMs": 640
+      },
+      {
+        "text": "не",
+        "startMs": 640,
+        "endMs": 770
+      },
+      {
+        "text": "можешь,",
+        "startMs": 770,
+        "endMs": 1220
+      },
+      {
+        "text": "ты",
+        "startMs": 1220,
+        "endMs": 1350
+      },
+      {
+        "text": "не",
+        "startMs": 1350,
+        "endMs": 1480
+      },
+      {
+        "text": "можешь.",
+        "startMs": 1480,
+        "endMs": 2000
+      },
+      {
+        "text": "Валерий,",
+        "startMs": 2000,
+        "endMs": 7840
+      },
+      {
+        "text": "заходи,",
+        "startMs": 7840,
+        "endMs": 12950
+      },
+      {
+        "text": "пожалуйста,",
+        "startMs": 12950,
+        "endMs": 21000
+      },
+      {
+        "text": "там",
+        "startMs": 21000,
+        "endMs": 21170
+      },
+      {
+        "text": "клиентов",
+        "startMs": 21170,
+        "endMs": 21630
+      },
+      {
+        "text": "вопрос",
+        "startMs": 21630,
+        "endMs": 22010
+      },
+      {
+        "text": "по",
+        "startMs": 22010,
+        "endMs": 22160
+      },
+      {
+        "text": "поводу",
+        "startMs": 22160,
+        "endMs": 22560
+      },
+      {
+        "text": "домов.",
+        "startMs": 22560,
+        "endMs": 23000
+      },
+      {
+        "text": "Ага,",
+        "startMs": 23000,
+        "endMs": 24720
+      },
+      {
+        "text": "сейчас,",
+        "startMs": 24720,
+        "endMs": 27750
+      },
+      {
+        "text": "туда",
+        "startMs": 27750,
+        "endMs": 29480
+      },
+      {
+        "text": "у",
+        "startMs": 29480,
+        "endMs": 29900
+      },
+      {
+        "text": "коллега.",
+        "startMs": 29900,
+        "endMs": 33000
+      },
+      {
+        "text": "Ну",
+        "startMs": 33000,
+        "endMs": 34050
+      },
+      {
+        "text": "что,",
+        "startMs": 34050,
+        "endMs": 36140
+      },
+      {
+        "text": "вы?",
+        "startMs": 36140,
+        "endMs": 38000
+      },
+      {
+        "text": "Я",
+        "startMs": 38000,
+        "endMs": 38170
+      },
+      {
+        "text": "буду",
+        "startMs": 38170,
+        "endMs": 38860
+      },
+      {
+        "text": "спать.",
+        "startMs": 38860,
+        "endMs": 40000
+      },
+      {
+        "text": "Ну",
+        "startMs": 40000,
+        "endMs": 40630
+      },
+      {
+        "text": "что,",
+        "startMs": 40630,
+        "endMs": 41880
+      },
+      {
+        "text": "вы?",
+        "startMs": 41880,
+        "endMs": 43000
+      },
+      {
+        "text": "Я",
+        "startMs": 43000,
+        "endMs": 43260
+      },
+      {
+        "text": "буду",
+        "startMs": 43260,
+        "endMs": 44300
+      },
+      {
+        "text": "спать.",
+        "startMs": 44300,
+        "endMs": 46000
+      },
+      {
+        "text": "Ну",
+        "startMs": 46000,
+        "endMs": 46630
+      },
+      {
+        "text": "что,",
+        "startMs": 46630,
+        "endMs": 47880
+      },
+      {
+        "text": "вы?",
+        "startMs": 47880,
+        "endMs": 49000
+      },
+      {
+        "text": "Я",
+        "startMs": 49000,
+        "endMs": 49260
+      },
+      {
+        "text": "буду",
+        "startMs": 49260,
+        "endMs": 50300
+      },
+      {
+        "text": "спать.",
+        "startMs": 50300,
+        "endMs": 52000
+      },
+      {
+        "text": "Ну",
+        "startMs": 52000,
+        "endMs": 52630
+      },
+      {
+        "text": "что,",
+        "startMs": 52630,
+        "endMs": 53880
+      },
+      {
+        "text": "вы?",
+        "startMs": 53880,
+        "endMs": 55000
+      },
+      {
+        "text": "Я",
+        "startMs": 55000,
+        "endMs": 55260
+      },
+      {
+        "text": "буду",
+        "startMs": 55260,
+        "endMs": 56300
+      },
+      {
+        "text": "спать.",
+        "startMs": 56300,
+        "endMs": 58000
+      },
+      {
+        "text": "Ну",
+        "startMs": 58000,
+        "endMs": 58630
+      },
+      {
+        "text": "что,",
+        "startMs": 58630,
+        "endMs": 59880
+      },
+      {
+        "text": "вы?",
+        "startMs": 59880,
+        "endMs": 61000
+      },
+      {
+        "text": "Я",
+        "startMs": 61000,
+        "endMs": 61260
+      },
+      {
+        "text": "буду",
+        "startMs": 61260,
+        "endMs": 62300
+      },
+      {
+        "text": "спать.",
+        "startMs": 62300,
+        "endMs": 64000
+      },
+      {
+        "text": "Ну",
+        "startMs": 64000,
+        "endMs": 64620
+      },
+      {
+        "text": "что,",
+        "startMs": 64620,
+        "endMs": 65880
+      },
+      {
+        "text": "вы?",
+        "startMs": 65880,
+        "endMs": 67000
+      },
+      {
+        "text": "Я",
+        "startMs": 67000,
+        "endMs": 67260
+      },
+      {
+        "text": "буду",
+        "startMs": 67260,
+        "endMs": 68330
+      },
+      {
+        "text": "спать.",
+        "startMs": 68330,
+        "endMs": 70000
+      },
+      {
+        "text": "Ну",
+        "startMs": 70000,
+        "endMs": 70630
+      },
+      {
+        "text": "что,",
+        "startMs": 70630,
+        "endMs": 71880
+      },
+      {
+        "text": "вы?",
+        "startMs": 71880,
+        "endMs": 73000
+      },
+      {
+        "text": "А.Синецкая",
+        "startMs": 74780,
+        "endMs": 75670
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "pool-robot",
+      "title": "Как чистить бассейн",
+      "music": "music5.mp3",
+      "series": {
+        "title": "БАССЕЙН\nЧИСТИТ СЕБЯ",
+        "location": "Новосибирск",
+        "sub": "Робот-пылесос за 2 часа"
+      },
+      "heroPhrases": [
+        {
+          "atMs": 10450,
+          "durMs": 2000,
+          "anim": "slam",
+          "pre": "ПОКУПАЕМ",
+          "key": "ПЫЛЕСОСИК"
+        },
+        {
+          "atMs": 19600,
+          "durMs": 1900,
+          "anim": "slide",
+          "pre": "ДВА ЧАСА —",
+          "key": "И ГОТОВО"
+        },
+        {
+          "atMs": 21500,
+          "durMs": 2000,
+          "anim": "wipe",
+          "pre": "ВСЁ ЧИСТИТ",
+          "key": "САМ"
+        }
+      ],
+      "sfxTrack": [
+        {
+          "atMs": 10450,
+          "src": "impact",
+          "vol": 0.5
+        }
+      ],
+      "accents": [
+        {
+          "atMs": 10450,
+          "durMs": 1600,
+          "mag": 0.13
+        },
+        {
+          "atMs": 17450,
+          "durMs": 1500,
+          "mag": 0.11
+        },
+        {
+          "atMs": 19600,
+          "durMs": 1700,
+          "mag": 0.13
+        },
+        {
+          "atMs": 21500,
+          "durMs": 1600,
+          "mag": 0.12
+        }
+      ],
+      "gifs": [
+        {
+          "src": "pool2",
+          "atMs": 10350,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "робот-пылесос"
+        },
+        {
+          "src": "timer2",
+          "atMs": 19500,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "2 часа"
+        },
+        {
+          "src": "sparkle2",
+          "atMs": 21700,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 220,
+          "label": "чисто"
+        }
+      ],
+      "items": [
+        {
+          "clip": "p84g",
+          "fromMs": 0,
+          "toMs": 3000,
+          "rate": 1,
+          "volume": 0,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": 0,
+          "shot": "wide"
+        },
+        {
+          "clip": "p80g",
+          "fromMs": 100,
+          "toMs": 16900,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": "impact",
+          "captionToMs": null,
+          "shot": "pov"
+        },
+        {
+          "clip": "p80g",
+          "fromMs": 18900,
+          "toMs": 30600,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": "whoosh",
+          "captionToMs": null,
+          "shot": "close"
+        }
+      ]
+    }
+  ]
+}

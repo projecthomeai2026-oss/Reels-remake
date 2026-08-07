@@ -1,0 +1,3910 @@
+{
+  "words": {
+    "pool4": [
+      {
+        "text": "все",
+        "startMs": 140,
+        "endMs": 500
+      },
+      {
+        "text": "нормально.",
+        "startMs": 500,
+        "endMs": 2020
+      },
+      {
+        "text": "А",
+        "startMs": 2020,
+        "endMs": 2030
+      },
+      {
+        "text": "сейчас",
+        "startMs": 2030,
+        "endMs": 2120
+      },
+      {
+        "text": "у",
+        "startMs": 2120,
+        "endMs": 2130
+      },
+      {
+        "text": "нас",
+        "startMs": 2130,
+        "endMs": 2170
+      },
+      {
+        "text": "раково",
+        "startMs": 2170,
+        "endMs": 2270
+      },
+      {
+        "text": "там",
+        "startMs": 2270,
+        "endMs": 2290
+      },
+      {
+        "text": "все",
+        "startMs": 2290,
+        "endMs": 2330
+      },
+      {
+        "text": "встает.",
+        "startMs": 2330,
+        "endMs": 2630
+      },
+      {
+        "text": "Собственно",
+        "startMs": 2630,
+        "endMs": 3660
+      },
+      {
+        "text": "об",
+        "startMs": 3660,
+        "endMs": 3870
+      },
+      {
+        "text": "этом",
+        "startMs": 3870,
+        "endMs": 4080
+      },
+      {
+        "text": "кстати",
+        "startMs": 4080,
+        "endMs": 4500
+      },
+      {
+        "text": "и",
+        "startMs": 4500,
+        "endMs": 4590
+      },
+      {
+        "text": "речь,",
+        "startMs": 4590,
+        "endMs": 5670
+      },
+      {
+        "text": "что",
+        "startMs": 5670,
+        "endMs": 5760
+      },
+      {
+        "text": "мы",
+        "startMs": 5760,
+        "endMs": 6000
+      },
+      {
+        "text": "как",
+        "startMs": 6000,
+        "endMs": 6240
+      },
+      {
+        "text": "нормальные",
+        "startMs": 6240,
+        "endMs": 6840
+      },
+      {
+        "text": "строители,",
+        "startMs": 6840,
+        "endMs": 7440
+      },
+      {
+        "text": "нормальные",
+        "startMs": 7440,
+        "endMs": 8050
+      },
+      {
+        "text": "люди",
+        "startMs": 8050,
+        "endMs": 8280
+      },
+      {
+        "text": "у",
+        "startMs": 8280,
+        "endMs": 8340
+      },
+      {
+        "text": "нас",
+        "startMs": 8340,
+        "endMs": 8520
+      },
+      {
+        "text": "тоже",
+        "startMs": 8520,
+        "endMs": 8760
+      },
+      {
+        "text": "есть",
+        "startMs": 8760,
+        "endMs": 9000
+      },
+      {
+        "text": "ошибки,",
+        "startMs": 9000,
+        "endMs": 9520
+      },
+      {
+        "text": "мы",
+        "startMs": 9520,
+        "endMs": 9860
+      },
+      {
+        "text": "ошибаемся",
+        "startMs": 9860,
+        "endMs": 10530
+      },
+      {
+        "text": "потом",
+        "startMs": 10530,
+        "endMs": 10960
+      },
+      {
+        "text": "все",
+        "startMs": 10960,
+        "endMs": 11120
+      },
+      {
+        "text": "переделаем",
+        "startMs": 11120,
+        "endMs": 11720
+      },
+      {
+        "text": "и",
+        "startMs": 11720,
+        "endMs": 11760
+      },
+      {
+        "text": "все",
+        "startMs": 11760,
+        "endMs": 11960
+      },
+      {
+        "text": "получается",
+        "startMs": 11960,
+        "endMs": 12680
+      },
+      {
+        "text": "четко.",
+        "startMs": 12680,
+        "endMs": 13130
+      },
+      {
+        "text": "Мы",
+        "startMs": 13130,
+        "endMs": 13270
+      },
+      {
+        "text": "же",
+        "startMs": 13270,
+        "endMs": 13530
+      },
+      {
+        "text": "тоже",
+        "startMs": 13530,
+        "endMs": 13690
+      },
+      {
+        "text": "люди,",
+        "startMs": 13690,
+        "endMs": 14040
+      },
+      {
+        "text": "правильно?",
+        "startMs": 14040,
+        "endMs": 14990
+      },
+      {
+        "text": "Вот",
+        "startMs": 14990,
+        "endMs": 15000
+      },
+      {
+        "text": "это",
+        "startMs": 15000,
+        "endMs": 15210
+      },
+      {
+        "text": "что",
+        "startMs": 15210,
+        "endMs": 15420
+      },
+      {
+        "text": "за",
+        "startMs": 15420,
+        "endMs": 15560
+      },
+      {
+        "text": "синие",
+        "startMs": 15560,
+        "endMs": 15910
+      },
+      {
+        "text": "бочки?",
+        "startMs": 15910,
+        "endMs": 16480
+      },
+      {
+        "text": "Это",
+        "startMs": 16480,
+        "endMs": 16930
+      },
+      {
+        "text": "песчаные",
+        "startMs": 16930,
+        "endMs": 18080
+      },
+      {
+        "text": "фильтры,",
+        "startMs": 18080,
+        "endMs": 18440
+      },
+      {
+        "text": "в",
+        "startMs": 18440,
+        "endMs": 18480
+      },
+      {
+        "text": "них",
+        "startMs": 18480,
+        "endMs": 18640
+      },
+      {
+        "text": "будет",
+        "startMs": 18640,
+        "endMs": 18880
+      },
+      {
+        "text": "засыпан",
+        "startMs": 18880,
+        "endMs": 19330
+      },
+      {
+        "text": "песок,",
+        "startMs": 19330,
+        "endMs": 19740
+      },
+      {
+        "text": "через",
+        "startMs": 19740,
+        "endMs": 20020
+      },
+      {
+        "text": "них",
+        "startMs": 20020,
+        "endMs": 20240
+      },
+      {
+        "text": "будет",
+        "startMs": 20240,
+        "endMs": 20540
+      },
+      {
+        "text": "проходить",
+        "startMs": 20540,
+        "endMs": 21130
+      },
+      {
+        "text": "вода",
+        "startMs": 21130,
+        "endMs": 21370
+      },
+      {
+        "text": "из",
+        "startMs": 21370,
+        "endMs": 21560
+      },
+      {
+        "text": "бассейна,",
+        "startMs": 21560,
+        "endMs": 22070
+      },
+      {
+        "text": "из",
+        "startMs": 22070,
+        "endMs": 22200
+      },
+      {
+        "text": "купели.",
+        "startMs": 22200,
+        "endMs": 22660
+      },
+      {
+        "text": "Да,",
+        "startMs": 22660,
+        "endMs": 22860
+      },
+      {
+        "text": "это",
+        "startMs": 22860,
+        "endMs": 23240
+      },
+      {
+        "text": "песчаные",
+        "startMs": 23240,
+        "endMs": 23610
+      },
+      {
+        "text": "фильтры.",
+        "startMs": 23610,
+        "endMs": 24620
+      },
+      {
+        "text": "Один",
+        "startMs": 24620,
+        "endMs": 25880
+      },
+      {
+        "text": "получается",
+        "startMs": 25880,
+        "endMs": 26760
+      },
+      {
+        "text": "у",
+        "startMs": 26760,
+        "endMs": 26840
+      },
+      {
+        "text": "нас",
+        "startMs": 26840,
+        "endMs": 27100
+      },
+      {
+        "text": "идет",
+        "startMs": 27100,
+        "endMs": 27450
+      },
+      {
+        "text": "на",
+        "startMs": 27450,
+        "endMs": 27620
+      },
+      {
+        "text": "купель,",
+        "startMs": 27620,
+        "endMs": 28550
+      },
+      {
+        "text": "один",
+        "startMs": 28550,
+        "endMs": 28570
+      },
+      {
+        "text": "на",
+        "startMs": 28570,
+        "endMs": 28750
+      },
+      {
+        "text": "все.",
+        "startMs": 28750,
+        "endMs": 29130
+      },
+      {
+        "text": "Вот",
+        "startMs": 29130,
+        "endMs": 29640
+      },
+      {
+        "text": "они",
+        "startMs": 29640,
+        "endMs": 29650
+      },
+      {
+        "text": "фильтры",
+        "startMs": 29650,
+        "endMs": 30250
+      },
+      {
+        "text": "вот",
+        "startMs": 30250,
+        "endMs": 30510
+      },
+      {
+        "text": "эти",
+        "startMs": 30510,
+        "endMs": 30770
+      },
+      {
+        "text": "два",
+        "startMs": 30770,
+        "endMs": 31160
+      },
+      {
+        "text": "штуки.",
+        "startMs": 31160,
+        "endMs": 32100
+      },
+      {
+        "text": "Там",
+        "startMs": 32100,
+        "endMs": 32200
+      },
+      {
+        "text": "будет",
+        "startMs": 32200,
+        "endMs": 32440
+      },
+      {
+        "text": "водопад,",
+        "startMs": 32440,
+        "endMs": 33000
+      },
+      {
+        "text": "здесь",
+        "startMs": 33000,
+        "endMs": 33430
+      },
+      {
+        "text": "будет",
+        "startMs": 33430,
+        "endMs": 33860
+      },
+      {
+        "text": "стоять",
+        "startMs": 33860,
+        "endMs": 34360
+      },
+      {
+        "text": "насос",
+        "startMs": 34360,
+        "endMs": 34780
+      },
+      {
+        "text": "водопада.",
+        "startMs": 34780,
+        "endMs": 35570
+      },
+      {
+        "text": "В",
+        "startMs": 35570,
+        "endMs": 35690
+      },
+      {
+        "text": "общем-то",
+        "startMs": 35690,
+        "endMs": 36360
+      },
+      {
+        "text": "друзья",
+        "startMs": 36360,
+        "endMs": 36810
+      },
+      {
+        "text": "какая",
+        "startMs": 36810,
+        "endMs": 37230
+      },
+      {
+        "text": "история",
+        "startMs": 37230,
+        "endMs": 37830
+      },
+      {
+        "text": "у",
+        "startMs": 37830,
+        "endMs": 37910
+      },
+      {
+        "text": "нас",
+        "startMs": 37910,
+        "endMs": 38280
+      },
+      {
+        "text": "помимо",
+        "startMs": 38280,
+        "endMs": 39120
+      },
+      {
+        "text": "основного",
+        "startMs": 39120,
+        "endMs": 39800
+      },
+      {
+        "text": "бассейна",
+        "startMs": 39800,
+        "endMs": 40360
+      },
+      {
+        "text": "и",
+        "startMs": 40360,
+        "endMs": 40430
+      },
+      {
+        "text": "террасы",
+        "startMs": 40430,
+        "endMs": 40910
+      },
+      {
+        "text": "есть",
+        "startMs": 40910,
+        "endMs": 41200
+      },
+      {
+        "text": "техническое",
+        "startMs": 41200,
+        "endMs": 41980
+      },
+      {
+        "text": "помещение.",
+        "startMs": 41980,
+        "endMs": 42720
+      },
+      {
+        "text": "Мы",
+        "startMs": 42720,
+        "endMs": 43120
+      },
+      {
+        "text": "когда",
+        "startMs": 43120,
+        "endMs": 43250
+      },
+      {
+        "text": "подложку",
+        "startMs": 43250,
+        "endMs": 43780
+      },
+      {
+        "text": "заливали",
+        "startMs": 43780,
+        "endMs": 44340
+      },
+      {
+        "text": "бетона",
+        "startMs": 44340,
+        "endMs": 44760
+      },
+      {
+        "text": "сразу",
+        "startMs": 44760,
+        "endMs": 45280
+      },
+      {
+        "text": "сделали,",
+        "startMs": 45280,
+        "endMs": 45760
+      },
+      {
+        "text": "то",
+        "startMs": 45760,
+        "endMs": 45890
+      },
+      {
+        "text": "есть",
+        "startMs": 45890,
+        "endMs": 46410
+      },
+      {
+        "text": "вы",
+        "startMs": 46410,
+        "endMs": 46520
+      },
+      {
+        "text": "если",
+        "startMs": 46520,
+        "endMs": 46740
+      },
+      {
+        "text": "ставите",
+        "startMs": 46740,
+        "endMs": 47320
+      },
+      {
+        "text": "себе",
+        "startMs": 47320,
+        "endMs": 47650
+      },
+      {
+        "text": "бассейн",
+        "startMs": 47650,
+        "endMs": 48220
+      },
+      {
+        "text": "у",
+        "startMs": 48220,
+        "endMs": 48300
+      },
+      {
+        "text": "вас",
+        "startMs": 48300,
+        "endMs": 48550
+      },
+      {
+        "text": "в",
+        "startMs": 48550,
+        "endMs": 48620
+      },
+      {
+        "text": "техническом",
+        "startMs": 48620,
+        "endMs": 49540
+      },
+      {
+        "text": "помещении",
+        "startMs": 49540,
+        "endMs": 50280
+      },
+      {
+        "text": "будут",
+        "startMs": 50280,
+        "endMs": 50840
+      },
+      {
+        "text": "располагаться",
+        "startMs": 50840,
+        "endMs": 51550
+      },
+      {
+        "text": "насосы,",
+        "startMs": 51550,
+        "endMs": 52120
+      },
+      {
+        "text": "фильтра,",
+        "startMs": 52120,
+        "endMs": 52710
+      },
+      {
+        "text": "подогрев",
+        "startMs": 52710,
+        "endMs": 53230
+      },
+      {
+        "text": "бассейна,",
+        "startMs": 53230,
+        "endMs": 53890
+      },
+      {
+        "text": "теплый",
+        "startMs": 53890,
+        "endMs": 54320
+      },
+      {
+        "text": "бассейн.",
+        "startMs": 54320,
+        "endMs": 54980
+      },
+      {
+        "text": "До",
+        "startMs": 54980,
+        "endMs": 55130
+      },
+      {
+        "text": "какого",
+        "startMs": 55130,
+        "endMs": 55580
+      },
+      {
+        "text": "сезона",
+        "startMs": 55580,
+        "endMs": 55980
+      },
+      {
+        "text": "можно",
+        "startMs": 55980,
+        "endMs": 56350
+      },
+      {
+        "text": "купаться?",
+        "startMs": 56350,
+        "endMs": 57140
+      },
+      {
+        "text": "Круглогодично.",
+        "startMs": 57140,
+        "endMs": 58340
+      },
+      {
+        "text": "Да,",
+        "startMs": 58340,
+        "endMs": 58680
+      },
+      {
+        "text": "но",
+        "startMs": 58680,
+        "endMs": 58860
+      },
+      {
+        "text": "сколько",
+        "startMs": 58860,
+        "endMs": 59490
+      },
+      {
+        "text": "греет?",
+        "startMs": 59490,
+        "endMs": 60080
+      },
+      {
+        "text": "В",
+        "startMs": 60080,
+        "endMs": 60540
+      },
+      {
+        "text": "зависимости",
+        "startMs": 60540,
+        "endMs": 61180
+      },
+      {
+        "text": "от",
+        "startMs": 61180,
+        "endMs": 61360
+      },
+      {
+        "text": "того",
+        "startMs": 61360,
+        "endMs": 61730
+      },
+      {
+        "text": "как",
+        "startMs": 61730,
+        "endMs": 61990
+      },
+      {
+        "text": "вы",
+        "startMs": 61990,
+        "endMs": 62180
+      },
+      {
+        "text": "будете",
+        "startMs": 62180,
+        "endMs": 62730
+      },
+      {
+        "text": "топить.",
+        "startMs": 62730,
+        "endMs": 63400
+      },
+      {
+        "text": "Я",
+        "startMs": 63400,
+        "endMs": 63760
+      },
+      {
+        "text": "понял.",
+        "startMs": 63760,
+        "endMs": 64080
+      },
+      {
+        "text": "Если",
+        "startMs": 64080,
+        "endMs": 64560
+      },
+      {
+        "text": "топить",
+        "startMs": 64560,
+        "endMs": 65120
+      },
+      {
+        "text": "нормально,",
+        "startMs": 65120,
+        "endMs": 65550
+      },
+      {
+        "text": "то",
+        "startMs": 65550,
+        "endMs": 65660
+      },
+      {
+        "text": "круглый",
+        "startMs": 65660,
+        "endMs": 66520
+      },
+      {
+        "text": "год",
+        "startMs": 66520,
+        "endMs": 66810
+      },
+      {
+        "text": "купаются.",
+        "startMs": 66810,
+        "endMs": 67360
+      },
+      {
+        "text": "Слушай,",
+        "startMs": 67360,
+        "endMs": 67820
+      },
+      {
+        "text": "кайф.",
+        "startMs": 67820,
+        "endMs": 68170
+      },
+      {
+        "text": "И",
+        "startMs": 68170,
+        "endMs": 68230
+      },
+      {
+        "text": "какой-то",
+        "startMs": 68230,
+        "endMs": 68910
+      },
+      {
+        "text": "навес",
+        "startMs": 68910,
+        "endMs": 69060
+      },
+      {
+        "text": "соответственно,",
+        "startMs": 69060,
+        "endMs": 70080
+      },
+      {
+        "text": "да,",
+        "startMs": 70080,
+        "endMs": 70270
+      },
+      {
+        "text": "мы",
+        "startMs": 70270,
+        "endMs": 70400
+      },
+      {
+        "text": "делаем,",
+        "startMs": 70400,
+        "endMs": 71070
+      },
+      {
+        "text": "но",
+        "startMs": 71070,
+        "endMs": 71620
+      },
+      {
+        "text": "если",
+        "startMs": 71620,
+        "endMs": 71920
+      },
+      {
+        "text": "на",
+        "startMs": 71920,
+        "endMs": 72000
+      },
+      {
+        "text": "круглый",
+        "startMs": 72000,
+        "endMs": 72360
+      },
+      {
+        "text": "год?",
+        "startMs": 72360,
+        "endMs": 72930
+      },
+      {
+        "text": "Не",
+        "startMs": 72930,
+        "endMs": 73010
+      },
+      {
+        "text": "обязательно.",
+        "startMs": 73010,
+        "endMs": 74290
+      },
+      {
+        "text": "Открытый?",
+        "startMs": 74290,
+        "endMs": 75440
+      },
+      {
+        "text": "Да.",
+        "startMs": 75440,
+        "endMs": 75590
+      },
+      {
+        "text": "А",
+        "startMs": 75590,
+        "endMs": 75690
+      },
+      {
+        "text": "снег,",
+        "startMs": 75690,
+        "endMs": 76190
+      },
+      {
+        "text": "лед,",
+        "startMs": 76190,
+        "endMs": 76590
+      },
+      {
+        "text": "дождь?",
+        "startMs": 76590,
+        "endMs": 77240
+      },
+      {
+        "text": "Ничего",
+        "startMs": 77240,
+        "endMs": 77880
+      },
+      {
+        "text": "страшного.",
+        "startMs": 77880,
+        "endMs": 78920
+      },
+      {
+        "text": "Да?",
+        "startMs": 78920,
+        "endMs": 79470
+      },
+      {
+        "text": "Да",
+        "startMs": 79470,
+        "endMs": 79870
+      },
+      {
+        "text": "какой",
+        "startMs": 79870,
+        "endMs": 80120
+      },
+      {
+        "text": "температуры",
+        "startMs": 80120,
+        "endMs": 80280
+      },
+      {
+        "text": "можно",
+        "startMs": 80280,
+        "endMs": 80710
+      },
+      {
+        "text": "нагревать?",
+        "startMs": 80710,
+        "endMs": 81620
+      },
+      {
+        "text": "Больше",
+        "startMs": 81620,
+        "endMs": 82140
+      },
+      {
+        "text": "32",
+        "startMs": 82140,
+        "endMs": 82390
+      },
+      {
+        "text": "нежелательно,",
+        "startMs": 82390,
+        "endMs": 83490
+      },
+      {
+        "text": "наверное.",
+        "startMs": 83490,
+        "endMs": 84310
+      },
+      {
+        "text": "Больше",
+        "startMs": 84310,
+        "endMs": 84850
+      },
+      {
+        "text": "32",
+        "startMs": 84850,
+        "endMs": 85080
+      },
+      {
+        "text": "градусов?",
+        "startMs": 85080,
+        "endMs": 85890
+      },
+      {
+        "text": "Именно",
+        "startMs": 85890,
+        "endMs": 86400
+      },
+      {
+        "text": "бассейн.",
+        "startMs": 86400,
+        "endMs": 87230
+      },
+      {
+        "text": "Я",
+        "startMs": 87230,
+        "endMs": 87670
+      },
+      {
+        "text": "понял.",
+        "startMs": 87670,
+        "endMs": 87880
+      },
+      {
+        "text": "Купельку",
+        "startMs": 87880,
+        "endMs": 88240
+      },
+      {
+        "text": "можно",
+        "startMs": 88240,
+        "endMs": 88560
+      },
+      {
+        "text": "до",
+        "startMs": 88560,
+        "endMs": 88690
+      },
+      {
+        "text": "40",
+        "startMs": 88690,
+        "endMs": 88880
+      },
+      {
+        "text": "градусов",
+        "startMs": 88880,
+        "endMs": 89500
+      },
+      {
+        "text": "греть.",
+        "startMs": 89500,
+        "endMs": 89860
+      },
+      {
+        "text": "Я",
+        "startMs": 89860,
+        "endMs": 90100
+      },
+      {
+        "text": "понял.",
+        "startMs": 90100,
+        "endMs": 90270
+      },
+      {
+        "text": "А",
+        "startMs": 90270,
+        "endMs": 90350
+      },
+      {
+        "text": "теперь",
+        "startMs": 90350,
+        "endMs": 90720
+      },
+      {
+        "text": "сразу",
+        "startMs": 90720,
+        "endMs": 91030
+      },
+      {
+        "text": "в",
+        "startMs": 91030,
+        "endMs": 91100
+      },
+      {
+        "text": "момент",
+        "startMs": 91100,
+        "endMs": 91550
+      },
+      {
+        "text": "вопрос",
+        "startMs": 91550,
+        "endMs": 91880
+      },
+      {
+        "text": "по",
+        "startMs": 91880,
+        "endMs": 92170
+      },
+      {
+        "text": "поводу",
+        "startMs": 92170,
+        "endMs": 92390
+      },
+      {
+        "text": "электрики,",
+        "startMs": 92390,
+        "endMs": 93190
+      },
+      {
+        "text": "чтобы",
+        "startMs": 93190,
+        "endMs": 93910
+      },
+      {
+        "text": "вот",
+        "startMs": 93910,
+        "endMs": 94560
+      },
+      {
+        "text": "так",
+        "startMs": 94560,
+        "endMs": 94760
+      },
+      {
+        "text": "греть.",
+        "startMs": 94760,
+        "endMs": 95420
+      },
+      {
+        "text": "Это",
+        "startMs": 95420,
+        "endMs": 95460
+      },
+      {
+        "text": "мне",
+        "startMs": 95460,
+        "endMs": 95630
+      },
+      {
+        "text": "как?",
+        "startMs": 95630,
+        "endMs": 96070
+      },
+      {
+        "text": "Что",
+        "startMs": 96070,
+        "endMs": 96150
+      },
+      {
+        "text": "надо?",
+        "startMs": 96150,
+        "endMs": 96750
+      },
+      {
+        "text": "Какие-то",
+        "startMs": 96750,
+        "endMs": 97100
+      },
+      {
+        "text": "кабеля",
+        "startMs": 97100,
+        "endMs": 97510
+      },
+      {
+        "text": "крутые",
+        "startMs": 97510,
+        "endMs": 97910
+      },
+      {
+        "text": "ставить?",
+        "startMs": 97910,
+        "endMs": 98510
+      },
+      {
+        "text": "Ну,",
+        "startMs": 98510,
+        "endMs": 98720
+      },
+      {
+        "text": "насколько",
+        "startMs": 98720,
+        "endMs": 99440
+      },
+      {
+        "text": "хиловато",
+        "startMs": 99440,
+        "endMs": 99930
+      },
+      {
+        "text": "должна",
+        "startMs": 99930,
+        "endMs": 100560
+      },
+      {
+        "text": "быть",
+        "startMs": 100560,
+        "endMs": 100760
+      },
+      {
+        "text": "электрика?",
+        "startMs": 100760,
+        "endMs": 101430
+      },
+      {
+        "text": "Теплообменник",
+        "startMs": 101430,
+        "endMs": 102260
+      },
+      {
+        "text": "работает",
+        "startMs": 102260,
+        "endMs": 102780
+      },
+      {
+        "text": "от",
+        "startMs": 102780,
+        "endMs": 102910
+      },
+      {
+        "text": "газового",
+        "startMs": 102910,
+        "endMs": 103440
+      },
+      {
+        "text": "котла.",
+        "startMs": 103440,
+        "endMs": 104010
+      },
+      {
+        "text": "Подача",
+        "startMs": 104010,
+        "endMs": 104210
+      },
+      {
+        "text": "обратно",
+        "startMs": 104210,
+        "endMs": 104660
+      },
+      {
+        "text": "кидается",
+        "startMs": 104660,
+        "endMs": 105280
+      },
+      {
+        "text": "от",
+        "startMs": 105280,
+        "endMs": 105300
+      },
+      {
+        "text": "котла",
+        "startMs": 105300,
+        "endMs": 105620
+      },
+      {
+        "text": "и",
+        "startMs": 105620,
+        "endMs": 105800
+      },
+      {
+        "text": "все.",
+        "startMs": 105800,
+        "endMs": 105920
+      },
+      {
+        "text": "Он",
+        "startMs": 105920,
+        "endMs": 106360
+      },
+      {
+        "text": "от",
+        "startMs": 106360,
+        "endMs": 106480
+      },
+      {
+        "text": "газа",
+        "startMs": 106480,
+        "endMs": 106720
+      },
+      {
+        "text": "работает.",
+        "startMs": 106720,
+        "endMs": 107440
+      },
+      {
+        "text": "То",
+        "startMs": 107440,
+        "endMs": 107520
+      },
+      {
+        "text": "есть",
+        "startMs": 107520,
+        "endMs": 107730
+      },
+      {
+        "text": "нам",
+        "startMs": 107730,
+        "endMs": 107880
+      },
+      {
+        "text": "особо",
+        "startMs": 107880,
+        "endMs": 108190
+      },
+      {
+        "text": "там",
+        "startMs": 108190,
+        "endMs": 108380
+      },
+      {
+        "text": "заморачиваться.",
+        "startMs": 108380,
+        "endMs": 109340
+      },
+      {
+        "text": "Грубо",
+        "startMs": 109340,
+        "endMs": 109640
+      },
+      {
+        "text": "он",
+        "startMs": 109640,
+        "endMs": 109750
+      },
+      {
+        "text": "работает",
+        "startMs": 109750,
+        "endMs": 110270
+      },
+      {
+        "text": "от",
+        "startMs": 110270,
+        "endMs": 110390
+      },
+      {
+        "text": "теплоносителя.",
+        "startMs": 110390,
+        "endMs": 111300
+      },
+      {
+        "text": "Чем",
+        "startMs": 111300,
+        "endMs": 111480
+      },
+      {
+        "text": "греется",
+        "startMs": 111480,
+        "endMs": 112120
+      },
+      {
+        "text": "теплоноситель?",
+        "startMs": 112120,
+        "endMs": 113440
+      },
+      {
+        "text": "Я",
+        "startMs": 113440,
+        "endMs": 113460
+      },
+      {
+        "text": "понял.",
+        "startMs": 113460,
+        "endMs": 114030
+      },
+      {
+        "text": "Все?",
+        "startMs": 114030,
+        "endMs": 114290
+      },
+      {
+        "text": "Тогда",
+        "startMs": 114290,
+        "endMs": 115390
+      },
+      {
+        "text": "вообще",
+        "startMs": 115390,
+        "endMs": 115400
+      },
+      {
+        "text": "вопрос",
+        "startMs": 115400,
+        "endMs": 115920
+      },
+      {
+        "text": "снят.",
+        "startMs": 115920,
+        "endMs": 116410
+      },
+      {
+        "text": "То",
+        "startMs": 116410,
+        "endMs": 116560
+      },
+      {
+        "text": "есть",
+        "startMs": 116560,
+        "endMs": 117010
+      },
+      {
+        "text": "здесь",
+        "startMs": 117010,
+        "endMs": 117350
+      },
+      {
+        "text": "переживать",
+        "startMs": 117350,
+        "endMs": 118360
+      },
+      {
+        "text": "по",
+        "startMs": 118360,
+        "endMs": 118480
+      },
+      {
+        "text": "поводу",
+        "startMs": 118480,
+        "endMs": 118640
+      },
+      {
+        "text": "электрики",
+        "startMs": 118640,
+        "endMs": 119480
+      },
+      {
+        "text": "киловаттов",
+        "startMs": 119480,
+        "endMs": 120300
+      },
+      {
+        "text": "нам",
+        "startMs": 120300,
+        "endMs": 120550
+      },
+      {
+        "text": "не",
+        "startMs": 120550,
+        "endMs": 120710
+      },
+      {
+        "text": "обязательно.",
+        "startMs": 120710,
+        "endMs": 121990
+      },
+      {
+        "text": "Есть",
+        "startMs": 121990,
+        "endMs": 122080
+      },
+      {
+        "text": "моменты.",
+        "startMs": 122080,
+        "endMs": 122780
+      },
+      {
+        "text": "У",
+        "startMs": 122780,
+        "endMs": 122860
+      },
+      {
+        "text": "нас",
+        "startMs": 122860,
+        "endMs": 123110
+      },
+      {
+        "text": "получается",
+        "startMs": 123110,
+        "endMs": 124020
+      },
+      {
+        "text": "на",
+        "startMs": 124020,
+        "endMs": 124100
+      },
+      {
+        "text": "водопад",
+        "startMs": 124100,
+        "endMs": 124670
+      },
+      {
+        "text": "достаточно",
+        "startMs": 124670,
+        "endMs": 125660
+      },
+      {
+        "text": "мощный",
+        "startMs": 125660,
+        "endMs": 126000
+      },
+      {
+        "text": "насос.",
+        "startMs": 126000,
+        "endMs": 126400
+      },
+      {
+        "text": "У",
+        "startMs": 126400,
+        "endMs": 126770
+      },
+      {
+        "text": "нас",
+        "startMs": 126770,
+        "endMs": 126860
+      },
+      {
+        "text": "на",
+        "startMs": 126860,
+        "endMs": 126950
+      },
+      {
+        "text": "гидромассажную",
+        "startMs": 126950,
+        "endMs": 128320
+      },
+      {
+        "text": "ванну",
+        "startMs": 128320,
+        "endMs": 128690
+      },
+      {
+        "text": "мощный",
+        "startMs": 128690,
+        "endMs": 129340
+      },
+      {
+        "text": "насос.",
+        "startMs": 129340,
+        "endMs": 130030
+      },
+      {
+        "text": "Соответственно",
+        "startMs": 130030,
+        "endMs": 131110
+      },
+      {
+        "text": "в",
+        "startMs": 131110,
+        "endMs": 131410
+      },
+      {
+        "text": "зависимости",
+        "startMs": 131410,
+        "endMs": 132470
+      },
+      {
+        "text": "от",
+        "startMs": 132470,
+        "endMs": 132540
+      },
+      {
+        "text": "количества",
+        "startMs": 132540,
+        "endMs": 133280
+      },
+      {
+        "text": "оборудования",
+        "startMs": 133280,
+        "endMs": 133760
+      },
+      {
+        "text": "получается",
+        "startMs": 133760,
+        "endMs": 134440
+      },
+      {
+        "text": "считается",
+        "startMs": 134440,
+        "endMs": 135050
+      },
+      {
+        "text": "сколько",
+        "startMs": 135050,
+        "endMs": 135530
+      },
+      {
+        "text": "электричества.",
+        "startMs": 135530,
+        "endMs": 136500
+      },
+      {
+        "text": "Чуть",
+        "startMs": 136500,
+        "endMs": 136760
+      },
+      {
+        "text": "позже",
+        "startMs": 136760,
+        "endMs": 137180
+      },
+      {
+        "text": "покажу",
+        "startMs": 137180,
+        "endMs": 137490
+      },
+      {
+        "text": "устройство.",
+        "startMs": 137490,
+        "endMs": 138270
+      },
+      {
+        "text": "Как",
+        "startMs": 138270,
+        "endMs": 138510
+      },
+      {
+        "text": "там",
+        "startMs": 138510,
+        "endMs": 138670
+      },
+      {
+        "text": "все",
+        "startMs": 138670,
+        "endMs": 139000
+      },
+      {
+        "text": "будет",
+        "startMs": 139000,
+        "endMs": 139370
+      },
+      {
+        "text": "уже",
+        "startMs": 139370,
+        "endMs": 139440
+      },
+      {
+        "text": "выглядеть.",
+        "startMs": 139440,
+        "endMs": 140220
+      },
+      {
+        "text": "Здесь",
+        "startMs": 140220,
+        "endMs": 140520
+      },
+      {
+        "text": "у",
+        "startMs": 140520,
+        "endMs": 140890
+      },
+      {
+        "text": "нас",
+        "startMs": 140890,
+        "endMs": 140910
+      },
+      {
+        "text": "люк.",
+        "startMs": 140910,
+        "endMs": 141240
+      },
+      {
+        "text": "Да,",
+        "startMs": 141240,
+        "endMs": 141500
+      },
+      {
+        "text": "мы",
+        "startMs": 141500,
+        "endMs": 141610
+      },
+      {
+        "text": "будем",
+        "startMs": 141610,
+        "endMs": 141990
+      },
+      {
+        "text": "сделать.",
+        "startMs": 141990,
+        "endMs": 142630
+      },
+      {
+        "text": "Чтобы",
+        "startMs": 142630,
+        "endMs": 143010
+      },
+      {
+        "text": "обслуживать",
+        "startMs": 143010,
+        "endMs": 143840
+      },
+      {
+        "text": "можно",
+        "startMs": 143840,
+        "endMs": 144220
+      },
+      {
+        "text": "было.",
+        "startMs": 144220,
+        "endMs": 144860
+      },
+      {
+        "text": "Так,",
+        "startMs": 144860,
+        "endMs": 145040
+      },
+      {
+        "text": "а",
+        "startMs": 145040,
+        "endMs": 145130
+      },
+      {
+        "text": "вот",
+        "startMs": 145130,
+        "endMs": 145280
+      },
+      {
+        "text": "эти",
+        "startMs": 145280,
+        "endMs": 145460
+      },
+      {
+        "text": "фильтры",
+        "startMs": 145460,
+        "endMs": 145760
+      },
+      {
+        "text": "сразу",
+        "startMs": 145760,
+        "endMs": 146580
+      },
+      {
+        "text": "будет",
+        "startMs": 146580,
+        "endMs": 146590
+      },
+      {
+        "text": "вопрос",
+        "startMs": 146590,
+        "endMs": 147070
+      },
+      {
+        "text": "сколько",
+        "startMs": 147070,
+        "endMs": 147640
+      },
+      {
+        "text": "раз",
+        "startMs": 147640,
+        "endMs": 147880
+      },
+      {
+        "text": "надо",
+        "startMs": 147880,
+        "endMs": 148230
+      },
+      {
+        "text": "их",
+        "startMs": 148230,
+        "endMs": 148360
+      },
+      {
+        "text": "когда",
+        "startMs": 148360,
+        "endMs": 148780
+      },
+      {
+        "text": "менять?",
+        "startMs": 148780,
+        "endMs": 149610
+      },
+      {
+        "text": "Что",
+        "startMs": 149610,
+        "endMs": 149610
+      },
+      {
+        "text": "с",
+        "startMs": 149610,
+        "endMs": 149690
+      },
+      {
+        "text": "ними",
+        "startMs": 149690,
+        "endMs": 150130
+      },
+      {
+        "text": "делать?",
+        "startMs": 150130,
+        "endMs": 150660
+      },
+      {
+        "text": "Обслуживать?",
+        "startMs": 150660,
+        "endMs": 151630
+      },
+      {
+        "text": "Там",
+        "startMs": 151630,
+        "endMs": 151960
+      },
+      {
+        "text": "с",
+        "startMs": 151960,
+        "endMs": 152500
+      },
+      {
+        "text": "насосом",
+        "startMs": 152500,
+        "endMs": 152880
+      },
+      {
+        "text": "понятно",
+        "startMs": 152880,
+        "endMs": 153410
+      },
+      {
+        "text": "все.",
+        "startMs": 153410,
+        "endMs": 153740
+      },
+      {
+        "text": "Он",
+        "startMs": 153740,
+        "endMs": 153890
+      },
+      {
+        "text": "у",
+        "startMs": 153890,
+        "endMs": 153960
+      },
+      {
+        "text": "вас",
+        "startMs": 153960,
+        "endMs": 154180
+      },
+      {
+        "text": "автоматически",
+        "startMs": 154180,
+        "endMs": 155160
+      },
+      {
+        "text": "работает.",
+        "startMs": 155160,
+        "endMs": 155880
+      },
+      {
+        "text": "А",
+        "startMs": 155880,
+        "endMs": 155950
+      },
+      {
+        "text": "вот",
+        "startMs": 155950,
+        "endMs": 156390
+      },
+      {
+        "text": "песок",
+        "startMs": 156390,
+        "endMs": 156540
+      },
+      {
+        "text": "вы",
+        "startMs": 156540,
+        "endMs": 156680
+      },
+      {
+        "text": "сказали",
+        "startMs": 156680,
+        "endMs": 157210
+      },
+      {
+        "text": "там",
+        "startMs": 157210,
+        "endMs": 157500
+      },
+      {
+        "text": "у",
+        "startMs": 157500,
+        "endMs": 157620
+      },
+      {
+        "text": "нас",
+        "startMs": 157620,
+        "endMs": 157720
+      },
+      {
+        "text": "идет.",
+        "startMs": 157720,
+        "endMs": 158130
+      },
+      {
+        "text": "Песок",
+        "startMs": 158130,
+        "endMs": 158640
+      },
+      {
+        "text": "меняется",
+        "startMs": 158640,
+        "endMs": 159390
+      },
+      {
+        "text": "раз-два",
+        "startMs": 159390,
+        "endMs": 159960
+      },
+      {
+        "text": "года.",
+        "startMs": 159960,
+        "endMs": 160680
+      },
+      {
+        "text": "Раз-два",
+        "startMs": 160680,
+        "endMs": 161480
+      },
+      {
+        "text": "года?",
+        "startMs": 161480,
+        "endMs": 161930
+      },
+      {
+        "text": "Да.",
+        "startMs": 161930,
+        "endMs": 162470
+      },
+      {
+        "text": "Дальше",
+        "startMs": 162470,
+        "endMs": 163050
+      },
+      {
+        "text": "по",
+        "startMs": 163050,
+        "endMs": 163280
+      },
+      {
+        "text": "поводу",
+        "startMs": 163280,
+        "endMs": 163980
+      },
+      {
+        "text": "как",
+        "startMs": 163980,
+        "endMs": 164330
+      },
+      {
+        "text": "часто",
+        "startMs": 164330,
+        "endMs": 165000
+      },
+      {
+        "text": "песок",
+        "startMs": 165000,
+        "endMs": 165720
+      },
+      {
+        "text": "промывать.",
+        "startMs": 165720,
+        "endMs": 167050
+      },
+      {
+        "text": "Все",
+        "startMs": 167050,
+        "endMs": 167110
+      },
+      {
+        "text": "зависит",
+        "startMs": 167110,
+        "endMs": 167940
+      },
+      {
+        "text": "от",
+        "startMs": 167940,
+        "endMs": 168090
+      },
+      {
+        "text": "того",
+        "startMs": 168090,
+        "endMs": 168680
+      },
+      {
+        "text": "сколько",
+        "startMs": 168680,
+        "endMs": 169500
+      },
+      {
+        "text": "человек",
+        "startMs": 169500,
+        "endMs": 169680
+      },
+      {
+        "text": "купается.",
+        "startMs": 169680,
+        "endMs": 170310
+      },
+      {
+        "text": "Как",
+        "startMs": 170310,
+        "endMs": 170490
+      },
+      {
+        "text": "инцессивно",
+        "startMs": 170490,
+        "endMs": 171060
+      },
+      {
+        "text": "используется",
+        "startMs": 171060,
+        "endMs": 171810
+      },
+      {
+        "text": "бассейн.",
+        "startMs": 171810,
+        "endMs": 172320
+      },
+      {
+        "text": "Сколько",
+        "startMs": 172320,
+        "endMs": 172810
+      },
+      {
+        "text": "в",
+        "startMs": 172810,
+        "endMs": 172830
+      },
+      {
+        "text": "него",
+        "startMs": 172830,
+        "endMs": 173060
+      },
+      {
+        "text": "грязи",
+        "startMs": 173060,
+        "endMs": 173360
+      },
+      {
+        "text": "попадает",
+        "startMs": 173360,
+        "endMs": 173850
+      },
+      {
+        "text": "и",
+        "startMs": 173850,
+        "endMs": 173910
+      },
+      {
+        "text": "так",
+        "startMs": 173910,
+        "endMs": 174240
+      },
+      {
+        "text": "далее.",
+        "startMs": 174240,
+        "endMs": 174810
+      },
+      {
+        "text": "Здесь",
+        "startMs": 174810,
+        "endMs": 175760
+      },
+      {
+        "text": "смотрится",
+        "startMs": 175760,
+        "endMs": 176470
+      },
+      {
+        "text": "по",
+        "startMs": 176470,
+        "endMs": 176640
+      },
+      {
+        "text": "воде.",
+        "startMs": 176640,
+        "endMs": 177070
+      },
+      {
+        "text": "Понятно.",
+        "startMs": 177070,
+        "endMs": 177790
+      },
+      {
+        "text": "И",
+        "startMs": 177790,
+        "endMs": 177790
+      },
+      {
+        "text": "по",
+        "startMs": 177790,
+        "endMs": 178190
+      },
+      {
+        "text": "давлению",
+        "startMs": 178190,
+        "endMs": 178570
+      },
+      {
+        "text": "соответственно",
+        "startMs": 178570,
+        "endMs": 179670
+      },
+      {
+        "text": "фильтре.",
+        "startMs": 179670,
+        "endMs": 180330
+      },
+      {
+        "text": "А",
+        "startMs": 180330,
+        "endMs": 180400
+      },
+      {
+        "text": "он",
+        "startMs": 180400,
+        "endMs": 180560
+      },
+      {
+        "text": "я",
+        "startMs": 180560,
+        "endMs": 180870
+      },
+      {
+        "text": "правильно",
+        "startMs": 180870,
+        "endMs": 181480
+      },
+      {
+        "text": "понимаю",
+        "startMs": 181480,
+        "endMs": 181880
+      },
+      {
+        "text": "что",
+        "startMs": 181880,
+        "endMs": 182050
+      },
+      {
+        "text": "он",
+        "startMs": 182050,
+        "endMs": 182160
+      },
+      {
+        "text": "автоматически",
+        "startMs": 182160,
+        "endMs": 183160
+      },
+      {
+        "text": "все",
+        "startMs": 183160,
+        "endMs": 183360
+      },
+      {
+        "text": "время",
+        "startMs": 183360,
+        "endMs": 183700
+      },
+      {
+        "text": "циркулирует",
+        "startMs": 183700,
+        "endMs": 184410
+      },
+      {
+        "text": "воду",
+        "startMs": 184410,
+        "endMs": 184670
+      },
+      {
+        "text": "или",
+        "startMs": 184670,
+        "endMs": 184870
+      },
+      {
+        "text": "в",
+        "startMs": 184870,
+        "endMs": 184930
+      },
+      {
+        "text": "определенное",
+        "startMs": 184930,
+        "endMs": 185740
+      },
+      {
+        "text": "время",
+        "startMs": 185740,
+        "endMs": 186080
+      },
+      {
+        "text": "выставляется?",
+        "startMs": 186080,
+        "endMs": 186990
+      },
+      {
+        "text": "Будет",
+        "startMs": 186990,
+        "endMs": 187320
+      },
+      {
+        "text": "стоять",
+        "startMs": 187320,
+        "endMs": 187720
+      },
+      {
+        "text": "щит",
+        "startMs": 187720,
+        "endMs": 188140
+      },
+      {
+        "text": "управления,",
+        "startMs": 188140,
+        "endMs": 188720
+      },
+      {
+        "text": "будет",
+        "startMs": 188720,
+        "endMs": 188980
+      },
+      {
+        "text": "стоять",
+        "startMs": 188980,
+        "endMs": 189280
+      },
+      {
+        "text": "таймер.",
+        "startMs": 189280,
+        "endMs": 189650
+      },
+      {
+        "text": "Он",
+        "startMs": 189650,
+        "endMs": 189750
+      },
+      {
+        "text": "будет",
+        "startMs": 189750,
+        "endMs": 190010
+      },
+      {
+        "text": "включаться",
+        "startMs": 190010,
+        "endMs": 190580
+      },
+      {
+        "text": "и",
+        "startMs": 190580,
+        "endMs": 190580
+      },
+      {
+        "text": "выключаться",
+        "startMs": 190580,
+        "endMs": 191140
+      },
+      {
+        "text": "автоматически.",
+        "startMs": 191140,
+        "endMs": 191880
+      },
+      {
+        "text": "Как",
+        "startMs": 191880,
+        "endMs": 192150
+      },
+      {
+        "text": "раз",
+        "startMs": 192150,
+        "endMs": 192180
+      },
+      {
+        "text": "таки",
+        "startMs": 192180,
+        "endMs": 192560
+      },
+      {
+        "text": "это",
+        "startMs": 192560,
+        "endMs": 192690
+      },
+      {
+        "text": "таймер",
+        "startMs": 192690,
+        "endMs": 193000
+      },
+      {
+        "text": "мы",
+        "startMs": 193000,
+        "endMs": 193160
+      },
+      {
+        "text": "можем",
+        "startMs": 193160,
+        "endMs": 193510
+      },
+      {
+        "text": "настроить",
+        "startMs": 193510,
+        "endMs": 194140
+      },
+      {
+        "text": "на",
+        "startMs": 194140,
+        "endMs": 194280
+      },
+      {
+        "text": "типа",
+        "startMs": 194280,
+        "endMs": 194560
+      },
+      {
+        "text": "если",
+        "startMs": 194560,
+        "endMs": 194840
+      },
+      {
+        "text": "мы",
+        "startMs": 194840,
+        "endMs": 194980
+      },
+      {
+        "text": "активно",
+        "startMs": 194980,
+        "endMs": 195470
+      },
+      {
+        "text": "пользуемся",
+        "startMs": 195470,
+        "endMs": 196180
+      },
+      {
+        "text": "то",
+        "startMs": 196180,
+        "endMs": 196310
+      },
+      {
+        "text": "выставляем",
+        "startMs": 196310,
+        "endMs": 197010
+      },
+      {
+        "text": "почаще",
+        "startMs": 197010,
+        "endMs": 197430
+      },
+      {
+        "text": "очистку.",
+        "startMs": 197430,
+        "endMs": 198120
+      },
+      {
+        "text": "Нет,",
+        "startMs": 198120,
+        "endMs": 198810
+      },
+      {
+        "text": "нет",
+        "startMs": 198810,
+        "endMs": 198830
+      },
+      {
+        "text": "здесь",
+        "startMs": 198830,
+        "endMs": 199280
+      },
+      {
+        "text": "скорее",
+        "startMs": 199280,
+        "endMs": 199680
+      },
+      {
+        "text": "еще",
+        "startMs": 199680,
+        "endMs": 200000
+      },
+      {
+        "text": "идет",
+        "startMs": 200000,
+        "endMs": 200120
+      },
+      {
+        "text": "то",
+        "startMs": 200120,
+        "endMs": 200230
+      },
+      {
+        "text": "что",
+        "startMs": 200230,
+        "endMs": 200380
+      },
+      {
+        "text": "циркуляция",
+        "startMs": 200380,
+        "endMs": 201040
+      },
+      {
+        "text": "воды",
+        "startMs": 201040,
+        "endMs": 201320
+      },
+      {
+        "text": "в",
+        "startMs": 201320,
+        "endMs": 201350
+      },
+      {
+        "text": "любом",
+        "startMs": 201350,
+        "endMs": 201660
+      },
+      {
+        "text": "случае",
+        "startMs": 201660,
+        "endMs": 202040
+      },
+      {
+        "text": "должна",
+        "startMs": 202040,
+        "endMs": 202420
+      },
+      {
+        "text": "быть",
+        "startMs": 202420,
+        "endMs": 202700
+      },
+      {
+        "text": "чтобы",
+        "startMs": 202700,
+        "endMs": 202990
+      },
+      {
+        "text": "она",
+        "startMs": 202990,
+        "endMs": 203240
+      },
+      {
+        "text": "не",
+        "startMs": 203240,
+        "endMs": 203300
+      },
+      {
+        "text": "застаивалась.",
+        "startMs": 203300,
+        "endMs": 204140
+      },
+      {
+        "text": "Если",
+        "startMs": 204140,
+        "endMs": 204570
+      },
+      {
+        "text": "вы",
+        "startMs": 204570,
+        "endMs": 204640
+      },
+      {
+        "text": "даже",
+        "startMs": 204640,
+        "endMs": 204930
+      },
+      {
+        "text": "не",
+        "startMs": 204930,
+        "endMs": 205070
+      },
+      {
+        "text": "пользуетесь",
+        "startMs": 205070,
+        "endMs": 205880
+      },
+      {
+        "text": "бассейном,",
+        "startMs": 205880,
+        "endMs": 206600
+      },
+      {
+        "text": "циркуляция",
+        "startMs": 206600,
+        "endMs": 207310
+      },
+      {
+        "text": "должна",
+        "startMs": 207310,
+        "endMs": 207460
+      },
+      {
+        "text": "быть.",
+        "startMs": 207460,
+        "endMs": 208210
+      },
+      {
+        "text": "Плюс",
+        "startMs": 208210,
+        "endMs": 208620
+      },
+      {
+        "text": "подогрев.",
+        "startMs": 208620,
+        "endMs": 209200
+      },
+      {
+        "text": "У",
+        "startMs": 209200,
+        "endMs": 209200
+      },
+      {
+        "text": "вас",
+        "startMs": 209200,
+        "endMs": 209420
+      },
+      {
+        "text": "нагревается",
+        "startMs": 209420,
+        "endMs": 210400
+      },
+      {
+        "text": "вода",
+        "startMs": 210400,
+        "endMs": 210680
+      },
+      {
+        "text": "до",
+        "startMs": 210680,
+        "endMs": 210800
+      },
+      {
+        "text": "определенной",
+        "startMs": 210800,
+        "endMs": 211530
+      },
+      {
+        "text": "температуры,",
+        "startMs": 211530,
+        "endMs": 212140
+      },
+      {
+        "text": "которая",
+        "startMs": 212140,
+        "endMs": 212540
+      },
+      {
+        "text": "тоже",
+        "startMs": 212540,
+        "endMs": 212810
+      },
+      {
+        "text": "датчиком",
+        "startMs": 212810,
+        "endMs": 213200
+      },
+      {
+        "text": "выставляется",
+        "startMs": 213200,
+        "endMs": 213720
+      },
+      {
+        "text": "и",
+        "startMs": 213720,
+        "endMs": 214150
+      },
+      {
+        "text": "дальше",
+        "startMs": 214150,
+        "endMs": 214260
+      },
+      {
+        "text": "получается",
+        "startMs": 214260,
+        "endMs": 214990
+      },
+      {
+        "text": "что",
+        "startMs": 214990,
+        "endMs": 215260
+      },
+      {
+        "text": "вода",
+        "startMs": 215260,
+        "endMs": 215720
+      },
+      {
+        "text": "просто",
+        "startMs": 215720,
+        "endMs": 216080
+      },
+      {
+        "text": "поддерживается",
+        "startMs": 216220,
+        "endMs": 217380
+      },
+      {
+        "text": "температура.",
+        "startMs": 217380,
+        "endMs": 217960
+      },
+      {
+        "text": "Но",
+        "startMs": 217960,
+        "endMs": 218310
+      },
+      {
+        "text": "теплообменник",
+        "startMs": 218310,
+        "endMs": 219010
+      },
+      {
+        "text": "включается",
+        "startMs": 219010,
+        "endMs": 219710
+      },
+      {
+        "text": "только",
+        "startMs": 219710,
+        "endMs": 220200
+      },
+      {
+        "text": "вместе",
+        "startMs": 220200,
+        "endMs": 220570
+      },
+      {
+        "text": "с",
+        "startMs": 220570,
+        "endMs": 220640
+      },
+      {
+        "text": "фильтрацией.",
+        "startMs": 220640,
+        "endMs": 221600
+      },
+      {
+        "text": "Фильтрация",
+        "startMs": 221600,
+        "endMs": 222880
+      },
+      {
+        "text": "включилась",
+        "startMs": 222880,
+        "endMs": 223410
+      },
+      {
+        "text": "соответственно",
+        "startMs": 223410,
+        "endMs": 224180
+      },
+      {
+        "text": "датчики",
+        "startMs": 224180,
+        "endMs": 224620
+      },
+      {
+        "text": "померли",
+        "startMs": 224620,
+        "endMs": 224940
+      },
+      {
+        "text": "температуру.",
+        "startMs": 224940,
+        "endMs": 225690
+      },
+      {
+        "text": "Если",
+        "startMs": 225690,
+        "endMs": 225840
+      },
+      {
+        "text": "надо",
+        "startMs": 225840,
+        "endMs": 226060
+      },
+      {
+        "text": "включай",
+        "startMs": 226060,
+        "endMs": 226440
+      },
+      {
+        "text": "теплообменник.",
+        "startMs": 226440,
+        "endMs": 227290
+      },
+      {
+        "text": "Если",
+        "startMs": 227290,
+        "endMs": 227560
+      },
+      {
+        "text": "не",
+        "startMs": 227560,
+        "endMs": 227640
+      },
+      {
+        "text": "надо",
+        "startMs": 227640,
+        "endMs": 227910
+      },
+      {
+        "text": "температуру",
+        "startMs": 227910,
+        "endMs": 228650
+      },
+      {
+        "text": "нагонять,",
+        "startMs": 228650,
+        "endMs": 229240
+      },
+      {
+        "text": "теплообменник",
+        "startMs": 229240,
+        "endMs": 230100
+      },
+      {
+        "text": "не",
+        "startMs": 230100,
+        "endMs": 230230
+      },
+      {
+        "text": "включается.",
+        "startMs": 230230,
+        "endMs": 231010
+      },
+      {
+        "text": "То",
+        "startMs": 231010,
+        "endMs": 231140
+      },
+      {
+        "text": "есть",
+        "startMs": 231140,
+        "endMs": 231650
+      },
+      {
+        "text": "температуру",
+        "startMs": 231650,
+        "endMs": 232240
+      },
+      {
+        "text": "мы",
+        "startMs": 232240,
+        "endMs": 232280
+      },
+      {
+        "text": "тоже",
+        "startMs": 232280,
+        "endMs": 232710
+      },
+      {
+        "text": "выставляем",
+        "startMs": 232710,
+        "endMs": 233360
+      },
+      {
+        "text": "на",
+        "startMs": 233360,
+        "endMs": 233480
+      },
+      {
+        "text": "этом",
+        "startMs": 233480,
+        "endMs": 233750
+      },
+      {
+        "text": "щите",
+        "startMs": 233750,
+        "endMs": 234070
+      },
+      {
+        "text": "и",
+        "startMs": 234070,
+        "endMs": 234070
+      },
+      {
+        "text": "он",
+        "startMs": 234070,
+        "endMs": 234200
+      },
+      {
+        "text": "ее",
+        "startMs": 234200,
+        "endMs": 234330
+      },
+      {
+        "text": "поддерживает?",
+        "startMs": 234330,
+        "endMs": 235250
+      },
+      {
+        "text": "В",
+        "startMs": 235250,
+        "endMs": 235310
+      },
+      {
+        "text": "данном",
+        "startMs": 235310,
+        "endMs": 235770
+      },
+      {
+        "text": "случае",
+        "startMs": 235770,
+        "endMs": 236120
+      },
+      {
+        "text": "будет",
+        "startMs": 236120,
+        "endMs": 236510
+      },
+      {
+        "text": "не",
+        "startMs": 236510,
+        "endMs": 236590
+      },
+      {
+        "text": "на",
+        "startMs": 236590,
+        "endMs": 236720
+      },
+      {
+        "text": "щите",
+        "startMs": 236720,
+        "endMs": 236980
+      },
+      {
+        "text": "будет",
+        "startMs": 236980,
+        "endMs": 237320
+      },
+      {
+        "text": "отдельная",
+        "startMs": 237320,
+        "endMs": 237930
+      },
+      {
+        "text": "термоза.",
+        "startMs": 237930,
+        "endMs": 238480
+      },
+      {
+        "text": "Я",
+        "startMs": 238480,
+        "endMs": 238760
+      },
+      {
+        "text": "условно",
+        "startMs": 238760,
+        "endMs": 239280
+      },
+      {
+        "text": "говорю",
+        "startMs": 239280,
+        "endMs": 239740
+      },
+      {
+        "text": "что",
+        "startMs": 239740,
+        "endMs": 240000
+      },
+      {
+        "text": "выставили",
+        "startMs": 240000,
+        "endMs": 240720
+      },
+      {
+        "text": "условно",
+        "startMs": 240720,
+        "endMs": 241170
+      },
+      {
+        "text": "говоря",
+        "startMs": 241170,
+        "endMs": 241640
+      },
+      {
+        "text": "там",
+        "startMs": 241640,
+        "endMs": 241860
+      },
+      {
+        "text": "22",
+        "startMs": 241860,
+        "endMs": 242090
+      },
+      {
+        "text": "градуса.",
+        "startMs": 242090,
+        "endMs": 242740
+      },
+      {
+        "text": "Он",
+        "startMs": 242740,
+        "endMs": 242870
+      },
+      {
+        "text": "значит",
+        "startMs": 242870,
+        "endMs": 243480
+      },
+      {
+        "text": "со",
+        "startMs": 243480,
+        "endMs": 243530
+      },
+      {
+        "text": "включил",
+        "startMs": 243530,
+        "endMs": 244010
+      },
+      {
+        "text": "фильтрацию",
+        "startMs": 244010,
+        "endMs": 244900
+      },
+      {
+        "text": "загоняет",
+        "startMs": 244900,
+        "endMs": 245460
+      },
+      {
+        "text": "свежую",
+        "startMs": 245460,
+        "endMs": 245760
+      },
+      {
+        "text": "холодную",
+        "startMs": 245760,
+        "endMs": 247140
+      },
+      {
+        "text": "воду.",
+        "startMs": 247140,
+        "endMs": 248090
+      },
+      {
+        "text": "Датчик",
+        "startMs": 248090,
+        "endMs": 249120
+      },
+      {
+        "text": "считывает",
+        "startMs": 249120,
+        "endMs": 250660
+      },
+      {
+        "text": "что",
+        "startMs": 250660,
+        "endMs": 251690
+      },
+      {
+        "text": "вода",
+        "startMs": 251690,
+        "endMs": 251880
+      },
+      {
+        "text": "остыла",
+        "startMs": 251880,
+        "endMs": 252910
+      },
+      {
+        "text": "и",
+        "startMs": 252910,
+        "endMs": 253080
+      },
+      {
+        "text": "подогревает.",
+        "startMs": 253080,
+        "endMs": 255270
+      },
+      {
+        "text": "Это",
+        "startMs": 255270,
+        "endMs": 255770
+      },
+      {
+        "text": "закрытая",
+        "startMs": 255770,
+        "endMs": 257240
+      },
+      {
+        "text": "циркуляция",
+        "startMs": 257240,
+        "endMs": 257920
+      },
+      {
+        "text": "идет.",
+        "startMs": 257920,
+        "endMs": 258350
+      },
+      {
+        "text": "Холодную",
+        "startMs": 258350,
+        "endMs": 258700
+      },
+      {
+        "text": "воду",
+        "startMs": 258700,
+        "endMs": 259290
+      },
+      {
+        "text": "ниоткуда",
+        "startMs": 259290,
+        "endMs": 260540
+      },
+      {
+        "text": "не",
+        "startMs": 260540,
+        "endMs": 260620
+      },
+      {
+        "text": "добавляет.",
+        "startMs": 260620,
+        "endMs": 261930
+      },
+      {
+        "text": "Вода",
+        "startMs": 261930,
+        "endMs": 262460
+      },
+      {
+        "text": "циркулирует",
+        "startMs": 262460,
+        "endMs": 263890
+      },
+      {
+        "text": "в",
+        "startMs": 263890,
+        "endMs": 264010
+      },
+      {
+        "text": "бассейне.",
+        "startMs": 264010,
+        "endMs": 265400
+      },
+      {
+        "text": "Датчик",
+        "startMs": 265400,
+        "endMs": 265880
+      },
+      {
+        "text": "температуры",
+        "startMs": 265880,
+        "endMs": 266800
+      },
+      {
+        "text": "мерит",
+        "startMs": 266800,
+        "endMs": 267040
+      },
+      {
+        "text": "температуру",
+        "startMs": 267040,
+        "endMs": 267660
+      },
+      {
+        "text": "и",
+        "startMs": 267660,
+        "endMs": 267720
+      },
+      {
+        "text": "дает",
+        "startMs": 267720,
+        "endMs": 268090
+      },
+      {
+        "text": "сигнал",
+        "startMs": 268090,
+        "endMs": 268790
+      },
+      {
+        "text": "включать",
+        "startMs": 268790,
+        "endMs": 269420
+      },
+      {
+        "text": "или",
+        "startMs": 269420,
+        "endMs": 269710
+      },
+      {
+        "text": "не",
+        "startMs": 269710,
+        "endMs": 269900
+      },
+      {
+        "text": "включать",
+        "startMs": 269900,
+        "endMs": 270730
+      },
+      {
+        "text": "термостат.",
+        "startMs": 270730,
+        "endMs": 271740
+      },
+      {
+        "text": "Точнее",
+        "startMs": 271740,
+        "endMs": 272210
+      },
+      {
+        "text": "теплообменник.",
+        "startMs": 272210,
+        "endMs": 273670
+      },
+      {
+        "text": "Добавляться",
+        "startMs": 273670,
+        "endMs": 274620
+      },
+      {
+        "text": "вода",
+        "startMs": 274620,
+        "endMs": 275090
+      },
+      {
+        "text": "будет",
+        "startMs": 275090,
+        "endMs": 275640
+      },
+      {
+        "text": "автоматически",
+        "startMs": 275640,
+        "endMs": 276710
+      },
+      {
+        "text": "в",
+        "startMs": 276710,
+        "endMs": 276790
+      },
+      {
+        "text": "скиммер.",
+        "startMs": 276790,
+        "endMs": 277490
+      },
+      {
+        "text": "Через",
+        "startMs": 277490,
+        "endMs": 277890
+      },
+      {
+        "text": "скиммер",
+        "startMs": 277890,
+        "endMs": 278460
+      },
+      {
+        "text": "вода",
+        "startMs": 278460,
+        "endMs": 278790
+      },
+      {
+        "text": "забирается.",
+        "startMs": 278790,
+        "endMs": 279730
+      },
+      {
+        "text": "Там",
+        "startMs": 279730,
+        "endMs": 280070
+      },
+      {
+        "text": "стоит",
+        "startMs": 280070,
+        "endMs": 280390
+      },
+      {
+        "text": "уплывок",
+        "startMs": 280390,
+        "endMs": 280940
+      },
+      {
+        "text": "по",
+        "startMs": 280940,
+        "endMs": 281230
+      },
+      {
+        "text": "уровню",
+        "startMs": 281230,
+        "endMs": 281760
+      },
+      {
+        "text": "воды.",
+        "startMs": 281760,
+        "endMs": 282200
+      },
+      {
+        "text": "Соответственно",
+        "startMs": 282200,
+        "endMs": 283100
+      },
+      {
+        "text": "добавляется",
+        "startMs": 283100,
+        "endMs": 283670
+      },
+      {
+        "text": "вода.",
+        "startMs": 283670,
+        "endMs": 284160
+      },
+      {
+        "text": "Вода",
+        "startMs": 284160,
+        "endMs": 284400
+      },
+      {
+        "text": "имеет",
+        "startMs": 284400,
+        "endMs": 284720
+      },
+      {
+        "text": "свойство",
+        "startMs": 284720,
+        "endMs": 285250
+      },
+      {
+        "text": "испаряться.",
+        "startMs": 285250,
+        "endMs": 286000
+      },
+      {
+        "text": "Кроме",
+        "startMs": 286000,
+        "endMs": 286350
+      },
+      {
+        "text": "того",
+        "startMs": 286350,
+        "endMs": 286540
+      },
+      {
+        "text": "люди",
+        "startMs": 286540,
+        "endMs": 286820
+      },
+      {
+        "text": "купаются,",
+        "startMs": 286820,
+        "endMs": 287440
+      },
+      {
+        "text": "брызгают",
+        "startMs": 287440,
+        "endMs": 288720
+      },
+      {
+        "text": "воду",
+        "startMs": 288720,
+        "endMs": 289360
+      },
+      {
+        "text": "и",
+        "startMs": 289360,
+        "endMs": 289610
+      },
+      {
+        "text": "выносят",
+        "startMs": 289610,
+        "endMs": 290960
+      },
+      {
+        "text": "на",
+        "startMs": 290960,
+        "endMs": 291340
+      },
+      {
+        "text": "себе.",
+        "startMs": 291340,
+        "endMs": 291840
+      },
+      {
+        "text": "Такие",
+        "startMs": 291840,
+        "endMs": 292670
+      },
+      {
+        "text": "вещи",
+        "startMs": 292670,
+        "endMs": 293280
+      },
+      {
+        "text": "как",
+        "startMs": 293280,
+        "endMs": 294000
+      },
+      {
+        "text": "автоматический",
+        "startMs": 294000,
+        "endMs": 296090
+      },
+      {
+        "text": "долив",
+        "startMs": 296090,
+        "endMs": 296920
+      },
+      {
+        "text": "ставится",
+        "startMs": 296920,
+        "endMs": 298250
+      },
+      {
+        "text": "не",
+        "startMs": 298250,
+        "endMs": 298660
+      },
+      {
+        "text": "то",
+        "startMs": 298660,
+        "endMs": 298760
+      },
+      {
+        "text": "что",
+        "startMs": 298760,
+        "endMs": 298940
+      },
+      {
+        "text": "рекомендуется.",
+        "startMs": 298940,
+        "endMs": 299720
+      },
+      {
+        "text": "Наверное",
+        "startMs": 299720,
+        "endMs": 300750
+      },
+      {
+        "text": "очень",
+        "startMs": 300750,
+        "endMs": 300760
+      },
+      {
+        "text": "неудобно",
+        "startMs": 300760,
+        "endMs": 301420
+      },
+      {
+        "text": "без",
+        "startMs": 301420,
+        "endMs": 301640
+      },
+      {
+        "text": "него.",
+        "startMs": 301640,
+        "endMs": 302080
+      },
+      {
+        "text": "Да-да",
+        "startMs": 302080,
+        "endMs": 302600
+      },
+      {
+        "text": "вы",
+        "startMs": 302600,
+        "endMs": 302690
+      },
+      {
+        "text": "самому",
+        "startMs": 302690,
+        "endMs": 303070
+      },
+      {
+        "text": "отстеживаете",
+        "startMs": 303070,
+        "endMs": 304040
+      },
+      {
+        "text": "здесь",
+        "startMs": 304040,
+        "endMs": 304440
+      },
+      {
+        "text": "все",
+        "startMs": 304440,
+        "endMs": 304780
+      },
+      {
+        "text": "на",
+        "startMs": 304780,
+        "endMs": 304840
+      },
+      {
+        "text": "автомате.",
+        "startMs": 304840,
+        "endMs": 305410
+      },
+      {
+        "text": "Так",
+        "startMs": 305410,
+        "endMs": 306890
+      },
+      {
+        "text": "ну",
+        "startMs": 306890,
+        "endMs": 307000
+      },
+      {
+        "text": "классно",
+        "startMs": 307000,
+        "endMs": 307440
+      },
+      {
+        "text": "что",
+        "startMs": 307440,
+        "endMs": 307650
+      },
+      {
+        "text": "если",
+        "startMs": 307650,
+        "endMs": 307930
+      },
+      {
+        "text": "есть",
+        "startMs": 307930,
+        "endMs": 308210
+      },
+      {
+        "text": "какие-то",
+        "startMs": 308210,
+        "endMs": 308730
+      },
+      {
+        "text": "вопросы",
+        "startMs": 308730,
+        "endMs": 309230
+      },
+      {
+        "text": "по",
+        "startMs": 309230,
+        "endMs": 309500
+      },
+      {
+        "text": "поводу",
+        "startMs": 309500,
+        "endMs": 309790
+      },
+      {
+        "text": "установки",
+        "startMs": 309790,
+        "endMs": 310510
+      },
+      {
+        "text": "устройства",
+        "startMs": 310510,
+        "endMs": 311200
+      },
+      {
+        "text": "бассейна",
+        "startMs": 311200,
+        "endMs": 311690
+      },
+      {
+        "text": "обязательно",
+        "startMs": 311690,
+        "endMs": 312560
+      },
+      {
+        "text": "пишите",
+        "startMs": 312560,
+        "endMs": 312930
+      },
+      {
+        "text": "спрашивайте.",
+        "startMs": 312930,
+        "endMs": 313560
+      },
+      {
+        "text": "У",
+        "startMs": 313610,
+        "endMs": 313630
+      },
+      {
+        "text": "нас",
+        "startMs": 313630,
+        "endMs": 313890
+      },
+      {
+        "text": "есть",
+        "startMs": 313890,
+        "endMs": 314120
+      },
+      {
+        "text": "возможность",
+        "startMs": 314120,
+        "endMs": 314910
+      },
+      {
+        "text": "напрямую",
+        "startMs": 314910,
+        "endMs": 315470
+      },
+      {
+        "text": "спросить",
+        "startMs": 315470,
+        "endMs": 316040
+      },
+      {
+        "text": "у",
+        "startMs": 316040,
+        "endMs": 316110
+      },
+      {
+        "text": "наших",
+        "startMs": 316110,
+        "endMs": 316470
+      },
+      {
+        "text": "партнеров",
+        "startMs": 316470,
+        "endMs": 317090
+      },
+      {
+        "text": "как",
+        "startMs": 317090,
+        "endMs": 317310
+      },
+      {
+        "text": "это",
+        "startMs": 317310,
+        "endMs": 317520
+      },
+      {
+        "text": "что",
+        "startMs": 317520,
+        "endMs": 317730
+      },
+      {
+        "text": "это",
+        "startMs": 317730,
+        "endMs": 317940
+      },
+      {
+        "text": "как",
+        "startMs": 317940,
+        "endMs": 318150
+      },
+      {
+        "text": "это",
+        "startMs": 318150,
+        "endMs": 318520
+      },
+      {
+        "text": "выглядит.",
+        "startMs": 318520,
+        "endMs": 319010
+      },
+      {
+        "text": "Пожалуйста",
+        "startMs": 319010,
+        "endMs": 319520
+      },
+      {
+        "text": "аккуратно",
+        "startMs": 319520,
+        "endMs": 320350
+      },
+      {
+        "text": "только",
+        "startMs": 320350,
+        "endMs": 320720
+      },
+      {
+        "text": "не",
+        "startMs": 320720,
+        "endMs": 320880
+      },
+      {
+        "text": "упадите",
+        "startMs": 320880,
+        "endMs": 321440
+      },
+      {
+        "text": "это",
+        "startMs": 321440,
+        "endMs": 321720
+      },
+      {
+        "text": "будет",
+        "startMs": 321720,
+        "endMs": 322080
+      },
+      {
+        "text": "очень",
+        "startMs": 322080,
+        "endMs": 322800
+      },
+      {
+        "text": "крутой",
+        "startMs": 322800,
+        "endMs": 322980
+      },
+      {
+        "text": "кат.",
+        "startMs": 322980,
+        "endMs": 323440
+      },
+      {
+        "text": "Так",
+        "startMs": 323440,
+        "endMs": 323560
+      },
+      {
+        "text": "что",
+        "startMs": 323560,
+        "endMs": 323800
+      },
+      {
+        "text": "все",
+        "startMs": 323800,
+        "endMs": 324180
+      },
+      {
+        "text": "все",
+        "startMs": 324180,
+        "endMs": 324280
+      },
+      {
+        "text": "вам",
+        "startMs": 324280,
+        "endMs": 324520
+      },
+      {
+        "text": "большое",
+        "startMs": 324520,
+        "endMs": 325090
+      },
+      {
+        "text": "спасибо.",
+        "startMs": 325090,
+        "endMs": 325800
+      },
+      {
+        "text": "*Слышен",
+        "startMs": 325800,
+        "endMs": 327110
+      },
+      {
+        "text": "звук*",
+        "startMs": 327110,
+        "endMs": 327800
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "pool-s1",
+      "title": "Устройство бассейна · Серия 1",
+      "music": "music6.mp3",
+      "series": {
+        "n": 1,
+        "total": 4,
+        "theme": "Фильтры и техпомещение"
+      },
+      "accents": [
+        {
+          "atMs": 29000,
+          "durMs": 2600
+        },
+        {
+          "atMs": 32000,
+          "durMs": 3200
+        }
+      ],
+      "gifs": [
+        {
+          "src": "waterfall2",
+          "atMs": 32000,
+          "durMs": 3400,
+          "mode": "waterfall",
+          "label": "будущий водопад"
+        },
+        {
+          "src": "snow",
+          "atMs": 75400,
+          "durMs": 3400,
+          "mode": "weather"
+        },
+        {
+          "src": "rain",
+          "atMs": 75400,
+          "durMs": 3400,
+          "mode": "weather"
+        },
+        {
+          "src": "ice",
+          "atMs": 76100,
+          "durMs": 2400,
+          "mode": "card",
+          "label": "не страшно"
+        }
+      ],
+      "items": [
+        {
+          "clip": "pool4",
+          "fromMs": 0,
+          "toMs": 79500,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        }
+      ]
+    },
+    {
+      "id": "pool-s2",
+      "title": "Устройство бассейна · Серия 2",
+      "music": "music6.mp3",
+      "series": {
+        "n": 2,
+        "total": 4,
+        "theme": "Температура и электрика"
+      },
+      "accents": [
+        {
+          "atMs": 46000,
+          "durMs": 2800
+        }
+      ],
+      "gifs": [
+        {
+          "src": "fire2",
+          "atMs": 9200,
+          "durMs": 2000,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 240,
+          "label": "до 40°"
+        },
+        {
+          "src": "lightning2",
+          "atMs": 17200,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 240
+        },
+        {
+          "src": "fire2",
+          "atMs": 26900,
+          "durMs": 2000,
+          "mode": "sticker",
+          "pos": "br",
+          "size": 220
+        },
+        {
+          "src": "thumbup2",
+          "atMs": 36100,
+          "durMs": 2800,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 240,
+          "label": "вопрос снят"
+        }
+      ],
+      "items": [
+        {
+          "clip": "pool4",
+          "fromMs": 79500,
+          "toMs": 140600,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": 140220
+        }
+      ]
+    },
+    {
+      "id": "pool-s3",
+      "title": "Устройство бассейна · Серия 3",
+      "music": "music6.mp3",
+      "series": {
+        "n": 3,
+        "total": 4,
+        "theme": "Обслуживание бассейна"
+      },
+      "accents": [
+        {
+          "atMs": 19000,
+          "durMs": 2600
+        },
+        {
+          "atMs": 46000,
+          "durMs": 3000
+        }
+      ],
+      "gifs": [
+        {
+          "src": "calendar2",
+          "atMs": 19800,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "раз-два года"
+        },
+        {
+          "src": "drop2",
+          "atMs": 25800,
+          "durMs": 2200,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 200
+        },
+        {
+          "src": "timer2",
+          "atMs": 49100,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "автотаймер"
+        },
+        {
+          "src": "fire2",
+          "atMs": 68400,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 220,
+          "label": "подогрев"
+        }
+      ],
+      "items": [
+        {
+          "clip": "pool4",
+          "fromMs": 140200,
+          "toMs": 236400,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": 235400
+        }
+      ]
+    },
+    {
+      "id": "pool-s4",
+      "title": "Устройство бассейна · Серия 4",
+      "music": "music6.mp3",
+      "series": {
+        "n": 4,
+        "total": 4,
+        "theme": "Умная автоматика"
+      },
+      "accents": [
+        {
+          "atMs": 13250,
+          "durMs": 2400
+        },
+        {
+          "atMs": 58000,
+          "durMs": 2600
+        },
+        {
+          "atMs": 76600,
+          "durMs": 2400
+        }
+      ],
+      "gifs": [
+        {
+          "src": "fire2",
+          "atMs": 5100,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 220,
+          "label": "подогрев"
+        },
+        {
+          "src": "pool2",
+          "atMs": 40800,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 220,
+          "label": "скиммер"
+        },
+        {
+          "src": "drop2",
+          "atMs": 58000,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 210,
+          "label": "автодолив"
+        },
+        {
+          "src": "thumbup2",
+          "atMs": 68800,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 220,
+          "label": "на автомате"
+        }
+      ],
+      "items": [
+        {
+          "clip": "pool4",
+          "fromMs": 248400,
+          "toMs": 255400,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "pool4",
+          "fromMs": 235300,
+          "toMs": 248400,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "pool4",
+          "fromMs": 255400,
+          "toMs": 328000,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": 325800
+        }
+      ]
+    }
+  ]
+}

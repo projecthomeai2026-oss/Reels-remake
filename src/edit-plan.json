@@ -1,0 +1,1152 @@
+{
+  "IMG_1404": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 12770
+      }
+    ],
+    "words": [
+      {
+        "text": "Всем",
+        "startMs": 0,
+        "endMs": 950
+      },
+      {
+        "text": "привет!",
+        "startMs": 950,
+        "endMs": 2000
+      },
+      {
+        "text": "Сегодня",
+        "startMs": 2000,
+        "endMs": 2490
+      },
+      {
+        "text": "будет",
+        "startMs": 2490,
+        "endMs": 2840
+      },
+      {
+        "text": "день",
+        "startMs": 2840,
+        "endMs": 3120
+      },
+      {
+        "text": "со",
+        "startMs": 3120,
+        "endMs": 3260
+      },
+      {
+        "text": "стройки.",
+        "startMs": 3260,
+        "endMs": 4230
+      },
+      {
+        "text": "Сейчас",
+        "startMs": 4230,
+        "endMs": 4560
+      },
+      {
+        "text": "немножко",
+        "startMs": 4560,
+        "endMs": 4880
+      },
+      {
+        "text": "покажу,",
+        "startMs": 4880,
+        "endMs": 5480
+      },
+      {
+        "text": "где",
+        "startMs": 5480,
+        "endMs": 5520
+      },
+      {
+        "text": "мы,",
+        "startMs": 5520,
+        "endMs": 5680
+      },
+      {
+        "text": "на",
+        "startMs": 5680,
+        "endMs": 5720
+      },
+      {
+        "text": "каких",
+        "startMs": 5720,
+        "endMs": 6010
+      },
+      {
+        "text": "объектах,",
+        "startMs": 6010,
+        "endMs": 6440
+      },
+      {
+        "text": "что",
+        "startMs": 6440,
+        "endMs": 6690
+      },
+      {
+        "text": "делаем.",
+        "startMs": 6690,
+        "endMs": 7310
+      },
+      {
+        "text": "Прямо",
+        "startMs": 7310,
+        "endMs": 7900
+      },
+      {
+        "text": "за",
+        "startMs": 7900,
+        "endMs": 7930
+      },
+      {
+        "text": "моей",
+        "startMs": 7930,
+        "endMs": 8240
+      },
+      {
+        "text": "спиной",
+        "startMs": 8240,
+        "endMs": 8750
+      },
+      {
+        "text": "вот",
+        "startMs": 8750,
+        "endMs": 9000
+      },
+      {
+        "text": "такой",
+        "startMs": 9000,
+        "endMs": 9430
+      },
+      {
+        "text": "котлован",
+        "startMs": 9430,
+        "endMs": 9850
+      },
+      {
+        "text": "небольшой.",
+        "startMs": 9850,
+        "endMs": 10740
+      },
+      {
+        "text": "Как",
+        "startMs": 10740,
+        "endMs": 10970
+      },
+      {
+        "text": "вы",
+        "startMs": 10970,
+        "endMs": 11270
+      },
+      {
+        "text": "думаете,",
+        "startMs": 11270,
+        "endMs": 11920
+      },
+      {
+        "text": "под",
+        "startMs": 11920,
+        "endMs": 12180
+      },
+      {
+        "text": "что",
+        "startMs": 12180,
+        "endMs": 12480
+      },
+      {
+        "text": "это?",
+        "startMs": 12480,
+        "endMs": 12720
+      }
+    ]
+  },
+  "IMG_1406": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 7000
+      }
+    ],
+    "words": [
+      {
+        "text": "Легкая",
+        "startMs": 0,
+        "endMs": 1180
+      },
+      {
+        "text": "подсказка",
+        "startMs": 1180,
+        "endMs": 3000
+      },
+      {
+        "text": "Ну",
+        "startMs": 3000,
+        "endMs": 3640
+      },
+      {
+        "text": "конечно",
+        "startMs": 3640,
+        "endMs": 4170
+      },
+      {
+        "text": "же",
+        "startMs": 4170,
+        "endMs": 4430
+      },
+      {
+        "text": "бассейн",
+        "startMs": 4430,
+        "endMs": 5340
+      },
+      {
+        "text": "здесь",
+        "startMs": 5340,
+        "endMs": 6000
+      },
+      {
+        "text": "будет",
+        "startMs": 6000,
+        "endMs": 6180
+      },
+      {
+        "text": "классный",
+        "startMs": 6180,
+        "endMs": 6460
+      },
+      {
+        "text": "большой",
+        "startMs": 6460,
+        "endMs": 6710
+      },
+      {
+        "text": "бассейн",
+        "startMs": 6710,
+        "endMs": 7000
+      }
+    ]
+  },
+  "IMG_1407": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 5950
+      },
+      {
+        "fromMs": 10000,
+        "toMs": 14950
+      },
+      {
+        "fromMs": 23000,
+        "toMs": 26700
+      },
+      {
+        "fromMs": 29900,
+        "toMs": 35320
+      }
+    ],
+    "words": [
+      {
+        "text": "Сейчас",
+        "startMs": 0,
+        "endMs": 690
+      },
+      {
+        "text": "мы",
+        "startMs": 690,
+        "endMs": 920
+      },
+      {
+        "text": "заходим",
+        "startMs": 920,
+        "endMs": 1720
+      },
+      {
+        "text": "в",
+        "startMs": 1720,
+        "endMs": 2331
+      },
+      {
+        "text": "«Неваду»,",
+        "startMs": 2331,
+        "endMs": 2943
+      },
+      {
+        "text": "где",
+        "startMs": 2943,
+        "endMs": 3554
+      },
+      {
+        "text": "полным",
+        "startMs": 3554,
+        "endMs": 4166
+      },
+      {
+        "text": "ходом",
+        "startMs": 4166,
+        "endMs": 4777
+      },
+      {
+        "text": "идёт",
+        "startMs": 4777,
+        "endMs": 5389
+      },
+      {
+        "text": "ремонт.",
+        "startMs": 5389,
+        "endMs": 6000
+      },
+      {
+        "text": "Здесь",
+        "startMs": 10000,
+        "endMs": 11500
+      },
+      {
+        "text": "парни",
+        "startMs": 11500,
+        "endMs": 13130
+      },
+      {
+        "text": "грунтуют",
+        "startMs": 13130,
+        "endMs": 13560
+      },
+      {
+        "text": "стены,",
+        "startMs": 13560,
+        "endMs": 14000
+      },
+      {
+        "text": "готовят",
+        "startMs": 14000,
+        "endMs": 14350
+      },
+      {
+        "text": "под",
+        "startMs": 14350,
+        "endMs": 14500
+      },
+      {
+        "text": "покраску.",
+        "startMs": 14500,
+        "endMs": 15000
+      },
+      {
+        "text": "Здесь",
+        "startMs": 23000,
+        "endMs": 23470
+      },
+      {
+        "text": "такие",
+        "startMs": 23470,
+        "endMs": 23940
+      },
+      {
+        "text": "инсталляции",
+        "startMs": 23940,
+        "endMs": 24940
+      },
+      {
+        "text": "указали",
+        "startMs": 24940,
+        "endMs": 25580
+      },
+      {
+        "text": "под",
+        "startMs": 25580,
+        "endMs": 25860
+      },
+      {
+        "text": "кухню",
+        "startMs": 25860,
+        "endMs": 26300
+      },
+      {
+        "text": "будут.",
+        "startMs": 26300,
+        "endMs": 27000
+      },
+      {
+        "text": "Мы",
+        "startMs": 30000,
+        "endMs": 30210
+      },
+      {
+        "text": "ждём",
+        "startMs": 30210,
+        "endMs": 30630
+      },
+      {
+        "text": "когда",
+        "startMs": 30630,
+        "endMs": 31160
+      },
+      {
+        "text": "закончится",
+        "startMs": 31160,
+        "endMs": 32040
+      },
+      {
+        "text": "ремонт,",
+        "startMs": 32040,
+        "endMs": 33000
+      },
+      {
+        "text": "чтобы",
+        "startMs": 33000,
+        "endMs": 33310
+      },
+      {
+        "text": "вы",
+        "startMs": 33310,
+        "endMs": 33430
+      },
+      {
+        "text": "увидели",
+        "startMs": 33430,
+        "endMs": 33870
+      },
+      {
+        "text": "как",
+        "startMs": 33870,
+        "endMs": 34060
+      },
+      {
+        "text": "это",
+        "startMs": 34060,
+        "endMs": 34250
+      },
+      {
+        "text": "будет",
+        "startMs": 34250,
+        "endMs": 34560
+      },
+      {
+        "text": "клёво.",
+        "startMs": 34560,
+        "endMs": 35000
+      }
+    ]
+  },
+  "IMG_1409": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 6820
+      },
+      {
+        "fromMs": 7580,
+        "toMs": 8800
+      },
+      {
+        "fromMs": 9390,
+        "toMs": 17020
+      }
+    ],
+    "words": [
+      {
+        "text": "Наш",
+        "startMs": 0,
+        "endMs": 215
+      },
+      {
+        "text": "«Шанхай»",
+        "startMs": 215,
+        "endMs": 430
+      },
+      {
+        "text": "на",
+        "startMs": 430,
+        "endMs": 540
+      },
+      {
+        "text": "второй",
+        "startMs": 540,
+        "endMs": 940
+      },
+      {
+        "text": "улице",
+        "startMs": 940,
+        "endMs": 1170
+      },
+      {
+        "text": "который",
+        "startMs": 1170,
+        "endMs": 1580
+      },
+      {
+        "text": "на",
+        "startMs": 1580,
+        "endMs": 1700
+      },
+      {
+        "text": "сегодняшний",
+        "startMs": 1700,
+        "endMs": 2320
+      },
+      {
+        "text": "день",
+        "startMs": 2320,
+        "endMs": 2640
+      },
+      {
+        "text": "в",
+        "startMs": 2640,
+        "endMs": 2830
+      },
+      {
+        "text": "продаже",
+        "startMs": 2830,
+        "endMs": 3700
+      },
+      {
+        "text": "преобразился",
+        "startMs": 3700,
+        "endMs": 4460
+      },
+      {
+        "text": "парни",
+        "startMs": 4460,
+        "endMs": 5440
+      },
+      {
+        "text": "поклеили",
+        "startMs": 5440,
+        "endMs": 5960
+      },
+      {
+        "text": "натуральный",
+        "startMs": 5960,
+        "endMs": 7040
+      },
+      {
+        "text": "кварцит",
+        "startMs": 7730,
+        "endMs": 8360
+      },
+      {
+        "text": "сделали",
+        "startMs": 8360,
+        "endMs": 9030
+      },
+      {
+        "text": "работы",
+        "startMs": 9860,
+        "endMs": 10460
+      },
+      {
+        "text": "штукатурочка",
+        "startMs": 10460,
+        "endMs": 11660
+      },
+      {
+        "text": "Церезит,",
+        "startMs": 11660,
+        "endMs": 12360
+      },
+      {
+        "text": "которая",
+        "startMs": 12360,
+        "endMs": 13120
+      },
+      {
+        "text": "защищает",
+        "startMs": 13120,
+        "endMs": 13720
+      },
+      {
+        "text": "от",
+        "startMs": 13720,
+        "endMs": 13980
+      },
+      {
+        "text": "влаги,",
+        "startMs": 13980,
+        "endMs": 14240
+      },
+      {
+        "text": "СИБИТ,",
+        "startMs": 14240,
+        "endMs": 14640
+      },
+      {
+        "text": "и",
+        "startMs": 14640,
+        "endMs": 14830
+      },
+      {
+        "text": "паропроницаемая,",
+        "startMs": 14830,
+        "endMs": 16060
+      },
+      {
+        "text": "чтобы",
+        "startMs": 16060,
+        "endMs": 16320
+      },
+      {
+        "text": "он",
+        "startMs": 16320,
+        "endMs": 16480
+      },
+      {
+        "text": "дышал",
+        "startMs": 16480,
+        "endMs": 17120
+      },
+      {
+        "text": "улице.",
+        "startMs": 22176,
+        "endMs": 22880
+      }
+    ]
+  },
+  "IMG_1411": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 3730
+      },
+      {
+        "fromMs": 4180,
+        "toMs": 9940
+      }
+    ],
+    "words": [
+      {
+        "text": "На",
+        "startMs": 20,
+        "endMs": 465
+      },
+      {
+        "text": "«Денвере»",
+        "startMs": 465,
+        "endMs": 910
+      },
+      {
+        "text": "закончили",
+        "startMs": 910,
+        "endMs": 1960
+      },
+      {
+        "text": "устройство",
+        "startMs": 1960,
+        "endMs": 3300
+      },
+      {
+        "text": "террасы,",
+        "startMs": 3300,
+        "endMs": 4320
+      },
+      {
+        "text": "положили",
+        "startMs": 4320,
+        "endMs": 4680
+      },
+      {
+        "text": "террасную",
+        "startMs": 4680,
+        "endMs": 5200
+      },
+      {
+        "text": "доску,",
+        "startMs": 5200,
+        "endMs": 5600
+      },
+      {
+        "text": "доделали",
+        "startMs": 5600,
+        "endMs": 6700
+      },
+      {
+        "text": "весь",
+        "startMs": 6700,
+        "endMs": 6910
+      },
+      {
+        "text": "стелечек,",
+        "startMs": 6910,
+        "endMs": 7520
+      },
+      {
+        "text": "вот",
+        "startMs": 7520,
+        "endMs": 7750
+      },
+      {
+        "text": "так",
+        "startMs": 7750,
+        "endMs": 8040
+      },
+      {
+        "text": "теперь",
+        "startMs": 8040,
+        "endMs": 8340
+      },
+      {
+        "text": "он",
+        "startMs": 8340,
+        "endMs": 8450
+      },
+      {
+        "text": "выглядит.",
+        "startMs": 8450,
+        "endMs": 9000
+      }
+    ]
+  },
+  "IMG_1412": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 9250
+      },
+      {
+        "fromMs": 13450,
+        "toMs": 17300
+      },
+      {
+        "fromMs": 17680,
+        "toMs": 21740
+      }
+    ],
+    "words": [
+      {
+        "text": "И",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "text": "сейчас",
+        "startMs": 260,
+        "endMs": 700
+      },
+      {
+        "text": "я",
+        "startMs": 700,
+        "endMs": 830
+      },
+      {
+        "text": "нахожусь",
+        "startMs": 830,
+        "endMs": 1600
+      },
+      {
+        "text": "на",
+        "startMs": 1600,
+        "endMs": 1870
+      },
+      {
+        "text": "строительстве",
+        "startMs": 1870,
+        "endMs": 3120
+      },
+      {
+        "text": "нового",
+        "startMs": 3120,
+        "endMs": 3550
+      },
+      {
+        "text": "дома.",
+        "startMs": 3550,
+        "endMs": 4190
+      },
+      {
+        "text": "Клиент",
+        "startMs": 4190,
+        "endMs": 4840
+      },
+      {
+        "text": "купил",
+        "startMs": 4840,
+        "endMs": 5280
+      },
+      {
+        "text": "дом",
+        "startMs": 5280,
+        "endMs": 5560
+      },
+      {
+        "text": "в",
+        "startMs": 5560,
+        "endMs": 6080
+      },
+      {
+        "text": "Сбер-ипотеку.",
+        "startMs": 6080,
+        "endMs": 6600
+      },
+      {
+        "text": "Начинаем",
+        "startMs": 6600,
+        "endMs": 7130
+      },
+      {
+        "text": "строительство",
+        "startMs": 7130,
+        "endMs": 8010
+      },
+      {
+        "text": "еще",
+        "startMs": 8010,
+        "endMs": 8210
+      },
+      {
+        "text": "одного",
+        "startMs": 8210,
+        "endMs": 8740
+      },
+      {
+        "text": "«Шанхая».",
+        "startMs": 8740,
+        "endMs": 9270
+      },
+      {
+        "text": "Здесь",
+        "startMs": 13480,
+        "endMs": 13860
+      },
+      {
+        "text": "мы",
+        "startMs": 13860,
+        "endMs": 13970
+      },
+      {
+        "text": "приступаем",
+        "startMs": 13970,
+        "endMs": 14670
+      },
+      {
+        "text": "к",
+        "startMs": 14670,
+        "endMs": 14740
+      },
+      {
+        "text": "земельным",
+        "startMs": 14740,
+        "endMs": 15420
+      },
+      {
+        "text": "работам,",
+        "startMs": 15420,
+        "endMs": 15900
+      },
+      {
+        "text": "к",
+        "startMs": 15900,
+        "endMs": 15960
+      },
+      {
+        "text": "устройству",
+        "startMs": 15960,
+        "endMs": 16580
+      },
+      {
+        "text": "фундамента.",
+        "startMs": 16580,
+        "endMs": 17280
+      },
+      {
+        "text": "показывать,",
+        "startMs": 17820,
+        "endMs": 18200
+      },
+      {
+        "text": "как",
+        "startMs": 18200,
+        "endMs": 18380
+      },
+      {
+        "text": "это",
+        "startMs": 18380,
+        "endMs": 18560
+      },
+      {
+        "text": "будет",
+        "startMs": 18560,
+        "endMs": 18960
+      },
+      {
+        "text": "происходить",
+        "startMs": 18960,
+        "endMs": 19640
+      },
+      {
+        "text": "в",
+        "startMs": 19640,
+        "endMs": 19760
+      },
+      {
+        "text": "моменте",
+        "startMs": 19760,
+        "endMs": 20160
+      },
+      {
+        "text": "реального",
+        "startMs": 20160,
+        "endMs": 21660
+      },
+      {
+        "text": "времени.",
+        "startMs": 21660,
+        "endMs": 23000
+      }
+    ]
+  },
+  "IMG_1415": {
+    "segments": [
+      {
+        "fromMs": 0,
+        "toMs": 19150
+      },
+      {
+        "fromMs": 26340,
+        "toMs": 26570
+      },
+      {
+        "fromMs": 27200,
+        "toMs": 28190
+      }
+    ],
+    "words": [
+      {
+        "text": "Вот",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "text": "так",
+        "startMs": 240,
+        "endMs": 640
+      },
+      {
+        "text": "по",
+        "startMs": 640,
+        "endMs": 680
+      },
+      {
+        "text": "чуть-чуть",
+        "startMs": 680,
+        "endMs": 1390
+      },
+      {
+        "text": "буду",
+        "startMs": 1390,
+        "endMs": 1640
+      },
+      {
+        "text": "показывать",
+        "startMs": 1640,
+        "endMs": 2500
+      },
+      {
+        "text": "вам",
+        "startMs": 2500,
+        "endMs": 2680
+      },
+      {
+        "text": "строительные",
+        "startMs": 2680,
+        "endMs": 3240
+      },
+      {
+        "text": "процессы,",
+        "startMs": 3240,
+        "endMs": 4030
+      },
+      {
+        "text": "подсвечивать",
+        "startMs": 4030,
+        "endMs": 4500
+      },
+      {
+        "text": "их.",
+        "startMs": 4500,
+        "endMs": 4600
+      },
+      {
+        "text": "Сегодня",
+        "startMs": 4600,
+        "endMs": 5230
+      },
+      {
+        "text": "мы",
+        "startMs": 5230,
+        "endMs": 5240
+      },
+      {
+        "text": "наблюдали",
+        "startMs": 5240,
+        "endMs": 5880
+      },
+      {
+        "text": "какие-то",
+        "startMs": 5880,
+        "endMs": 6400
+      },
+      {
+        "text": "мелкие",
+        "startMs": 6400,
+        "endMs": 6830
+      },
+      {
+        "text": "работы,",
+        "startMs": 6830,
+        "endMs": 7400
+      },
+      {
+        "text": "какие-то",
+        "startMs": 7400,
+        "endMs": 7860
+      },
+      {
+        "text": "крупные.",
+        "startMs": 7860,
+        "endMs": 8400
+      },
+      {
+        "text": "Я",
+        "startMs": 8400,
+        "endMs": 8500
+      },
+      {
+        "text": "хочу",
+        "startMs": 8500,
+        "endMs": 9010
+      },
+      {
+        "text": "сказать,",
+        "startMs": 9010,
+        "endMs": 9640
+      },
+      {
+        "text": "что",
+        "startMs": 9640,
+        "endMs": 9870
+      },
+      {
+        "text": "для",
+        "startMs": 9870,
+        "endMs": 10090
+      },
+      {
+        "text": "нашей",
+        "startMs": 10090,
+        "endMs": 10540
+      },
+      {
+        "text": "компании",
+        "startMs": 10540,
+        "endMs": 11090
+      },
+      {
+        "text": "важно",
+        "startMs": 11090,
+        "endMs": 11470
+      },
+      {
+        "text": "относиться",
+        "startMs": 11470,
+        "endMs": 12250
+      },
+      {
+        "text": "ко",
+        "startMs": 12250,
+        "endMs": 12380
+      },
+      {
+        "text": "всем",
+        "startMs": 12380,
+        "endMs": 12820
+      },
+      {
+        "text": "работам",
+        "startMs": 12820,
+        "endMs": 13280
+      },
+      {
+        "text": "с",
+        "startMs": 13280,
+        "endMs": 13630
+      },
+      {
+        "text": "особой",
+        "startMs": 13630,
+        "endMs": 13920
+      },
+      {
+        "text": "ответственностью,",
+        "startMs": 13920,
+        "endMs": 14040
+      },
+      {
+        "text": "какими",
+        "startMs": 14040,
+        "endMs": 14660
+      },
+      {
+        "text": "бы",
+        "startMs": 14660,
+        "endMs": 15100
+      },
+      {
+        "text": "мелкими",
+        "startMs": 15100,
+        "endMs": 15480
+      },
+      {
+        "text": "или",
+        "startMs": 15480,
+        "endMs": 15770
+      },
+      {
+        "text": "крупными",
+        "startMs": 15770,
+        "endMs": 16570
+      },
+      {
+        "text": "они",
+        "startMs": 16570,
+        "endMs": 16880
+      },
+      {
+        "text": "не",
+        "startMs": 16880,
+        "endMs": 17020
+      },
+      {
+        "text": "были.",
+        "startMs": 17020,
+        "endMs": 17600
+      },
+      {
+        "text": "Поэтому",
+        "startMs": 17600,
+        "endMs": 18130
+      },
+      {
+        "text": "желаю",
+        "startMs": 18130,
+        "endMs": 18450
+      },
+      {
+        "text": "доброго",
+        "startMs": 18450,
+        "endMs": 18870
+      },
+      {
+        "text": "дня.",
+        "startMs": 18870,
+        "endMs": 19200
+      },
+      {
+        "text": "Пока!",
+        "startMs": 26400,
+        "endMs": 27440
+      }
+    ]
+  }
+}

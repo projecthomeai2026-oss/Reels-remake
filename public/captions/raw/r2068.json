@@ -1,0 +1,576 @@
+[
+  {
+    "text": "что",
+    "startMs": 0,
+    "endMs": 190,
+    "timestampMs": 240,
+    "confidence": 0.123904
+  },
+  {
+    "text": " друзья",
+    "startMs": 190,
+    "endMs": 570,
+    "timestampMs": 580,
+    "confidence": 0.871461
+  },
+  {
+    "text": " всем",
+    "startMs": 570,
+    "endMs": 820,
+    "timestampMs": 880,
+    "confidence": 0.793913
+  },
+  {
+    "text": " добр",
+    "startMs": 820,
+    "endMs": 1070,
+    "timestampMs": 1160,
+    "confidence": 0.990467
+  },
+  {
+    "text": "ый",
+    "startMs": 1070,
+    "endMs": 1180,
+    "timestampMs": 1280,
+    "confidence": 0.992
+  },
+  {
+    "text": " день",
+    "startMs": 1180,
+    "endMs": 1570,
+    "timestampMs": 1560,
+    "confidence": 0.997982
+  },
+  {
+    "text": " сегодня",
+    "startMs": 1570,
+    "endMs": 1880,
+    "timestampMs": 1920,
+    "confidence": 0.640818
+  },
+  {
+    "text": " пят",
+    "startMs": 1880,
+    "endMs": 2070,
+    "timestampMs": 2180,
+    "confidence": 0.761487
+  },
+  {
+    "text": "ый",
+    "startMs": 2070,
+    "endMs": 2190,
+    "timestampMs": 2300,
+    "confidence": 0.999697
+  },
+  {
+    "text": " день",
+    "startMs": 2190,
+    "endMs": 2360,
+    "timestampMs": 2500,
+    "confidence": 0.918313
+  },
+  {
+    "text": " вы",
+    "startMs": 2360,
+    "endMs": 2500,
+    "timestampMs": 2780,
+    "confidence": 0.866149
+  },
+  {
+    "text": "став",
+    "startMs": 2500,
+    "endMs": 2780,
+    "timestampMs": 2900,
+    "confidence": 0.999851
+  },
+  {
+    "text": "ки",
+    "startMs": 2780,
+    "endMs": 2940,
+    "timestampMs": 3020,
+    "confidence": 0.995568
+  },
+  {
+    "text": " нап",
+    "startMs": 2940,
+    "endMs": 3150,
+    "timestampMs": 3260,
+    "confidence": 0.957037
+  },
+  {
+    "text": "омина",
+    "startMs": 3150,
+    "endMs": 3490,
+    "timestampMs": 3540,
+    "confidence": 0.99568
+  },
+  {
+    "text": "ет",
+    "startMs": 3490,
+    "endMs": 3660,
+    "timestampMs": 3760,
+    "confidence": 0.87479
+  },
+  {
+    "text": " о",
+    "startMs": 3660,
+    "endMs": 4150,
+    "timestampMs": 4200,
+    "confidence": 0.790034
+  },
+  {
+    "text": " 13",
+    "startMs": 4150,
+    "endMs": 4620,
+    "timestampMs": 4600,
+    "confidence": 0.964367
+  },
+  {
+    "text": " готов",
+    "startMs": 4620,
+    "endMs": 4840,
+    "timestampMs": 4940,
+    "confidence": 0.727865
+  },
+  {
+    "text": "ых",
+    "startMs": 4840,
+    "endMs": 4960,
+    "timestampMs": 5100,
+    "confidence": 0.998717
+  },
+  {
+    "text": " дом",
+    "startMs": 4960,
+    "endMs": 5220,
+    "timestampMs": 5380,
+    "confidence": 0.752473
+  },
+  {
+    "text": "ов",
+    "startMs": 5220,
+    "endMs": 5400,
+    "timestampMs": 5460,
+    "confidence": 0.98159
+  },
+  {
+    "text": " где",
+    "startMs": 5400,
+    "endMs": 5560,
+    "timestampMs": 5660,
+    "confidence": 0.591197
+  },
+  {
+    "text": " можно",
+    "startMs": 5560,
+    "endMs": 5760,
+    "timestampMs": 5960,
+    "confidence": 0.600585
+  },
+  {
+    "text": " приех",
+    "startMs": 5760,
+    "endMs": 6130,
+    "timestampMs": 6300,
+    "confidence": 0.99586
+  },
+  {
+    "text": "ать",
+    "startMs": 6130,
+    "endMs": 6390,
+    "timestampMs": 6420,
+    "confidence": 0.998849
+  },
+  {
+    "text": " и",
+    "startMs": 6390,
+    "endMs": 6420,
+    "timestampMs": 6600,
+    "confidence": 0.971287
+  },
+  {
+    "text": " посмотреть",
+    "startMs": 6420,
+    "endMs": 7340,
+    "timestampMs": 7000,
+    "confidence": 0.998207
+  },
+  {
+    "text": " интерес",
+    "startMs": 7340,
+    "endMs": 7690,
+    "timestampMs": 7860,
+    "confidence": 0.994943
+  },
+  {
+    "text": "ные",
+    "startMs": 7690,
+    "endMs": 7910,
+    "timestampMs": 8000,
+    "confidence": 0.993432
+  },
+  {
+    "text": " реш",
+    "startMs": 7910,
+    "endMs": 8160,
+    "timestampMs": 8280,
+    "confidence": 0.999161
+  },
+  {
+    "text": "ения",
+    "startMs": 8160,
+    "endMs": 8550,
+    "timestampMs": 8460,
+    "confidence": 0.937879
+  },
+  {
+    "text": " по",
+    "startMs": 8550,
+    "endMs": 8580,
+    "timestampMs": 8820,
+    "confidence": 0.995824
+  },
+  {
+    "text": " стро",
+    "startMs": 8580,
+    "endMs": 8880,
+    "timestampMs": 9040,
+    "confidence": 0.998984
+  },
+  {
+    "text": "итель",
+    "startMs": 8880,
+    "endMs": 9250,
+    "timestampMs": 9220,
+    "confidence": 0.998875
+  },
+  {
+    "text": "ству",
+    "startMs": 9250,
+    "endMs": 9580,
+    "timestampMs": 9360,
+    "confidence": 0.996791
+  },
+  {
+    "text": " и",
+    "startMs": 9580,
+    "endMs": 9620,
+    "timestampMs": 9620,
+    "confidence": 0.99639
+  },
+  {
+    "text": " по",
+    "startMs": 9620,
+    "endMs": 9770,
+    "timestampMs": 9760,
+    "confidence": 0.983851
+  },
+  {
+    "text": " р",
+    "startMs": 9770,
+    "endMs": 9840,
+    "timestampMs": 9900,
+    "confidence": 0.99894
+  },
+  {
+    "text": "емон",
+    "startMs": 9840,
+    "endMs": 10130,
+    "timestampMs": 10040,
+    "confidence": 0.999849
+  },
+  {
+    "text": "ту",
+    "startMs": 10130,
+    "endMs": 10590,
+    "timestampMs": 10540,
+    "confidence": 0.99886
+  },
+  {
+    "text": " всех",
+    "startMs": 10590,
+    "endMs": 10660,
+    "timestampMs": 10820,
+    "confidence": 0.931943
+  },
+  {
+    "text": " ж",
+    "startMs": 10660,
+    "endMs": 10660,
+    "timestampMs": 10980,
+    "confidence": 0.847285
+  },
+  {
+    "text": "ду",
+    "startMs": 10660,
+    "endMs": 10900,
+    "timestampMs": 11080,
+    "confidence": 0.999338
+  },
+  {
+    "text": " в",
+    "startMs": 10900,
+    "endMs": 11060,
+    "timestampMs": 11240,
+    "confidence": 0.959734
+  },
+  {
+    "text": " го",
+    "startMs": 11060,
+    "endMs": 11210,
+    "timestampMs": 11420,
+    "confidence": 0.971791
+  },
+  {
+    "text": "сти",
+    "startMs": 11210,
+    "endMs": 11440,
+    "timestampMs": 11540,
+    "confidence": 0.982628
+  },
+  {
+    "text": " обязательно",
+    "startMs": 11440,
+    "endMs": 12000,
+    "timestampMs": 12060,
+    "confidence": 0.473422
+  },
+  {
+    "text": " пиш",
+    "startMs": 12000,
+    "endMs": 12270,
+    "timestampMs": 12320,
+    "confidence": 0.851467
+  },
+  {
+    "text": "ите",
+    "startMs": 12270,
+    "endMs": 12540,
+    "timestampMs": 12500,
+    "confidence": 0.992044
+  },
+  {
+    "text": " при",
+    "startMs": 12540,
+    "endMs": 12840,
+    "timestampMs": 12760,
+    "confidence": 0.921996
+  },
+  {
+    "text": "езж",
+    "startMs": 12840,
+    "endMs": 13130,
+    "timestampMs": 12940,
+    "confidence": 0.9996
+  },
+  {
+    "text": "айте",
+    "startMs": 13130,
+    "endMs": 13610,
+    "timestampMs": 13440,
+    "confidence": 0.952819
+  },
+  {
+    "text": " все",
+    "startMs": 13610,
+    "endMs": 13710,
+    "timestampMs": 13740,
+    "confidence": 0.944943
+  },
+  {
+    "text": " расск",
+    "startMs": 13710,
+    "endMs": 14160,
+    "timestampMs": 14100,
+    "confidence": 0.998214
+  },
+  {
+    "text": "ажу",
+    "startMs": 14160,
+    "endMs": 14430,
+    "timestampMs": 14220,
+    "confidence": 0.99807
+  },
+  {
+    "text": " все",
+    "startMs": 14430,
+    "endMs": 14690,
+    "timestampMs": 14440,
+    "confidence": 0.984397
+  },
+  {
+    "text": " пок",
+    "startMs": 14690,
+    "endMs": 15240,
+    "timestampMs": 14760,
+    "confidence": 0.996734
+  },
+  {
+    "text": "ажу",
+    "startMs": 15240,
+    "endMs": 15280,
+    "timestampMs": 15000,
+    "confidence": 0.997879
+  },
+  {
+    "text": " а",
+    "startMs": 15280,
+    "endMs": 15330,
+    "timestampMs": 15460,
+    "confidence": 0.982579
+  },
+  {
+    "text": " пока",
+    "startMs": 15330,
+    "endMs": 15690,
+    "timestampMs": 15800,
+    "confidence": 0.99907
+  },
+  {
+    "text": " буду",
+    "startMs": 15690,
+    "endMs": 16040,
+    "timestampMs": 16080,
+    "confidence": 0.964554
+  },
+  {
+    "text": " чист",
+    "startMs": 16040,
+    "endMs": 16410,
+    "timestampMs": 16400,
+    "confidence": 0.997029
+  },
+  {
+    "text": "ить",
+    "startMs": 16410,
+    "endMs": 16770,
+    "timestampMs": 16520,
+    "confidence": 0.998578
+  },
+  {
+    "text": " б",
+    "startMs": 16770,
+    "endMs": 16790,
+    "timestampMs": 16780,
+    "confidence": 0.996787
+  },
+  {
+    "text": "асс",
+    "startMs": 16790,
+    "endMs": 17040,
+    "timestampMs": 17040,
+    "confidence": 0.98322
+  },
+  {
+    "text": "ей",
+    "startMs": 17040,
+    "endMs": 17310,
+    "timestampMs": 17120,
+    "confidence": 0.999775
+  },
+  {
+    "text": "н",
+    "startMs": 17310,
+    "endMs": 17580,
+    "timestampMs": 17600,
+    "confidence": 0.998797
+  },
+  {
+    "text": " вот",
+    "startMs": 17580,
+    "endMs": 17630,
+    "timestampMs": 17860,
+    "confidence": 0.995224
+  },
+  {
+    "text": " такой",
+    "startMs": 17630,
+    "endMs": 18080,
+    "timestampMs": 18380,
+    "confidence": 0.995084
+  },
+  {
+    "text": " прик",
+    "startMs": 18080,
+    "endMs": 18480,
+    "timestampMs": 18940,
+    "confidence": 0.931576
+  },
+  {
+    "text": "оль",
+    "startMs": 18480,
+    "endMs": 18800,
+    "timestampMs": 19060,
+    "confidence": 0.982632
+  },
+  {
+    "text": "ный",
+    "startMs": 18800,
+    "endMs": 19040,
+    "timestampMs": 19400,
+    "confidence": 0.922098
+  },
+  {
+    "text": " роб",
+    "startMs": 19040,
+    "endMs": 19370,
+    "timestampMs": 19640,
+    "confidence": 0.766208
+  },
+  {
+    "text": "от",
+    "startMs": 19370,
+    "endMs": 19600,
+    "timestampMs": 19820,
+    "confidence": 0.990178
+  },
+  {
+    "text": " п",
+    "startMs": 19600,
+    "endMs": 19840,
+    "timestampMs": 20040,
+    "confidence": 0.902434
+  },
+  {
+    "text": "ыл",
+    "startMs": 19840,
+    "endMs": 20080,
+    "timestampMs": 20100,
+    "confidence": 0.996379
+  },
+  {
+    "text": "ес",
+    "startMs": 20080,
+    "endMs": 20400,
+    "timestampMs": 20240,
+    "confidence": 0.999887
+  },
+  {
+    "text": "ос",
+    "startMs": 20400,
+    "endMs": 20700,
+    "timestampMs": 20960,
+    "confidence": 0.999895
+  },
+  {
+    "text": " добр",
+    "startMs": 20700,
+    "endMs": 21840,
+    "timestampMs": 22200,
+    "confidence": 0.751274
+  },
+  {
+    "text": "ого",
+    "startMs": 21840,
+    "endMs": 21940,
+    "timestampMs": 22340,
+    "confidence": 0.996704
+  },
+  {
+    "text": " дня",
+    "startMs": 21940,
+    "endMs": 22360,
+    "timestampMs": 22340,
+    "confidence": 0.999197
+  }
+]

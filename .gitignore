@@ -5,3 +5,10 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Тяжёлые медиа — не помещаются в GitHub (лимит 100MB/файл), храним локально
+public/clips
+audio
+tmp.json
+ffmpeg2pass-*
+whisper.cpp

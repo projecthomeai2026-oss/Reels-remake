@@ -1,0 +1,142 @@
+[
+  {
+    "text": "С",
+    "startMs": 0,
+    "endMs": 90,
+    "timestampMs": 0,
+    "confidence": 0.500589
+  },
+  {
+    "text": " вами",
+    "startMs": 90,
+    "endMs": 470,
+    "timestampMs": 1980,
+    "confidence": 0.999609
+  },
+  {
+    "text": " был",
+    "startMs": 470,
+    "endMs": 770,
+    "timestampMs": 1980,
+    "confidence": 1
+  },
+  {
+    "text": " И",
+    "startMs": 770,
+    "endMs": 860,
+    "timestampMs": 1980,
+    "confidence": 0.999989
+  },
+  {
+    "text": "го",
+    "startMs": 860,
+    "endMs": 1050,
+    "timestampMs": 1980,
+    "confidence": 0.988855
+  },
+  {
+    "text": "рь",
+    "startMs": 1050,
+    "endMs": 1240,
+    "timestampMs": 1980,
+    "confidence": 1
+  },
+  {
+    "text": " Н",
+    "startMs": 1240,
+    "endMs": 1330,
+    "timestampMs": 1980,
+    "confidence": 1
+  },
+  {
+    "text": "егод",
+    "startMs": 1330,
+    "endMs": 1710,
+    "timestampMs": 1980,
+    "confidence": 1
+  },
+  {
+    "text": "а",
+    "startMs": 1710,
+    "endMs": 1800,
+    "timestampMs": 1980,
+    "confidence": 1
+  },
+  {
+    "text": ".",
+    "startMs": 1800,
+    "endMs": 2000,
+    "timestampMs": 1980,
+    "confidence": 0.999977
+  },
+  {
+    "text": " С",
+    "startMs": 2000,
+    "endMs": 2050,
+    "timestampMs": 2960,
+    "confidence": 0.0319061
+  },
+  {
+    "text": " вами",
+    "startMs": 2050,
+    "endMs": 2270,
+    "timestampMs": 3180,
+    "confidence": 0.409713
+  },
+  {
+    "text": " был",
+    "startMs": 2270,
+    "endMs": 2450,
+    "timestampMs": 3180,
+    "confidence": 0.930619
+  },
+  {
+    "text": " И",
+    "startMs": 2450,
+    "endMs": 2500,
+    "timestampMs": 3180,
+    "confidence": 0.639686
+  },
+  {
+    "text": "го",
+    "startMs": 2500,
+    "endMs": 2610,
+    "timestampMs": 3180,
+    "confidence": 0.497229
+  },
+  {
+    "text": "рь",
+    "startMs": 2610,
+    "endMs": 2720,
+    "timestampMs": 3180,
+    "confidence": 0.999426
+  },
+  {
+    "text": " Н",
+    "startMs": 2720,
+    "endMs": 2770,
+    "timestampMs": 3180,
+    "confidence": 0.910636
+  },
+  {
+    "text": "егод",
+    "startMs": 2770,
+    "endMs": 3000,
+    "timestampMs": 3180,
+    "confidence": 0.937771
+  },
+  {
+    "text": "а",
+    "startMs": 3000,
+    "endMs": 3050,
+    "timestampMs": 3180,
+    "confidence": 0.996788
+  },
+  {
+    "text": ".",
+    "startMs": 3050,
+    "endMs": 3200,
+    "timestampMs": 3180,
+    "confidence": 0.892157
+  }
+]

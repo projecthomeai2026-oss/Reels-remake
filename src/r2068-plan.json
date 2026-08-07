@@ -1,0 +1,312 @@
+{
+  "words": {
+    "r2068": [
+      {
+        "text": "что",
+        "startMs": 0,
+        "endMs": 190
+      },
+      {
+        "text": "друзья",
+        "startMs": 190,
+        "endMs": 570
+      },
+      {
+        "text": "всем",
+        "startMs": 570,
+        "endMs": 820
+      },
+      {
+        "text": "добрый",
+        "startMs": 820,
+        "endMs": 1180
+      },
+      {
+        "text": "день",
+        "startMs": 1180,
+        "endMs": 1570
+      },
+      {
+        "text": "сегодня",
+        "startMs": 1570,
+        "endMs": 1880
+      },
+      {
+        "text": "пятый",
+        "startMs": 1880,
+        "endMs": 2190
+      },
+      {
+        "text": "день",
+        "startMs": 2190,
+        "endMs": 2360
+      },
+      {
+        "text": "выставки",
+        "startMs": 2360,
+        "endMs": 2940
+      },
+      {
+        "text": "напоминает",
+        "startMs": 2940,
+        "endMs": 3660
+      },
+      {
+        "text": "о",
+        "startMs": 3660,
+        "endMs": 4150
+      },
+      {
+        "text": "13",
+        "startMs": 4150,
+        "endMs": 4620
+      },
+      {
+        "text": "готовых",
+        "startMs": 4620,
+        "endMs": 4960
+      },
+      {
+        "text": "домов",
+        "startMs": 4960,
+        "endMs": 5400
+      },
+      {
+        "text": "где",
+        "startMs": 5400,
+        "endMs": 5560
+      },
+      {
+        "text": "можно",
+        "startMs": 5560,
+        "endMs": 5760
+      },
+      {
+        "text": "приехать",
+        "startMs": 5760,
+        "endMs": 6390
+      },
+      {
+        "text": "и",
+        "startMs": 6390,
+        "endMs": 6420
+      },
+      {
+        "text": "посмотреть",
+        "startMs": 6420,
+        "endMs": 7340
+      },
+      {
+        "text": "интересные",
+        "startMs": 7340,
+        "endMs": 7910
+      },
+      {
+        "text": "решения",
+        "startMs": 7910,
+        "endMs": 8550
+      },
+      {
+        "text": "по",
+        "startMs": 8550,
+        "endMs": 8580
+      },
+      {
+        "text": "строительству",
+        "startMs": 8580,
+        "endMs": 9580
+      },
+      {
+        "text": "и",
+        "startMs": 9580,
+        "endMs": 9620
+      },
+      {
+        "text": "по",
+        "startMs": 9620,
+        "endMs": 9770
+      },
+      {
+        "text": "ремонту",
+        "startMs": 9770,
+        "endMs": 10590
+      },
+      {
+        "text": "всех",
+        "startMs": 10590,
+        "endMs": 10660
+      },
+      {
+        "text": "жду",
+        "startMs": 10660,
+        "endMs": 10900
+      },
+      {
+        "text": "в",
+        "startMs": 10900,
+        "endMs": 11060
+      },
+      {
+        "text": "гости",
+        "startMs": 11060,
+        "endMs": 11440
+      },
+      {
+        "text": "обязательно",
+        "startMs": 11440,
+        "endMs": 12000
+      },
+      {
+        "text": "пишите",
+        "startMs": 12000,
+        "endMs": 12540
+      },
+      {
+        "text": "приезжайте",
+        "startMs": 12540,
+        "endMs": 13610
+      },
+      {
+        "text": "все",
+        "startMs": 13610,
+        "endMs": 13710
+      },
+      {
+        "text": "расскажу",
+        "startMs": 13710,
+        "endMs": 14430
+      },
+      {
+        "text": "все",
+        "startMs": 14430,
+        "endMs": 14690
+      },
+      {
+        "text": "покажу",
+        "startMs": 14690,
+        "endMs": 15280
+      },
+      {
+        "text": "а",
+        "startMs": 15280,
+        "endMs": 15330
+      },
+      {
+        "text": "пока",
+        "startMs": 15330,
+        "endMs": 15690
+      },
+      {
+        "text": "буду",
+        "startMs": 15690,
+        "endMs": 16040
+      },
+      {
+        "text": "чистить",
+        "startMs": 16040,
+        "endMs": 16770
+      },
+      {
+        "text": "бассейн",
+        "startMs": 16770,
+        "endMs": 17580
+      },
+      {
+        "text": "вот",
+        "startMs": 17580,
+        "endMs": 17630
+      },
+      {
+        "text": "такой",
+        "startMs": 17630,
+        "endMs": 18080
+      },
+      {
+        "text": "прикольный",
+        "startMs": 18080,
+        "endMs": 19040
+      },
+      {
+        "text": "робот",
+        "startMs": 19040,
+        "endMs": 19600
+      },
+      {
+        "text": "пылесос",
+        "startMs": 19600,
+        "endMs": 20700
+      },
+      {
+        "text": "доброго",
+        "startMs": 20700,
+        "endMs": 21940
+      },
+      {
+        "text": "дня",
+        "startMs": 21940,
+        "endMs": 22360
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "open-village5",
+      "title": "Open Village · 5-й день",
+      "music": "music6.mp3",
+      "series": {
+        "title": "13 ГОТОВЫХ\nДОМОВ",
+        "location": "Новосибирск",
+        "sub": "Open Village · 5-й день"
+      },
+      "accents": [
+        {
+          "atMs": 4300,
+          "durMs": 1900,
+          "mag": 0.12
+        },
+        {
+          "atMs": 12600,
+          "durMs": 1800,
+          "mag": 0.11
+        },
+        {
+          "atMs": 19200,
+          "durMs": 2000,
+          "mag": 0.12
+        }
+      ],
+      "gifs": [
+        {
+          "src": "house2",
+          "atMs": 4200,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 240,
+          "label": "13 домов"
+        },
+        {
+          "src": "pool2",
+          "atMs": 18900,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "робот-пылесос"
+        }
+      ],
+      "items": [
+        {
+          "clip": "r2068",
+          "fromMs": 200,
+          "toMs": 23100,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        }
+      ]
+    }
+  ]
+}

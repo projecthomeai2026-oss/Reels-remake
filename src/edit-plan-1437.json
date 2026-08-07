@@ -1,0 +1,295 @@
+{
+  "IMG_1437": {
+    "segments": [
+      {
+        "fromMs": 3400,
+        "toMs": 5440
+      },
+      {
+        "fromMs": 5860,
+        "toMs": 27430
+      },
+      {
+        "fromMs": 27880,
+        "toMs": 33300
+      }
+    ],
+    "words": [
+      {
+        "text": "Всем",
+        "startMs": 3550,
+        "endMs": 4000
+      },
+      {
+        "text": "привет!",
+        "startMs": 4000,
+        "endMs": 4450
+      },
+      {
+        "text": "Сегодня",
+        "startMs": 7360,
+        "endMs": 7640
+      },
+      {
+        "text": "на",
+        "startMs": 7640,
+        "endMs": 7790
+      },
+      {
+        "text": "дежурстве",
+        "startMs": 7790,
+        "endMs": 8500
+      },
+      {
+        "text": "компании",
+        "startMs": 8500,
+        "endMs": 8852
+      },
+      {
+        "text": "«Этажи»",
+        "startMs": 8852,
+        "endMs": 9203
+      },
+      {
+        "text": "—",
+        "startMs": 9203,
+        "endMs": 9555
+      },
+      {
+        "text": "это",
+        "startMs": 9555,
+        "endMs": 9907
+      },
+      {
+        "text": "наш",
+        "startMs": 9907,
+        "endMs": 10258
+      },
+      {
+        "text": "партнёр,",
+        "startMs": 10258,
+        "endMs": 10610
+      },
+      {
+        "text": "агентство",
+        "startMs": 10610,
+        "endMs": 11300
+      },
+      {
+        "text": "недвижимости.",
+        "startMs": 11300,
+        "endMs": 12380
+      },
+      {
+        "text": "Хочу",
+        "startMs": 12380,
+        "endMs": 12560
+      },
+      {
+        "text": "сказать,",
+        "startMs": 12560,
+        "endMs": 13200
+      },
+      {
+        "text": "именно",
+        "startMs": 13200,
+        "endMs": 13650
+      },
+      {
+        "text": "с",
+        "startMs": 13650,
+        "endMs": 13680
+      },
+      {
+        "text": "этой",
+        "startMs": 13680,
+        "endMs": 13960
+      },
+      {
+        "text": "компанией",
+        "startMs": 13960,
+        "endMs": 14570
+      },
+      {
+        "text": "у",
+        "startMs": 14570,
+        "endMs": 14640
+      },
+      {
+        "text": "меня",
+        "startMs": 14640,
+        "endMs": 14920
+      },
+      {
+        "text": "началась",
+        "startMs": 14920,
+        "endMs": 15470
+      },
+      {
+        "text": "карьера",
+        "startMs": 15470,
+        "endMs": 15920
+      },
+      {
+        "text": "в",
+        "startMs": 15920,
+        "endMs": 16370
+      },
+      {
+        "text": "недвижимости.",
+        "startMs": 16370,
+        "endMs": 16820
+      },
+      {
+        "text": "В",
+        "startMs": 17690,
+        "endMs": 18230
+      },
+      {
+        "text": "2015",
+        "startMs": 18230,
+        "endMs": 18620
+      },
+      {
+        "text": "году",
+        "startMs": 18620,
+        "endMs": 19060
+      },
+      {
+        "text": "я",
+        "startMs": 19060,
+        "endMs": 19200
+      },
+      {
+        "text": "здесь",
+        "startMs": 19200,
+        "endMs": 19710
+      },
+      {
+        "text": "работал,",
+        "startMs": 19710,
+        "endMs": 20650
+      },
+      {
+        "text": "знаю",
+        "startMs": 20650,
+        "endMs": 21160
+      },
+      {
+        "text": "много",
+        "startMs": 21160,
+        "endMs": 21400
+      },
+      {
+        "text": "хороших",
+        "startMs": 21400,
+        "endMs": 21940
+      },
+      {
+        "text": "ребят",
+        "startMs": 21940,
+        "endMs": 22320
+      },
+      {
+        "text": "интересных.",
+        "startMs": 22320,
+        "endMs": 23510
+      },
+      {
+        "text": "Сегодня",
+        "startMs": 23510,
+        "endMs": 23760
+      },
+      {
+        "text": "я",
+        "startMs": 23760,
+        "endMs": 23830
+      },
+      {
+        "text": "дежурю,",
+        "startMs": 23830,
+        "endMs": 24340
+      },
+      {
+        "text": "поэтому",
+        "startMs": 24340,
+        "endMs": 25000
+      },
+      {
+        "text": "если",
+        "startMs": 25000,
+        "endMs": 25378
+      },
+      {
+        "text": "вдруг",
+        "startMs": 25378,
+        "endMs": 25756
+      },
+      {
+        "text": "кому-то",
+        "startMs": 25756,
+        "endMs": 26134
+      },
+      {
+        "text": "интересно",
+        "startMs": 26134,
+        "endMs": 26512
+      },
+      {
+        "text": "—",
+        "startMs": 26512,
+        "endMs": 26890
+      },
+      {
+        "text": "можно",
+        "startMs": 26890,
+        "endMs": 27260
+      },
+      {
+        "text": "приходить",
+        "startMs": 27260,
+        "endMs": 28030
+      },
+      {
+        "text": "и",
+        "startMs": 28030,
+        "endMs": 28280
+      },
+      {
+        "text": "сюда",
+        "startMs": 28280,
+        "endMs": 28800
+      },
+      {
+        "text": "тоже",
+        "startMs": 28870,
+        "endMs": 29130
+      },
+      {
+        "text": "здесь",
+        "startMs": 29130,
+        "endMs": 29540
+      },
+      {
+        "text": "мы",
+        "startMs": 29540,
+        "endMs": 29710
+      },
+      {
+        "text": "можем",
+        "startMs": 29710,
+        "endMs": 30110
+      },
+      {
+        "text": "провести",
+        "startMs": 30110,
+        "endMs": 30770
+      },
+      {
+        "text": "консультацию.",
+        "startMs": 30770,
+        "endMs": 31800
+      }
+    ]
+  }
+}

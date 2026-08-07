@@ -1,0 +1,315 @@
+{
+  "words": {
+    "IMG_1632": [
+      {
+        "text": "Буквально",
+        "startMs": 0,
+        "endMs": 670
+      },
+      {
+        "text": "пару",
+        "startMs": 670,
+        "endMs": 970
+      },
+      {
+        "text": "дней",
+        "startMs": 970,
+        "endMs": 1270
+      },
+      {
+        "text": "назад",
+        "startMs": 1270,
+        "endMs": 1670
+      },
+      {
+        "text": "была",
+        "startMs": 1670,
+        "endMs": 2000
+      },
+      {
+        "text": "подготовка",
+        "startMs": 2000,
+        "endMs": 2760
+      },
+      {
+        "text": "основания",
+        "startMs": 2760,
+        "endMs": 3900
+      },
+      {
+        "text": "дома",
+        "startMs": 3900,
+        "endMs": 4400
+      },
+      {
+        "text": "под",
+        "startMs": 5120,
+        "endMs": 5400
+      },
+      {
+        "text": "заливку",
+        "startMs": 5400,
+        "endMs": 5680
+      },
+      {
+        "text": "бетона.",
+        "startMs": 5680,
+        "endMs": 5960
+      },
+      {
+        "text": "Вчера",
+        "startMs": 5960,
+        "endMs": 6460
+      },
+      {
+        "text": "успешно",
+        "startMs": 6460,
+        "endMs": 7180
+      },
+      {
+        "text": "приняли",
+        "startMs": 7180,
+        "endMs": 7860
+      },
+      {
+        "text": "бетон.",
+        "startMs": 7860,
+        "endMs": 8620
+      },
+      {
+        "text": "Плита",
+        "startMs": 8620,
+        "endMs": 8860
+      },
+      {
+        "text": "под",
+        "startMs": 8860,
+        "endMs": 9040
+      },
+      {
+        "text": "новый",
+        "startMs": 9040,
+        "endMs": 9370
+      },
+      {
+        "text": "дом",
+        "startMs": 9370,
+        "endMs": 9530
+      },
+      {
+        "text": "готова.",
+        "startMs": 9530,
+        "endMs": 10040
+      },
+      {
+        "text": "Сейчас",
+        "startMs": 10040,
+        "endMs": 10200
+      },
+      {
+        "text": "подождём,",
+        "startMs": 10200,
+        "endMs": 10630
+      },
+      {
+        "text": "когда",
+        "startMs": 10630,
+        "endMs": 10700
+      },
+      {
+        "text": "она",
+        "startMs": 10700,
+        "endMs": 10960
+      },
+      {
+        "text": "наберёт",
+        "startMs": 10960,
+        "endMs": 11410
+      },
+      {
+        "text": "прочности",
+        "startMs": 11500,
+        "endMs": 12280
+      },
+      {
+        "text": "и",
+        "startMs": 12280,
+        "endMs": 12520
+      },
+      {
+        "text": "начнём",
+        "startMs": 12520,
+        "endMs": 12750
+      },
+      {
+        "text": "выкладывать",
+        "startMs": 12750,
+        "endMs": 13610
+      },
+      {
+        "text": "стены.",
+        "startMs": 13610,
+        "endMs": 14430
+      },
+      {
+        "text": "Как",
+        "startMs": 14700,
+        "endMs": 14833
+      },
+      {
+        "text": "вы",
+        "startMs": 14833,
+        "endMs": 14967
+      },
+      {
+        "text": "знаете",
+        "startMs": 14967,
+        "endMs": 15100
+      },
+      {
+        "text": "уже",
+        "startMs": 15040,
+        "endMs": 15270
+      },
+      {
+        "text": "из",
+        "startMs": 15270,
+        "endMs": 15420
+      },
+      {
+        "text": "моих",
+        "startMs": 15420,
+        "endMs": 15790
+      },
+      {
+        "text": "предыдущих",
+        "startMs": 15790,
+        "endMs": 15840
+      },
+      {
+        "text": "роликов,",
+        "startMs": 15840,
+        "endMs": 16860
+      },
+      {
+        "text": "стены",
+        "startMs": 17300,
+        "endMs": 17550
+      },
+      {
+        "text": "из",
+        "startMs": 17550,
+        "endMs": 17800
+      },
+      {
+        "text": "сибита",
+        "startMs": 17800,
+        "endMs": 18050
+      },
+      {
+        "text": "достаточно",
+        "startMs": 18010,
+        "endMs": 19300
+      },
+      {
+        "text": "с",
+        "startMs": 19300,
+        "endMs": 19480
+      },
+      {
+        "text": "высокой",
+        "startMs": 19480,
+        "endMs": 19720
+      },
+      {
+        "text": "скоростью",
+        "startMs": 19720,
+        "endMs": 21600
+      },
+      {
+        "text": "укладываются.",
+        "startMs": 21600,
+        "endMs": 23280
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "reel8",
+      "title": "Плита готова",
+      "music": "music6.mp3",
+      "items": [
+        {
+          "clip": "IMG_1632",
+          "fromMs": 17280,
+          "toMs": 18060,
+          "rate": 1,
+          "volume": 1,
+          "flash": false,
+          "badge": null,
+          "hookLook": true
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 19280,
+          "toMs": 23300,
+          "rate": 1,
+          "volume": 1,
+          "flash": false,
+          "badge": null,
+          "hookLook": true
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 0,
+          "toMs": 4440,
+          "rate": 1,
+          "volume": 1,
+          "flash": true,
+          "badge": null,
+          "hookLook": false
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 5120,
+          "toMs": 8120,
+          "rate": 1,
+          "volume": 1,
+          "flash": false,
+          "badge": null,
+          "hookLook": false
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 8600,
+          "toMs": 14240,
+          "rate": 1,
+          "volume": 1,
+          "flash": true,
+          "badge": null,
+          "hookLook": false
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 14700,
+          "toMs": 16860,
+          "rate": 1,
+          "volume": 1,
+          "flash": false,
+          "badge": null,
+          "hookLook": false
+        },
+        {
+          "clip": "IMG_1632",
+          "fromMs": 17280,
+          "toMs": 23350,
+          "rate": 1,
+          "volume": 1,
+          "flash": true,
+          "badge": null,
+          "hookLook": false
+        }
+      ]
+    }
+  ]
+}

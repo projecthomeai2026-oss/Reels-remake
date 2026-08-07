@@ -1,0 +1,86 @@
+[
+  {
+    "text": "а",
+    "startMs": 600,
+    "endMs": 2000,
+    "timestampMs": 12660,
+    "confidence": 0.0267643
+  },
+  {
+    "text": " что",
+    "startMs": 2000,
+    "endMs": 12600,
+    "timestampMs": 13020,
+    "confidence": 0.701344
+  },
+  {
+    "text": " здесь",
+    "startMs": 12600,
+    "endMs": 14240,
+    "timestampMs": 13380,
+    "confidence": 0.0173852
+  },
+  {
+    "text": " сейчас",
+    "startMs": 14240,
+    "endMs": 14770,
+    "timestampMs": 14060,
+    "confidence": 0.533501
+  },
+  {
+    "text": " два",
+    "startMs": 14770,
+    "endMs": 16570,
+    "timestampMs": 16780,
+    "confidence": 0.564877
+  },
+  {
+    "text": " образ",
+    "startMs": 16570,
+    "endMs": 16790,
+    "timestampMs": 17100,
+    "confidence": 0.986026
+  },
+  {
+    "text": "а",
+    "startMs": 16790,
+    "endMs": 17000,
+    "timestampMs": 17220,
+    "confidence": 0.845724
+  },
+  {
+    "text": " сразу",
+    "startMs": 17000,
+    "endMs": 17440,
+    "timestampMs": 17480,
+    "confidence": 0.972255
+  },
+  {
+    "text": " зак",
+    "startMs": 17440,
+    "endMs": 17680,
+    "timestampMs": 17780,
+    "confidence": 0.939325
+  },
+  {
+    "text": "рыв",
+    "startMs": 17680,
+    "endMs": 17800,
+    "timestampMs": 17980,
+    "confidence": 0.998018
+  },
+  {
+    "text": "аем",
+    "startMs": 17800,
+    "endMs": 18000,
+    "timestampMs": 17980,
+    "confidence": 0.982201
+  },
+  {
+    "text": " а",
+    "startMs": 18000,
+    "endMs": 48000,
+    "timestampMs": 23620,
+    "confidence": 0.74532
+  }
+]

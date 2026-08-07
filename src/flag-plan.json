@@ -1,0 +1,312 @@
+{
+  "words": {
+    "flag-walk": [
+      {
+        "text": "Друзья,",
+        "startMs": 0,
+        "endMs": 650
+      },
+      {
+        "text": "всем",
+        "startMs": 650,
+        "endMs": 1040
+      },
+      {
+        "text": "добрый",
+        "startMs": 1040,
+        "endMs": 1610
+      },
+      {
+        "text": "день!",
+        "startMs": 1610,
+        "endMs": 2040
+      },
+      {
+        "text": "Сегодня",
+        "startMs": 2040,
+        "endMs": 2240
+      },
+      {
+        "text": "началась",
+        "startMs": 2240,
+        "endMs": 2460
+      },
+      {
+        "text": "большая",
+        "startMs": 2460,
+        "endMs": 2700
+      },
+      {
+        "text": "выставка",
+        "startMs": 2700,
+        "endMs": 2990
+      },
+      {
+        "text": "Open",
+        "startMs": 2990,
+        "endMs": 3360
+      },
+      {
+        "text": "Village",
+        "startMs": 3360,
+        "endMs": 4000
+      },
+      {
+        "text": "в",
+        "startMs": 4000,
+        "endMs": 4080
+      },
+      {
+        "text": "Сибири.",
+        "startMs": 4080,
+        "endMs": 4640
+      },
+      {
+        "text": "Снова",
+        "startMs": 4640,
+        "endMs": 5070
+      },
+      {
+        "text": "вас",
+        "startMs": 5070,
+        "endMs": 5330
+      },
+      {
+        "text": "в",
+        "startMs": 5330,
+        "endMs": 5410
+      },
+      {
+        "text": "гости.",
+        "startMs": 5410,
+        "endMs": 6000
+      },
+      {
+        "text": "Компания",
+        "startMs": 6000,
+        "endMs": 6640
+      },
+      {
+        "text": "ДВА",
+        "startMs": 6640,
+        "endMs": 6760
+      },
+      {
+        "text": "Прораба.",
+        "startMs": 6760,
+        "endMs": 7430
+      },
+      {
+        "text": "Здесь",
+        "startMs": 7430,
+        "endMs": 7730
+      },
+      {
+        "text": "представлено",
+        "startMs": 7730,
+        "endMs": 8480
+      },
+      {
+        "text": "13",
+        "startMs": 8480,
+        "endMs": 8740
+      },
+      {
+        "text": "готовых",
+        "startMs": 8740,
+        "endMs": 9340
+      },
+      {
+        "text": "домов",
+        "startMs": 9340,
+        "endMs": 9800
+      },
+      {
+        "text": "с",
+        "startMs": 9800,
+        "endMs": 9840
+      },
+      {
+        "text": "ремонтом.",
+        "startMs": 9840,
+        "endMs": 10640
+      },
+      {
+        "text": "Также",
+        "startMs": 10640,
+        "endMs": 11070
+      },
+      {
+        "text": "есть",
+        "startMs": 11070,
+        "endMs": 11410
+      },
+      {
+        "text": "большой",
+        "startMs": 11410,
+        "endMs": 12030
+      },
+      {
+        "text": "шатер,",
+        "startMs": 12030,
+        "endMs": 12550
+      },
+      {
+        "text": "где",
+        "startMs": 12550,
+        "endMs": 12790
+      },
+      {
+        "text": "70",
+        "startMs": 12790,
+        "endMs": 13050
+      },
+      {
+        "text": "наших",
+        "startMs": 13050,
+        "endMs": 13480
+      },
+      {
+        "text": "партнеров",
+        "startMs": 13480,
+        "endMs": 14380
+      },
+      {
+        "text": "показывают",
+        "startMs": 14380,
+        "endMs": 15120
+      },
+      {
+        "text": "все",
+        "startMs": 15120,
+        "endMs": 15360
+      },
+      {
+        "text": "современные",
+        "startMs": 15360,
+        "endMs": 15990
+      },
+      {
+        "text": "технологии",
+        "startMs": 15990,
+        "endMs": 16560
+      },
+      {
+        "text": "и",
+        "startMs": 16560,
+        "endMs": 16590
+      },
+      {
+        "text": "последние",
+        "startMs": 16590,
+        "endMs": 16920
+      },
+      {
+        "text": "фишки",
+        "startMs": 16920,
+        "endMs": 17450
+      },
+      {
+        "text": "моды",
+        "startMs": 17450,
+        "endMs": 17840
+      },
+      {
+        "text": "по",
+        "startMs": 17840,
+        "endMs": 18020
+      },
+      {
+        "text": "строительству",
+        "startMs": 18020,
+        "endMs": 19260
+      },
+      {
+        "text": "и,",
+        "startMs": 19260,
+        "endMs": 19280
+      },
+      {
+        "text": "конечно",
+        "startMs": 19280,
+        "endMs": 19830
+      },
+      {
+        "text": "же,",
+        "startMs": 19830,
+        "endMs": 20060
+      },
+      {
+        "text": "ремонту.",
+        "startMs": 20060,
+        "endMs": 20640
+      },
+      {
+        "text": "Буду",
+        "startMs": 20640,
+        "endMs": 21060
+      },
+      {
+        "text": "рад",
+        "startMs": 21060,
+        "endMs": 21380
+      },
+      {
+        "text": "всех",
+        "startMs": 21380,
+        "endMs": 21810
+      },
+      {
+        "text": "видеть!",
+        "startMs": 21810,
+        "endMs": 22640
+      },
+      {
+        "text": "и",
+        "startMs": 22640,
+        "endMs": 24420
+      },
+      {
+        "text": "вам",
+        "startMs": 24420,
+        "endMs": 24420
+      },
+      {
+        "text": "не",
+        "startMs": 24420,
+        "endMs": 24420
+      },
+      {
+        "text": "стоять.",
+        "startMs": 24420,
+        "endMs": 24640
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "flag-village",
+      "title": "ДВА ПРОРАБА · приглашение на Open Village",
+      "music": "music5.mp3",
+      "series": {
+        "title": "ДВА\nПРОРАБА",
+        "location": "Open Village",
+        "sub": "Выставка загородных домов"
+      },
+      "accents": [],
+      "gifs": [],
+      "items": [
+        {
+          "clip": "flag-walk",
+          "fromMs": 0,
+          "toMs": 24600,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        }
+      ]
+    }
+  ]
+}

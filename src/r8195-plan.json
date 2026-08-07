@@ -1,0 +1,949 @@
+{
+  "words": {
+    "r8195": [
+      {
+        "text": "Мы,",
+        "startMs": 30,
+        "endMs": 230
+      },
+      {
+        "text": "конечно,",
+        "startMs": 230,
+        "endMs": 850
+      },
+      {
+        "text": "тебя",
+        "startMs": 850,
+        "endMs": 1170
+      },
+      {
+        "text": "представим,",
+        "startMs": 1170,
+        "endMs": 2040
+      },
+      {
+        "text": "это...",
+        "startMs": 2040,
+        "endMs": 2480
+      },
+      {
+        "text": "Это",
+        "startMs": 2480,
+        "endMs": 2650
+      },
+      {
+        "text": "Рус,",
+        "startMs": 2650,
+        "endMs": 2880
+      },
+      {
+        "text": "красавчик,",
+        "startMs": 2880,
+        "endMs": 3530
+      },
+      {
+        "text": "вот",
+        "startMs": 3530,
+        "endMs": 3690
+      },
+      {
+        "text": "такой",
+        "startMs": 3690,
+        "endMs": 4050
+      },
+      {
+        "text": "парень.",
+        "startMs": 4050,
+        "endMs": 4580
+      },
+      {
+        "text": "Это",
+        "startMs": 4580,
+        "endMs": 4820
+      },
+      {
+        "text": "основатель",
+        "startMs": 4820,
+        "endMs": 5620
+      },
+      {
+        "text": "райд-окна.",
+        "startMs": 5620,
+        "endMs": 6440
+      },
+      {
+        "text": "Смотрите,",
+        "startMs": 6440,
+        "endMs": 6990
+      },
+      {
+        "text": "какие",
+        "startMs": 6990,
+        "endMs": 7230
+      },
+      {
+        "text": "фишки",
+        "startMs": 7230,
+        "endMs": 7500
+      },
+      {
+        "text": "он",
+        "startMs": 7500,
+        "endMs": 7610
+      },
+      {
+        "text": "делает.",
+        "startMs": 7610,
+        "endMs": 8100
+      },
+      {
+        "text": "Он",
+        "startMs": 8100,
+        "endMs": 8370
+      },
+      {
+        "text": "сделал,",
+        "startMs": 8370,
+        "endMs": 9020
+      },
+      {
+        "text": "придумал",
+        "startMs": 9020,
+        "endMs": 9550
+      },
+      {
+        "text": "автоматическое",
+        "startMs": 9550,
+        "endMs": 10370
+      },
+      {
+        "text": "открывание",
+        "startMs": 10370,
+        "endMs": 11020
+      },
+      {
+        "text": "окна.",
+        "startMs": 11020,
+        "endMs": 11300
+      },
+      {
+        "text": "Смотрите,",
+        "startMs": 11300,
+        "endMs": 12080
+      },
+      {
+        "text": "бам!",
+        "startMs": 12080,
+        "endMs": 12580
+      },
+      {
+        "text": "Кнопку",
+        "startMs": 12580,
+        "endMs": 13000
+      },
+      {
+        "text": "нажимаем,",
+        "startMs": 13000,
+        "endMs": 13890
+      },
+      {
+        "text": "когда",
+        "startMs": 13890,
+        "endMs": 14320
+      },
+      {
+        "text": "лежим.",
+        "startMs": 14320,
+        "endMs": 15000
+      },
+      {
+        "text": "Вот",
+        "startMs": 15000,
+        "endMs": 15200
+      },
+      {
+        "text": "ты",
+        "startMs": 15200,
+        "endMs": 15320
+      },
+      {
+        "text": "дома",
+        "startMs": 15320,
+        "endMs": 15580
+      },
+      {
+        "text": "пришел,",
+        "startMs": 15580,
+        "endMs": 16080
+      },
+      {
+        "text": "пивка",
+        "startMs": 16080,
+        "endMs": 16360
+      },
+      {
+        "text": "выпил",
+        "startMs": 16360,
+        "endMs": 16670
+      },
+      {
+        "text": "немного,",
+        "startMs": 16670,
+        "endMs": 17140
+      },
+      {
+        "text": "да?",
+        "startMs": 17140,
+        "endMs": 17490
+      },
+      {
+        "text": "Отдыхаешь?",
+        "startMs": 17490,
+        "endMs": 18500
+      },
+      {
+        "text": "И",
+        "startMs": 18500,
+        "endMs": 18590
+      },
+      {
+        "text": "тебе",
+        "startMs": 18590,
+        "endMs": 18810
+      },
+      {
+        "text": "уже",
+        "startMs": 18810,
+        "endMs": 19000
+      },
+      {
+        "text": "не",
+        "startMs": 19000,
+        "endMs": 19130
+      },
+      {
+        "text": "охота",
+        "startMs": 19130,
+        "endMs": 19440
+      },
+      {
+        "text": "вставать,",
+        "startMs": 19440,
+        "endMs": 20010
+      },
+      {
+        "text": "окно",
+        "startMs": 20010,
+        "endMs": 20290
+      },
+      {
+        "text": "открывать.",
+        "startMs": 20290,
+        "endMs": 21000
+      },
+      {
+        "text": "Ты",
+        "startMs": 21000,
+        "endMs": 21130
+      },
+      {
+        "text": "либо",
+        "startMs": 21130,
+        "endMs": 21400
+      },
+      {
+        "text": "кнопку",
+        "startMs": 21400,
+        "endMs": 21800
+      },
+      {
+        "text": "нажал,",
+        "startMs": 21800,
+        "endMs": 22190
+      },
+      {
+        "text": "либо",
+        "startMs": 22190,
+        "endMs": 22460
+      },
+      {
+        "text": "интегрировал",
+        "startMs": 22460,
+        "endMs": 23250
+      },
+      {
+        "text": "с",
+        "startMs": 23250,
+        "endMs": 23310
+      },
+      {
+        "text": "Алисой.",
+        "startMs": 23310,
+        "endMs": 23900
+      },
+      {
+        "text": "Это",
+        "startMs": 23900,
+        "endMs": 24090
+      },
+      {
+        "text": "вот",
+        "startMs": 24090,
+        "endMs": 24280
+      },
+      {
+        "text": "этот",
+        "startMs": 24280,
+        "endMs": 24560
+      },
+      {
+        "text": "красавчик",
+        "startMs": 24560,
+        "endMs": 25090
+      },
+      {
+        "text": "придумал,",
+        "startMs": 25090,
+        "endMs": 25650
+      },
+      {
+        "text": "и",
+        "startMs": 25650,
+        "endMs": 25710
+      },
+      {
+        "text": "он",
+        "startMs": 25710,
+        "endMs": 25830
+      },
+      {
+        "text": "может",
+        "startMs": 25830,
+        "endMs": 26440
+      },
+      {
+        "text": "приехать",
+        "startMs": 26440,
+        "endMs": 26640
+      },
+      {
+        "text": "и",
+        "startMs": 26640,
+        "endMs": 26690
+      },
+      {
+        "text": "сделать",
+        "startMs": 26690,
+        "endMs": 27140
+      },
+      {
+        "text": "это.",
+        "startMs": 27140,
+        "endMs": 27500
+      },
+      {
+        "text": "Либо,",
+        "startMs": 27500,
+        "endMs": 27770
+      },
+      {
+        "text": "когда",
+        "startMs": 27770,
+        "endMs": 28060
+      },
+      {
+        "text": "у",
+        "startMs": 28060,
+        "endMs": 28110
+      },
+      {
+        "text": "нас",
+        "startMs": 28110,
+        "endMs": 28280
+      },
+      {
+        "text": "очень",
+        "startMs": 28280,
+        "endMs": 28570
+      },
+      {
+        "text": "много",
+        "startMs": 28570,
+        "endMs": 28860
+      },
+      {
+        "text": "нормальных",
+        "startMs": 28860,
+        "endMs": 29440
+      },
+      {
+        "text": "пацанов,",
+        "startMs": 29440,
+        "endMs": 30000
+      },
+      {
+        "text": "которые",
+        "startMs": 30000,
+        "endMs": 30410
+      },
+      {
+        "text": "себе",
+        "startMs": 30410,
+        "endMs": 30560
+      },
+      {
+        "text": "ставят",
+        "startMs": 30560,
+        "endMs": 30860
+      },
+      {
+        "text": "такие",
+        "startMs": 30860,
+        "endMs": 31110
+      },
+      {
+        "text": "системы",
+        "startMs": 31110,
+        "endMs": 31550
+      },
+      {
+        "text": "только",
+        "startMs": 31550,
+        "endMs": 31710
+      },
+      {
+        "text": "для",
+        "startMs": 31710,
+        "endMs": 31810
+      },
+      {
+        "text": "того,",
+        "startMs": 31810,
+        "endMs": 32000
+      },
+      {
+        "text": "чтобы",
+        "startMs": 32000,
+        "endMs": 32200
+      },
+      {
+        "text": "похвастаться",
+        "startMs": 32200,
+        "endMs": 32740
+      },
+      {
+        "text": "перед",
+        "startMs": 32740,
+        "endMs": 32850
+      },
+      {
+        "text": "своими",
+        "startMs": 32850,
+        "endMs": 33080
+      },
+      {
+        "text": "друзьями.",
+        "startMs": 33080,
+        "endMs": 33500
+      },
+      {
+        "text": "Тот",
+        "startMs": 33500,
+        "endMs": 33650
+      },
+      {
+        "text": "же",
+        "startMs": 33650,
+        "endMs": 33750
+      },
+      {
+        "text": "ж",
+        "startMs": 33750,
+        "endMs": 33800
+      },
+      {
+        "text": "повод",
+        "startMs": 33800,
+        "endMs": 34050
+      },
+      {
+        "text": "хороший.",
+        "startMs": 34050,
+        "endMs": 34500
+      },
+      {
+        "text": "Сто",
+        "startMs": 34500,
+        "endMs": 34930
+      },
+      {
+        "text": "процентов!",
+        "startMs": 34930,
+        "endMs": 36490
+      },
+      {
+        "text": "Сто",
+        "startMs": 36490,
+        "endMs": 36500
+      },
+      {
+        "text": "процентов!",
+        "startMs": 36500,
+        "endMs": 36500
+      },
+      {
+        "text": "Поэтому",
+        "startMs": 36500,
+        "endMs": 36910
+      },
+      {
+        "text": "любая",
+        "startMs": 36910,
+        "endMs": 37200
+      },
+      {
+        "text": "задача,",
+        "startMs": 37200,
+        "endMs": 37600
+      },
+      {
+        "text": "ваши",
+        "startMs": 37600,
+        "endMs": 37840
+      },
+      {
+        "text": "дорогие",
+        "startMs": 37840,
+        "endMs": 38250
+      },
+      {
+        "text": "друзья,",
+        "startMs": 38250,
+        "endMs": 38650
+      },
+      {
+        "text": "мы",
+        "startMs": 38650,
+        "endMs": 38770
+      },
+      {
+        "text": "ее",
+        "startMs": 38770,
+        "endMs": 38890
+      },
+      {
+        "text": "реализуем",
+        "startMs": 38890,
+        "endMs": 39500
+      },
+      {
+        "text": "и",
+        "startMs": 39500,
+        "endMs": 40590
+      },
+      {
+        "text": "найдем",
+        "startMs": 40590,
+        "endMs": 41050
+      },
+      {
+        "text": "тот",
+        "startMs": 41050,
+        "endMs": 41330
+      },
+      {
+        "text": "подход,",
+        "startMs": 41330,
+        "endMs": 42070
+      },
+      {
+        "text": "исходя",
+        "startMs": 42070,
+        "endMs": 42260
+      },
+      {
+        "text": "из",
+        "startMs": 42260,
+        "endMs": 42350
+      },
+      {
+        "text": "той",
+        "startMs": 42350,
+        "endMs": 42520
+      },
+      {
+        "text": "цели,",
+        "startMs": 42520,
+        "endMs": 42730
+      },
+      {
+        "text": "которую",
+        "startMs": 42730,
+        "endMs": 43010
+      },
+      {
+        "text": "вы",
+        "startMs": 43010,
+        "endMs": 43100
+      },
+      {
+        "text": "перед",
+        "startMs": 43100,
+        "endMs": 43360
+      },
+      {
+        "text": "собой",
+        "startMs": 43360,
+        "endMs": 43560
+      },
+      {
+        "text": "ставите.",
+        "startMs": 43560,
+        "endMs": 44000
+      },
+      {
+        "text": "Хотите",
+        "startMs": 44000,
+        "endMs": 44300
+      },
+      {
+        "text": "произвести",
+        "startMs": 44300,
+        "endMs": 44820
+      },
+      {
+        "text": "впечатление,",
+        "startMs": 44820,
+        "endMs": 45440
+      },
+      {
+        "text": "пожалуйста,",
+        "startMs": 45440,
+        "endMs": 46010
+      },
+      {
+        "text": "зенитные",
+        "startMs": 46010,
+        "endMs": 46460
+      },
+      {
+        "text": "фонари,",
+        "startMs": 46460,
+        "endMs": 46810
+      },
+      {
+        "text": "которые",
+        "startMs": 46810,
+        "endMs": 47120
+      },
+      {
+        "text": "мы",
+        "startMs": 47120,
+        "endMs": 47220
+      },
+      {
+        "text": "реализовали",
+        "startMs": 47220,
+        "endMs": 47790
+      },
+      {
+        "text": "на",
+        "startMs": 47790,
+        "endMs": 47900
+      },
+      {
+        "text": "кровле",
+        "startMs": 47900,
+        "endMs": 48220
+      },
+      {
+        "text": "да?",
+        "startMs": 48220,
+        "endMs": 48500
+      },
+      {
+        "text": "Мы",
+        "startMs": 48500,
+        "endMs": 48640
+      },
+      {
+        "text": "подсъемочку",
+        "startMs": 48640,
+        "endMs": 49420
+      },
+      {
+        "text": "сделаем",
+        "startMs": 49420,
+        "endMs": 49920
+      },
+      {
+        "text": "сейчас.",
+        "startMs": 49920,
+        "endMs": 50500
+      },
+      {
+        "text": "Небольшую,",
+        "startMs": 50500,
+        "endMs": 51190
+      },
+      {
+        "text": "небольшую,",
+        "startMs": 51190,
+        "endMs": 51730
+      },
+      {
+        "text": "потому",
+        "startMs": 51730,
+        "endMs": 52110
+      },
+      {
+        "text": "что",
+        "startMs": 52110,
+        "endMs": 52360
+      },
+      {
+        "text": "я",
+        "startMs": 52360,
+        "endMs": 52360
+      },
+      {
+        "text": "оставлю",
+        "startMs": 52360,
+        "endMs": 52830
+      },
+      {
+        "text": "контакты",
+        "startMs": 52830,
+        "endMs": 53300
+      },
+      {
+        "text": "и",
+        "startMs": 53300,
+        "endMs": 53360
+      },
+      {
+        "text": "ссылочку",
+        "startMs": 53360,
+        "endMs": 53960
+      },
+      {
+        "text": "на",
+        "startMs": 53960,
+        "endMs": 53980
+      },
+      {
+        "text": "инсту.",
+        "startMs": 53980,
+        "endMs": 54500
+      },
+      {
+        "text": "что",
+        "startMs": 54500,
+        "endMs": 54930
+      },
+      {
+        "text": "касается",
+        "startMs": 54930,
+        "endMs": 55960
+      },
+      {
+        "text": "окон",
+        "startMs": 55960,
+        "endMs": 56570
+      },
+      {
+        "text": "каких-то",
+        "startMs": 56570,
+        "endMs": 56600
+      },
+      {
+        "text": "профилей",
+        "startMs": 56600,
+        "endMs": 56740
+      },
+      {
+        "text": "крутых",
+        "startMs": 56740,
+        "endMs": 57120
+      },
+      {
+        "text": "туда",
+        "startMs": 57120,
+        "endMs": 57380
+      },
+      {
+        "text": "напишите",
+        "startMs": 57380,
+        "endMs": 57910
+      },
+      {
+        "text": "там",
+        "startMs": 57910,
+        "endMs": 58080
+      },
+      {
+        "text": "все",
+        "startMs": 58080,
+        "endMs": 58270
+      },
+      {
+        "text": "покажут",
+        "startMs": 58270,
+        "endMs": 58700
+      }
+    ]
+  },
+  "reels": [
+    {
+      "id": "smart-window2",
+      "title": "Окно открывается само",
+      "music": "music6.mp3",
+      "series": {
+        "title": "ОКНО САМО\nОТКРЫВАЕТСЯ",
+        "location": "Новосибирск",
+        "sub": "Умные окна · Open Village"
+      },
+      "accents": [
+        {
+          "atMs": 7200,
+          "durMs": 1800,
+          "mag": 0.12
+        },
+        {
+          "atMs": 9150,
+          "durMs": 1200,
+          "mag": 0.13
+        },
+        {
+          "atMs": 19300,
+          "durMs": 1600,
+          "mag": 0.11
+        },
+        {
+          "atMs": 31450,
+          "durMs": 1600,
+          "mag": 0.1
+        }
+      ],
+      "gifs": [
+        {
+          "src": "lightning2",
+          "atMs": 8950,
+          "durMs": 2200,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 240,
+          "label": "нажал — открыл"
+        },
+        {
+          "src": "house2",
+          "atMs": 18900,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "умный дом"
+        },
+        {
+          "src": "rocket2",
+          "atMs": 22700,
+          "durMs": 2600,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 240,
+          "label": "любая задача"
+        },
+        {
+          "src": "sparkle2",
+          "atMs": 31150,
+          "durMs": 2400,
+          "mode": "sticker",
+          "pos": "tr",
+          "size": 230,
+          "label": "премиум"
+        },
+        {
+          "src": "thumbup2",
+          "atMs": 35400,
+          "durMs": 2200,
+          "mode": "sticker",
+          "pos": "bl",
+          "size": 220,
+          "label": "пишите"
+        }
+      ],
+      "items": [
+        {
+          "clip": "r8195",
+          "fromMs": 2400,
+          "toMs": 11300,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 11300,
+          "toMs": 14400,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": "whoosh",
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 15000,
+          "toMs": 23400,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 23900,
+          "toMs": 27100,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 36500,
+          "toMs": 43600,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 44000,
+          "toMs": 48200,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        },
+        {
+          "clip": "r8195",
+          "fromMs": 54500,
+          "toMs": 58700,
+          "rate": 1,
+          "volume": 1,
+          "slow": false,
+          "sfx": null,
+          "captionToMs": null
+        }
+      ]
+    }
+  ]
+}
