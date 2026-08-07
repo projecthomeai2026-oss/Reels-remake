@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 data/tmp/*
 !data/tmp/.gitkeep
+
+remotion/node_modules/
+remotion/.remotion/
+remotion/public/input/*
+!remotion/public/input/.gitkeep
