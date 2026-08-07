@@ -4,6 +4,7 @@ from aiogram import F, Router
 from aiogram.types import FSInputFile, Message
 
 from bot.config import TMP_DIR
+from bot.services.gif_overlay import GifOverlayError, add_gif_overlay
 from bot.services.music import MusicMixError, add_background_music
 from bot.services.remotion_renderer import RemotionRenderError, add_caption
 from bot.services.subtitles import burn_subtitles
@@ -11,7 +12,12 @@ from bot.services.video_processor import VideoProcessingError, to_reels_format
 
 router = Router()
 
-ProcessingError = (VideoProcessingError, RemotionRenderError, MusicMixError)
+ProcessingError = (
+    VideoProcessingError,
+    RemotionRenderError,
+    MusicMixError,
+    GifOverlayError,
+)
 
 
 @router.message(F.video | (F.document & F.document.mime_type.startswith("video/")))
@@ -24,12 +30,14 @@ async def handle_video(message: Message) -> None:
     reels_path = TMP_DIR / f"{job_id}_2_reels.mp4"
     captioned_path = TMP_DIR / f"{job_id}_3_captioned.mp4"
     subtitled_path = TMP_DIR / f"{job_id}_4_subtitled.mp4"
-    final_path = TMP_DIR / f"{job_id}_5_final.mp4"
+    gif_path = TMP_DIR / f"{job_id}_5_gif.mp4"
+    final_path = TMP_DIR / f"{job_id}_6_final.mp4"
     all_temp_paths = [
         source_path,
         reels_path,
         captioned_path,
         subtitled_path,
+        gif_path,
         final_path,
     ]
 
@@ -49,12 +57,15 @@ async def handle_video(message: Message) -> None:
         if await burn_subtitles(result_path, subtitled_path):
             result_path = subtitled_path
 
+        if await add_gif_overlay(result_path, gif_path, query=caption):
+            result_path = gif_path
+
         await add_background_music(result_path, final_path)
         result_path = final_path
 
         await message.answer_video(
             FSInputFile(result_path),
-            caption="Готово! Вертикальный формат, субтитры и музыка добавлены.",
+            caption="Готово! Вертикальный формат, субтитры, гифка и музыка добавлены.",
         )
     except ProcessingError:
         await message.answer("Не удалось обработать видео — попробуйте другой файл.")

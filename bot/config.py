@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
+GIPHY_API_KEY = os.environ.get("GIPHY_API_KEY")
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 TMP_DIR = BASE_DIR / "data" / "tmp"
